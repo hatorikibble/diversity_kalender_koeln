@@ -2,17 +2,14 @@ package main
 
 import (
 	"bytes"
-	"encoding/csv"
 	"encoding/json"
 	"fmt"
-	"io"
+	"io/ioutil"
 	"log"
 	"math/rand"
+	"net/http"
 	"net/url"
 	"os"
-	"os/signal"
-	"strings"
-	"syscall"
 	"text/template"
 	"time"
 )
@@ -24,22 +21,21 @@ type Configuration struct {
 	// Twitter_access_token_secret string
 	// Twitter_consumer_key        string
 	// Twitter_consumer_secret     string
-	Sleep_time_in_hours         int
-	Sleep_time_margin_in_hours  int
-	Debug int
+	Api_url string
+	Debug   int
 }
 
 type Feiertag struct {
-	Datum       string
-	Bezeichnung string
-	Religion    string
+	Date     string
+	Name     string
+	Religion string
 }
 
 var configuration Configuration
 var logger *log.Logger
 var logfile *os.File
 
-func init_bot() {
+func init() {
 
 	// config
 	file, _ := os.Open("config.json")
@@ -66,47 +62,40 @@ func check(e error) {
 	}
 }
 
-func read_sourcefile() {
-	f, err := os.Open(configuration.Sourcefile)
-	check(err)
-	defer f.Close()
+func check_current_date() {
 
 	current_time := time.Now()
-	time_string := current_time.Format("02.01.2006")
+	date_string := current_time.Format("02.01.2006")
 	// debug
-	time_string = "15.02.2017"
-	logger.Printf("Today is %s", time_string)
-	lineCount := 0
+	date_string = "15.02.2017"
+	logger.Printf("Today is %s", date_string)
+	query_url := fmt.Sprintf("%s/%s", configuration.Api_url, date_string)
 
-	r := csv.NewReader(f)
-	r.Comma = ';'
+	logger.Printf("Querying %s", query_url)
+	response, err := http.Get(query_url)
+	check(err)
+	defer response.Body.Close()
+	body, err := ioutil.ReadAll(response.Body)
+	check(err)
+	feiertag := new(Feiertag)
+	err = json.Unmarshal(body, feiertag)
+	check(err)
+	logger.Printf("Feiertag '%s'", feiertag.Name)
 
-	for {
-		record, err := r.Read()
-		if err == io.EOF {
-			logger.Printf("Found %d records", lineCount)
-			break
-		} else if err != nil {
-			log.Fatal(err)
-		}
-		lineCount += 1
-		s := Feiertag{Datum: record[0], Bezeichnung: strings.TrimSpace(record[1]), Religion: record[2]}
-		if s.Datum == time_string {
-			logger.Printf("Found holiday: '%s'", s.Bezeichnung)
-			fmt.Println(create_tweet_message(s))
-		}
-		//fmt.Println(s)
+	if feiertag.Name != "" {
+		logger.Printf("Found holiday: '%s'", feiertag.Name)
+		fmt.Println(create_tweet_message(*feiertag))
 	}
 
 }
 
 func create_tweet_message(f Feiertag) string {
 	var tpl_output bytes.Buffer
-	wikisearch_url := "https://de.wikipedia.org/w/index.php?search=" + url.QueryEscape(f.Bezeichnung)
-	tweet_templates := [3]string{"Übrigens: Heute ist \"{{.Bezeichnung}}\"!",
-		"Kleine Erinnerung: heute ist \"{{.Bezeichnung}}\"!",
-		"Na? Auch fast auf \"{{.Bezeichnung}}\" vergessen?"}
-	wiki_templates := [2]string{"(Mehr Infos dazu in der Wikipedia " + wikisearch_url, "(Wikipedia weiß mehr: " + wikisearch_url}
+	wikisearch_url := "https://de.wikipedia.org/w/index.php?search=" + url.QueryEscape(f.Name)
+	tweet_templates := [3]string{"Übrigens: Heute ist \"{{.Name}}\"!",
+		"Kleine Erinnerung: heute ist \"{{.Name}}\"!",
+		"Na? Auch fast auf \"{{.Name}}\" vergessen?"}
+	wiki_templates := [2]string{"(Mehr Infos dazu in der Wikipedia " + wikisearch_url+")", "(Wikipedia weiß mehr: " + wikisearch_url+")"}
 
 	// randomisierter name, damit template neu gebaut wird
 	tmpl, err := template.New(fmt.Sprintf("tweet %d", rand.Intn(100))).Parse(tweet_templates[rand.Intn(len(tweet_templates))] + " " + wiki_templates[rand.Intn(len(wiki_templates))])
@@ -121,24 +110,6 @@ func create_tweet_message(f Feiertag) string {
 
 func main() {
 
-	// catch interrupts
-	c := make(chan os.Signal, 1)
-	signal.Notify(c, os.Interrupt)
-	signal.Notify(c, syscall.SIGTERM)
-	go func() {
-		<-c
-		logger.Print("ended...")
-		os.Exit(1)
-	}()
-
-	init_bot()
-	// infinite loop
-	for {
-
-		read_sourcefile()
-		sleep_hours := configuration.Sleep_time_in_hours + (configuration.Sleep_time_margin_in_hours - 2*rand.Intn(configuration.Sleep_time_margin_in_hours))
-		logger.Printf("Will go to sleep for %d hours..", sleep_hours)
-		time.Sleep(time.Duration(sleep_hours) * time.Hour)
-	}
+	check_current_date()
 
 }
