@@ -1,0 +1,10 @@
+{
+ 
+    "logfile" : "feiertags_bot.log",
+    "api_server" : "http://localhost:6767",
+    "twitter_access_token" : "",
+     "twitter_access_token_secret" : ""
+     "twitter_consumer_key" : "",
+    "twitter_consumer_secret" : "",
+  "debug" : 1
+}
