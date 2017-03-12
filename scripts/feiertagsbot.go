@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/ChimeraCoder/anaconda"
 	"io/ioutil"
 	"log"
 	"math/rand"
@@ -15,20 +16,23 @@ import (
 )
 
 type Configuration struct {
-	Sourcefile string
-	Logfile    string
-	// Twitter_access_token        string
-	// Twitter_access_token_secret string
-	// Twitter_consumer_key        string
-	// Twitter_consumer_secret     string
-	Api_url string
-	Debug   int
+	Logfile                     string
+	Twitter_access_token        string
+	Twitter_access_token_secret string
+	Twitter_consumer_key        string
+	Twitter_consumer_secret     string
+	Api_server                  string
+	Debug                       int
 }
 
 type Feiertag struct {
 	Date     string
 	Name     string
 	Religion string
+}
+
+type Status struct {
+	Status string `json:"status"`
 }
 
 var configuration Configuration
@@ -53,6 +57,30 @@ func init() {
 	// init random generator
 	rand.Seed(time.Now().UnixNano())
 
+	// check webservice
+	check_webservice()
+
+}
+
+// check_webservice checks if webservice is up
+func check_webservice() {
+	query_url := fmt.Sprintf("%s/health", configuration.Api_server)
+
+	logger.Printf("Querying %s", query_url)
+	response, err := http.Get(query_url)
+	check(err)
+	defer response.Body.Close()
+	body, err := ioutil.ReadAll(response.Body)
+	check(err)
+	status := new(Status)
+	err = json.Unmarshal(body, status)
+	check(err)
+
+	logger.Printf("Webservice at %s is '%s'", configuration.Api_server, status.Status)
+	if status.Status != "UP" {
+		panic(fmt.Sprintf("Webservice at %s is %s", configuration.Api_server, status.Status))
+	}
+
 }
 
 // check panics if an error is detected
@@ -67,9 +95,12 @@ func check_current_date() {
 	current_time := time.Now()
 	date_string := current_time.Format("02.01.2006")
 	// debug
-	date_string = "15.02.2017"
+	if configuration.Debug == 1{
+		date_string = "15.02.2017"
+		logger.Printf("DEBUG: set date_string to  %s", date_string)
+	}
 	logger.Printf("Today is %s", date_string)
-	query_url := fmt.Sprintf("%s/%s", configuration.Api_url, date_string)
+	query_url := fmt.Sprintf("%s/holiday/%s", configuration.Api_server, date_string)
 
 	logger.Printf("Querying %s", query_url)
 	response, err := http.Get(query_url)
@@ -84,7 +115,7 @@ func check_current_date() {
 
 	if feiertag.Name != "" {
 		logger.Printf("Found holiday: '%s'", feiertag.Name)
-		fmt.Println(create_tweet_message(*feiertag))
+		tweet(create_tweet_message(*feiertag))
 	}
 
 }
@@ -95,7 +126,7 @@ func create_tweet_message(f Feiertag) string {
 	tweet_templates := [3]string{"Übrigens: Heute ist \"{{.Name}}\"!",
 		"Kleine Erinnerung: heute ist \"{{.Name}}\"!",
 		"Na? Auch fast auf \"{{.Name}}\" vergessen?"}
-	wiki_templates := [2]string{"(Mehr Infos dazu in der Wikipedia " + wikisearch_url+")", "(Wikipedia weiß mehr: " + wikisearch_url+")"}
+	wiki_templates := [2]string{"(Mehr Infos dazu in der Wikipedia " + wikisearch_url + ")", "(Wikipedia weiß mehr: " + wikisearch_url + ")"}
 
 	// randomisierter name, damit template neu gebaut wird
 	tmpl, err := template.New(fmt.Sprintf("tweet %d", rand.Intn(100))).Parse(tweet_templates[rand.Intn(len(tweet_templates))] + " " + wiki_templates[rand.Intn(len(wiki_templates))])
@@ -106,6 +137,26 @@ func create_tweet_message(f Feiertag) string {
 
 	return tpl_output.String()
 
+}
+
+func tweet(tweet_text string) {
+	// twitter api
+	anaconda.SetConsumerKey(configuration.Twitter_consumer_key)
+	anaconda.SetConsumerSecret(configuration.Twitter_consumer_secret)
+	// I don't know about any possible timeout, therefore
+	// initialize new for every tweet
+	api := anaconda.NewTwitterApi(configuration.Twitter_access_token, configuration.Twitter_access_token_secret)
+
+	if configuration.Debug == 1 {
+		logger.Printf("DEBUG-MODE! I am not posting '%s'!", tweet_text)
+	} else {
+		tweet, err := api.PostTweet(tweet_text, nil)
+		if err != nil {
+			logger.Printf("Problem posting '%s': %s", tweet_text, err)
+		} else {
+			logger.Printf("Tweet '%s' posted for user %s", tweet_text, tweet.User.ScreenName)
+		}
+	}
 }
 
 func main() {
