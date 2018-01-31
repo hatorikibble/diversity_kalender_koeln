@@ -3,1363 +3,3106 @@ VERSION:2.0
 PRODID:Data::ICal 0.22
 X-WR-CALNAME:Kölner Diversity Kalender 2017
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170102
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170101
+DESCRIPTION:(säkular) Nach gregorianischem Kalender beginnt an diesem Tag 
+ das Jahr 2018 nach Christus.
+DTEND;VALUE=DATE:20180102
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180102
 SUMMARY:Neujahr
-UID:1482873545-3964-0@milgrim
+UID:1517411776-27546-0@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sikh
-DTEND;VALUE=DATE:20170106
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170105
+DESCRIPTION:(säkular) Die Brailleschrift wird von stark Sehbehinderten und
+  Blinden benutzt\, ist also eine Blindenschrift. Sie wurde 1825 vom Franzo
+ sen Louis Braille entwickelt. Die Schrift arbeitet mit Punktmustern\, die 
+ von hinten in das Papier gepresst sind\, so dass sie als Erhöhung mit den
+  Fingerspitzen abgegriffen werden können. Das inhaltliche Angebot in Brai
+ lleschrift umfasst ein weites Spektrum unterschiedlichster Werke von klass
+ ischer und moderner Literatur\, über Fachbücher bis hinzu Zeitschriften 
+ zu unterschiedlichesten Themenbereichen. So veröffentlichte z.B. der Play
+ boy in den Jahren von 1970 bis 1985 sein Magazin auch in Brailleschrift. 
+DTEND;VALUE=DATE:20180105
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180105
+SUMMARY:Welttag der Brailleschrift
+UID:1517411776-27546-1@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Sikh) Gobind Singh wurde 1666 im indischen Patna geboren und w
+ ar der zehnte und letzte menschliche Guru des Sikhismus.
+DTEND;VALUE=DATE:20180106
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180106
 SUMMARY:Geburt Guru Gobind Singh
-UID:1482873545-3964-1@milgrim
+UID:1517411776-27546-2@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170107
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170106
-SUMMARY:Heilige drei Könige
-UID:1482873545-3964-2@milgrim
+DESCRIPTION:(christ.evan./kath.) Auch das „Fest der Erscheinung (griech.:
+  Epiphanie) des Herrn“ feiert die Geburt Jesu Christi\, doch weniger das
+  kleine Kind in der Krippe\,\nsondern die Ankunft Gottes in der Welt. In D
+ eutschland gedenkt man besonders der Heiligen Drei Könige\, die durch ihr
+ e Geschenke und\nihre Anbetung im Jesuskind den Gottessohn bekennen. In Er
+ innerung daran ziehen die „Sternsinger“\, als Könige verkleidete Kind
+ er\,\ndurch die Straßen und sammeln für Kinder in armen Ländern. C + M 
+ + B (Christus Mansionem Benedicat – Christus segne dieses Haus)\nschreib
+ en sie an die Türen.
+DTEND;VALUE=DATE:20180107
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180107
+SUMMARY:Heilige Drei Könige
+UID:1517411776-27546-3@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170107
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170106
+DESCRIPTION:(christ.evan./kath.) Am Fest der Theophanie (griech.: Erscheinu
+ ng Gottes) wird die Taufe Jesu Christi im Jordan (Mt 3\,13-17) und dabei d
+ ie Offenbarung\ndes dreieinigen Gottes gefeiert. 
+DTEND;VALUE=DATE:20180107
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180107
 SUMMARY:Theophanie
-UID:1482873545-3964-3@milgrim
+UID:1517411776-27546-4@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170108
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170107
-SUMMARY:Weihnachten
-UID:1482873545-3964-4@milgrim
+DESCRIPTION:(armenisch) Die Christen feiern die Geburt Jesu Christi in Beth
+ lehem. Die armenische Kirche richtet sich bei ihrem Weihnachtsfest nach  T
+ heophanie am 6. Januar. Dieses Fest ist älter als das Weihnachtsfest.
+DTEND;VALUE=DATE:20180107
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180107
+SUMMARY:Weihnachten / ????? ?????? ? ????????????
+UID:1517411776-27546-5@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170114
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170113
-SUMMARY:Pongalfest der Tamilen (bis 16.01.)
-UID:1482873545-3964-5@milgrim
+DESCRIPTION:(christ.ortho./altorient.) Zwei Tage lang feiern die Christen d
+ ie Geburt Jesu Christi in Bethlehem. Die orthodoxen Kirchen richten sich n
+ ach dem Julianischen Kalender  – die Altkalendarier –\, dazu gehören 
+ z. B. die russische\, weißrussische\, ukrainische\, serbische\, mazedonis
+ che\, georgische und jerusalemitische Kirche\, sowie die Klöster auf dem 
+ Berge Athos. Sie begehen alle festliegenden Feiertageim Zeitraum der Jahre
+  1900 bis 2100 jeweils 13 Tage später als die westlichen Kirchen und die 
+ orthodoxen Neukalendarier. Die östlichen Kirchen stellten von jeher die T
+ heophanie  am 6. Januar in den Mittelpunkt. Sie ist älter als das Weihnac
+ htsfest.
+DTEND;VALUE=DATE:20180108
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180108
+SUMMARY:Weihnachten 
+UID:1517411776-27546-6@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich-orthodox
-DTEND;VALUE=DATE:20170120
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170119
+DESCRIPTION:(christ.ortho./altorient.) Zwei Tage lang feiern die Christen d
+ ie Geburt Jesu Christi in Bethlehem. Die orthodoxen Kirchen richten sich n
+ ach dem Julianischen Kalender  – die Altkalendarier –\, dazu gehören 
+ z. B. die russische\, weißrussische\, ukrainische\, serbische\, mazedonis
+ che\, georgische und jerusalemitische Kirche\, sowie die Klöster auf dem 
+ Berge Athos. Sie begehen alle festliegenden Feiertageim Zeitraum der Jahre
+  1900 bis 2100 jeweils 13 Tage später als die westlichen Kirchen und die 
+ orthodoxen Neukalendarier.
+DTEND;VALUE=DATE:20180109
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180109
+SUMMARY:1.Weihnachtsfeiertag
+UID:1517411776-27546-7@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Pongal und Markar Sankranti (Sonnenwende) sind F
+ este\, an denen besonders für die Zuckerrohrernte gedankt wird. Man kocht
+  und verteilt\nsüße Milchreisspeisen. „Pongal“ heißt „überkochen
+ d“. Feindschaften werden beendet\, Kindern Schutz gewährt und des Wette
+ rgottes\nIndra gedacht.
+DTEND;VALUE=DATE:20180116
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180114
+SUMMARY:Pongalfest der Tamilen 
+UID:1517411776-27546-8@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.ortho.) Am Fest der Theophanie (griech.: Erscheinung Go
+ ttes) wird die Taufe Jesu Christi im Jordan (Mt 3\,13-17) und dabei die Of
+ fenbarung\ndes dreieinigen Gottes gefeiert. Nach orthodoxem Verständnis w
+ urde durch das Eintauchen Christi in das Wasser dieses und die ganze\nSch�
+ �pfung geheiligt. An diesem Tag wird die Wasserweihe (Segnung der Flüsse\
+ , Seen\, des Meeres und des Wassers allgemein) vollzogen.
+DTEND;VALUE=DATE:20180120
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180120
 SUMMARY:Theophanie
-UID:1482873545-3964-6@milgrim
+UID:1517411776-27546-9@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170128
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170127
-SUMMARY:Gedenktag für die Opfer des Nationalsozialismus
-UID:1482873545-3964-7@milgrim
+DESCRIPTION:(hinduistisch) Fest zum Frühlingsbeginn und der Beginn des Dra
+ chensteigens. Sarasvati\, die Göttin der Gelehrsamkeit\, Weisheit\, Musik
+  und Kunst wird\nverehrt.
+DTEND;VALUE=DATE:20180123
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180123
+SUMMARY:Vasant Rangapancami/Sarasvati Puja
+UID:1517411776-27546-10@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170129
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170128
-SUMMARY:Vietnamesisches und chinesisches Neujahr
-UID:1482873545-3964-8@milgrim
+DESCRIPTION:(säkular) Der damalige Bundespräsident Roman Herzog erklärte
+  im Jahr 1996 den 27. Januar als Jahrestag der Befreiung der Überlebenden
+  aus dem Konzentrationslager Auschwitz zum Tag des Gedenkens an die Opfer 
+ des Nationalsozialismus. 2005 wurde der Tag durch die Vereinten Nationen z
+ um Internationalen Tag erklärt\, der an alle Menschen erinnern soll\, die
+  unter der nationalsozialistischen Gewaltherrschaft entrechtet\, verfolgt\
+ , gequält und ermordet wurden. In Köln gibt es seit 1998 den Jugend- und
+  Schülergedenktag. Schülerinnen und Schülern befassen sich in informati
+ ven\, oft sehr bewegenden Beiträgen unter ganz unterschiedlichen Perspekt
+ iven mit dem Nationalsozialismus und dem Gedenken an die Opfer der NS-Herr
+ schaft. Die Ergebnisse werden jedes Jahr am 27. Januar in einem Bühnenpro
+ gramm und einer Ausstellung vorgestellt.
+DTEND;VALUE=DATE:20180128
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180128
+SUMMARY:Internationale Tag des Gedenkens an die Opfer des Holocaust 
+UID:1517411776-27546-11@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170202
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170201
-SUMMARY:Vasant Panchami / Sarasvati Puja
-UID:1482873545-3964-9@milgrim
+DESCRIPTION:(christ.ortho./altorientl.) Ein dreitägiger Fastenbrauch in de
+ r Syrisch-Orthodoxen und der Koptischen Kirche\, der an die Stadt Ninive e
+ rinnert. Deren Bewohner\nbaten durch ein Fasten um Vergebung ihrer Sünden
+ . Sie werden als Vorbild genommen\, weil sie auf die Warnung Gottes durch 
+ den Mund\ndes Propheten Jona hörten.
+DTEND;VALUE=DATE:20180201
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180129
+SUMMARY:Ninive-Fasten
+UID:1517411776-27546-12@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170203
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170202
-SUMMARY:Darstellung des Herrn im Tempel
-UID:1482873545-3964-10@milgrim
+DESCRIPTION:(jüdisch) Das Neujahr der Bäume: Wörtlich bezeichnet das Fes
+ t den fünfzehnten Tag des Monats Schwat. Es wird der Natur\, die aus dem\
+ nWinterschlaf erwacht\, gedacht. In Israel begeht man ihn heute mit allen 
+ Schulkindern\, die an diesem Tag insbesondere neue Bäume\npflanzen und au
+ ch außerhalb Israels pflanzen Juden Bäume an. Es ist üblich\, besonders
+  viele verschiedene Früchte zu essen.
+DTEND;VALUE=DATE:20180201
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180201
+SUMMARY:Tu biSchevat / ??? ???? ??????? 
+UID:1517411776-27546-13@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20170208
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170207
-SUMMARY:Hizir-Fastenzeit (bis 09.02.) 
-UID:1482873545-3964-11@milgrim
+DESCRIPTION:(christ.evan./kath.) Das Fest wird vierzig Tage nach Weihnachte
+ n als Abschluss der Weihnachtszeit gefeiert. Frauen galten vierzig Tage na
+ ch einer Geburt\nals rituell unrein. Aus diesem Grund pilgerte Maria zu ih
+ rer „Reinigung“ in den Tempel nach Jerusalem. Jesus wurde zum Priester
+ \ngebracht und vor Gott „dargestellt“. Im Tempel priesen der Alte Sime
+ on und die Prophetin Hanna das Kind als den Erlöser. In den\nAltorientali
+ schen Kirchen folgt der Eucharistiefeier eine Prozession.
+DTEND;VALUE=DATE:20180203
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180203
+SUMMARY:Darstellung des Herrn im Tempel (Lichtmess)
+UID:1517411776-27546-14@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170215
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170214
-SUMMARY:St. Valentin
-UID:1482873545-3964-12@milgrim
+DESCRIPTION:(alevitisch) H?z?r ist der unsterbliche Heilige\, der allen in 
+ Not zur Hilfe kommt und meist mit den Worten „Eile herbei\, H?z?r!“ ge
+ rufen wird. Die zweite Februarwoche wird als die „Woche von H?z?r“ gef
+ eiert. Drei Tage lang (Dienstag\, Mittwoch und Donnerstag) wird gefastet. 
+ Eine spezielle Speise (Kavut) aus Weizen wird am letzten Abend vorbereitet
+ \, die über Nacht ruht. Jedes Familienmitglied wünscht sich etwas Besond
+ eres. Man glaubt\, dass die Wünsche in Erfüllung gehen\, wenn H?z?r übe
+ r Nacht von der Speise kostet oder ein Zeichen (Segen) darauf hinterlässt
+ . Am Abend werden die vorbereiteten Speisen an den heiligen Gedenkstätten
+  bzw. Cemhäusern mit allen Besuchern gemeinsam genossen.
+DTEND;VALUE=DATE:20180208
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180206
+SUMMARY:H?z?r-Fasten
+UID:1517411776-27546-15@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich-orthodox
-DTEND;VALUE=DATE:20170216
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170215
-SUMMARY:Darstellung des Herrn im Tempel 
-UID:1482873545-3964-13@milgrim
+DESCRIPTION:(säkular) Weiberfastnacht markiert den Übergang vom Sitzungs-
+  zum Straßenkarneval am Donnerstag vor Aschermittwoch. Gemein ist allen B
+ räuchen zur Weiberfastnacht\, dass den Frauen für einen Tag die Macht zu
+ gestanden wird. Diese Idee gibt es seit dem Mittelalter. In einer Zeit\, a
+ ls die Frauen den Männern in allem untergeordnet waren und die Männer ü
+ ber die Frauen die Geschlechtsvormundschaft ausübten\, galt es als „ver
+ kehrte Welt“\, wenn den Frauen die Macht überlassen wurde. Im gesamten 
+ Rheinland gilt Weiberfastnacht als inoffizieller Feiertag\, an den meisten
+  Arbeitsplätzen wird ab mittags nicht mehr gearbeitet. Die Feiern beginne
+ n meist um 11:11 Uhr. Im Unterschied zum Rosenmontag und den anderen Tagen
+  gibt es in der Regel an Weiberfastnacht keine Umzüge\, es wird kostümie
+ rt in den Kneipen und auf den Straßen gefeiert. Es ist an diesem Tag seit
+  Mitte des 20. Jahrhunderts Brauch\, dass Frauen den Männern die Krawatte
+  als Symbol der männlichen Macht abschneiden. Sofern der Träger der Kraw
+ atte dem Abschneiden nicht zuvor zugestimmt hat\, kann eine Eigentumsverle
+ tzung vorliegen\, wie das Amtsgericht Essen zugunsten eines Klägers entsc
+ hied.
+DTEND;VALUE=DATE:20180209
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180209
+SUMMARY:Weiberfastnacht / Wieverfastelovend
+UID:1517411776-27546-16@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170216
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170215
-SUMMARY:Parinirvama Day 
-UID:1482873545-3964-14@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170221
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170220
-SUMMARY:Welttag der sozialen Gerechtigkeit
-UID:1482873545-3964-15@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170222
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170221
-SUMMARY:Internationaler Tag der Muttersprache
-UID:1482873545-3964-16@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170224
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170223
-SUMMARY:Weiberfastnacht
-UID:1482873545-3964-17@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170226
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170225
-SUMMARY:Maha Shivarati 
-UID:1482873545-3964-18@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170226
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170225
-SUMMARY:Aiyam-e Ha‘ 
-UID:1482873545-3964-19@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170228
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170227
-SUMMARY:Tibetisches Neujahr
-UID:1482873545-3964-20@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170228
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170227
+DESCRIPTION:(säkular) Der Rosenmontag wird insbesondere im rheinischen Kar
+ neval als Höhepunkt der Karnevalszeit\, oft mit dem so genannten Rosenmon
+ tagszug\, begangen. Er fällt auf Montag vor dem Aschermittwoch\; 48 Tage 
+ vor dem Ostersonntag. Der erste organisierte Karnevalszug fand am 10. Febr
+ uar 1823 in Köln statt. Von Köln aus verbreitete sich das Rosenmontagsda
+ tum bald im gesamten deutschen Fastnachtsbrauchtum. Der erste Düsseldorfe
+ r Rosenmontagszug startete am 14. Februar 1825\, der erste Rosenmontagszug
+  in Mainz ging am 26. Februar 1838.
+DTEND;VALUE=DATE:20180213
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180213
 SUMMARY:Rosenmontag
-UID:1482873545-3964-21@milgrim
+UID:1517411776-27546-17@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170301
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170228
+DESCRIPTION:(säkular) Der Veilchendienstag (auch Faschingsdienstag\, Karne
+ valsdienstag) ist die Bezeichnung für den letzten der Karnevalstage. Um M
+ itternacht in der Nacht zum Aschermittwoch gibt es zahlreiche Rituale\, mi
+ t denen die Karnevalsfeierlichkeiten beendet werden. Hierzu gehören die N
+ ubbelverbrennungen\, aber auch die symbolische Beerdigung von Karneval.
+DTEND;VALUE=DATE:20180214
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180214
 SUMMARY:Veilchendienstag
-UID:1482873545-3964-22@milgrim
+UID:1517411776-27546-18@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170302
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170301
+DESCRIPTION:(christ.evan./kath.) Mit diesem Tag beginnt die vierzigtägige 
+ Vorbereitungszeit auf Ostern\, die als Fasten- oder Passionszeit gilt\, d.
+ h. mit Verzicht\, Gebet und\nguten Werken bereiten sich die Gläubigen auf
+  den Leidensweg Jesu vor. Die 40 Tage haben ihr Vorbild in Jesus selbst\, 
+ der auch 40 Tage\nund Nächte in der Wüste fastete. An Sonntagen wird nic
+ ht gefastet. Diese Zeit ist von Umkehr und Buße geprägt. Nach katholisch
+ er\nTradition erhalten die Gläubigen am Aschermittwoch ein Aschekreuz auf
+  die Stirn.
+DTEND;VALUE=DATE:20180215
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180215
 SUMMARY:Aschermittwoch
-UID:1482873545-3964-23@milgrim
+UID:1517411776-27546-19@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170302
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170301
-SUMMARY:Beginn der Fastenzeit (bis 15.04.) 
-UID:1482873545-3964-24@milgrim
+DESCRIPTION:(christ.evan./kath.) Das Christentum kennt vornehmlich die 40 T
+ age der Fastenzeit\, die der Vorbereitung auf Ostern dienen und an die 40 
+ Tage erinnern\, die Jesus Christus fastend und betend in der Wüste verbra
+ chte. 
+DTEND;VALUE=DATE:20180329
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180214
+SUMMARY:Beginn der Fastenzeit
+UID:1517411776-27546-20@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170302
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170301
-SUMMARY:Beginn Fastenmonat Ala (bis 19.03.) 
-UID:1482873545-3964-25@milgrim
+DESCRIPTION:(hinduistisch) Die große Nacht Shivas\, in der er den Tanz der
+  ursprünglichen Schöpfung\, Erhaltung und Zerstörung tanzt und sich mit
+  Parvati vermählt.
+DTEND;VALUE=DATE:20180215
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180215
+SUMMARY:Maha Shivarati
+UID:1517411776-27546-21@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170309
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170308
-SUMMARY:Internationaler Tag der Frauen
-UID:1482873545-3964-26@milgrim
+DESCRIPTION:(säkular) Der Ursprung des Tags ist in mehreren Varianten übe
+ rliefert\, die sich nicht mehr genau prüfen lassen. Besonders häufig wir
+ d er Valentin von Terni zugeschrieben. Valentin soll als Priester Paare tr
+ otz des Verbots durch Kaiser Claudius II. nach kirchlichem Ritus getraut h
+ aben. Dabei soll er den Paaren auch Blumen aus seinem Garten geschenkt hab
+ en - was sich heute im Brauchtum am Valentinstag wiederfindet.  Der 14. Fe
+ bruar galt im Volksglauben auch als einer der sogenannten Lostage\, denen 
+ zukunftsbestimmende Bedeutung im Guten wie im Schlechten zugeschrieben wur
+ de. Seit dem 15. Jahrhundert wurden in England Valentinspaare gebildet\, d
+ ie sich kleine Geschenke oder Gedichte schicken. Die Paare bildeten sich d
+ urch Losen am Vorabend oder durch den ersten Kontakt am Valentinstag. Engl
+ ische Auswanderer nahmen den Valentinsbrauch mit in die Vereinigten Staate
+ n\, und er kam so durch US-Soldaten nach dem Zweiten Weltkrieg in den west
+ lichen Teil Deutschlands. Allgemein bekannt wurde der Valentinstag durch d
+ ie vor dem 14. Februar verstärkt einsetzende Werbung der Floristen und de
+ r Süßwarenindustrie.
+DTEND;VALUE=DATE:20180215
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180215
+SUMMARY:St. Valentin
+UID:1517411776-27546-22@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170313
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170312
-SUMMARY:Purimfest
-UID:1482873545-3964-27@milgrim
+DESCRIPTION:(christ.ortho./altorientl.) Das Fest wird vierzig Tage nach Wei
+ hnachten als Abschluss der Weihnachtszeit gefeiert. Frauen galten vierzig 
+ Tage nach einer Geburt\nals rituell unrein. Aus diesem Grund pilgerte Mari
+ a zu ihrer „Reinigung“ in den Tempel nach Jerusalem. Jesus wurde zum P
+ riester\ngebracht und vor Gott „dargestellt“. Im Tempel priesen der Al
+ te Simeon und die Prophetin Hanna das Kind als den Erlöser. In den\nAltor
+ ientalischen Kirchen folgt der Eucharistiefeier eine Prozession.
+DTEND;VALUE=DATE:20180216
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180216
+SUMMARY:Darstellung des Herrn im Tempel (Lichtmess)
+UID:1517411776-27546-23@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sikh
-DTEND;VALUE=DATE:20170314
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170313
-SUMMARY:Hola Mohalla 
-UID:1482873545-3964-28@milgrim
+DESCRIPTION:(buddhistisch) An diesem Tag feiern Buddhisten den Todestag des
+  historischen Buddhas bzw. sein Übergehen ins Nirvana. Parinirvana ein Sy
+ nonym für Nirvana bedeutet übersetzt das Erlöschen des Buddha. Unter di
+ esem Tag ist kein gewöhnlicher Trauertag vorzustellen\, sondern vielmehr 
+ ein Feiertag der buddhistischen Glaubensrichtung. Buddha erreichte an dies
+ em Tag das Parinirvana\, über den Tod seines physischen Körpers und ist 
+ damit vom einen Zustand in den nächsten übergegangen. Eines seiner letzt
+ en Zitate vor seinem Tod war: "Alle Dinge sind dem Verfall unterworfen. St
+ rebt eure Befreiung mit Gewissenhaftigkeit an". Gläubige nutzen diesen Ta
+ g als Gelegenheit zur Besinnung\, indem Sie sich in Tempeln und Klöstern 
+ zurückziehen und meditieren.
+DTEND;VALUE=DATE:20180216
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180216
+SUMMARY:Parinirvana Day
+UID:1517411776-27546-24@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170314
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170313
+DESCRIPTION:(buddhistisch) Dieser Tag\, der auch Fest des Morgens oder Frü
+ hlingsfest genannt wird\, stellt den wichtigsten vietnamesischen sowie chi
+ nesischen Feiertag dar. Nach dem Mondkalender handelt es  sich hierbei um 
+ das Fest des neuen Jahres. Dieser beginnt am ersten Tag des ersten Monats 
+ des chinesischen Mondkalendars und wird in der Regel bis zum 15. Tag gefei
+ ert. Mit dem Neujahrsbeginn beginnt auch die Frühlingszeit\, weshalb viel
+  Wert auf Dekoration gelegt wird\, wie z.B. einem Neujahrsbaum oder dem Be
+ schmücken von Häusern und Straßen. An diesem Tag besuchen landesweit Os
+ tasiaten traditionell Tempel und ihre Familien. Gemeinsam werden Festspeis
+ en zubereitet und gefeiert. 
+DTEND;VALUE=DATE:20180217
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180217
+SUMMARY:Vietnamesisches und chinesisches Neujahr
+UID:1517411776-27546-25@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Auf Vorschlag der UNESCO haben die Vereinten Natione
+ n den 21. Februar als Internationalen Tag der Muttersprache ausgerufen. Er
+  wird seit 2000 jährlich begangen. Von den rund 6.000 Sprachen\, die heut
+ e weltweit gesprochen werden\, sind nach Einschätzung der UNESCO die Häl
+ fte vom Verschwinden bedroht. Sprachliche und kulturelle Vielfalt repräse
+ ntieren universelle Werte\, die Einheit und Zusammenhalt einer Gesellschaf
+ t stärken. Der Internationale Tag der Muttersprache erinnert an die Bedeu
+ tung des Kulturgutes Sprache. Er soll die Sprachenvielfalt und den Gebrauc
+ h der Muttersprache fördern und das Bewusstsein für sprachliche und kult
+ urelle Traditionen stärken. Historisch nimmt der Tag der Muttersprache Be
+ zug auf den 21. Februar 1952. Damals fand in Dhaka\, der Hauptstadt des da
+ maligen Ost-Pakistan\, eine Demonstration gegen den Beschluss der Regierun
+ g statt\, die Sprache Urdu zur Amtssprache zu erheben. (https://www.unesco
+ .de/kultur/welttage/welttag-muttersprache.html)
+DTEND;VALUE=DATE:20180222
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180222
+SUMMARY:Internationaler Tag der Muttersprache
+UID:1517411776-27546-26@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Die Ayyam-i-ha sind ein fester Bestandeil des Bahá'í-
+ Kalenders. Der Baha'í-Kalender beruht auf dem Sonnenjahr und beginnt jäh
+ rlich zur Frühlings-Tag-und-Nachtgleiche. Dreh- und Angelpunkt der Konstr
+ uktion des Kalenders ist die Zahl 19. Entsprechend kennt der Bahá'i-Kalen
+ der 19 Monate mit je 19 Tagen\, wobei ein Kalendertag mit dem Sonnenunterg
+ ang des vorangehenden Tages beginnt. Die Ayyam-i-Há sind die eingeschoben
+ en Tage\, die zunächst dazu dienen den Kalender regelmäßig an das Sonne
+ njahr anzugleichen. Nach diesem Kalendersystem der Bahá'i fallen die Ayya
+ m-i-Há (vier bzw. fünf in Schaltjahren) in die Zeit zwischen dem 18. und
+  dem 19. Monat und liegen nach dem gregorianischen Kalender Ende Februar u
+ nd Anfang März. Neben dem rein "ordnenden"\, also dem kalendarischen Sinn
+ \, haben die Ayyam-i-Há darüber hinaus einen religiösen und symbolische
+ n Wert und sind vor allem der Gastfreundschaft und der Fürsorge anderen M
+ enschen gegenüber gewidmet und sind zugleich Geschenktage. Sie dienen auc
+ h der Vorbereitung auf die neunzehntägige Fastenzeit\, die sich direkt an
+ schließt 19 Tage (den letzten Bahá'í-Monat) dauert.
+DTEND;VALUE=DATE:20180301
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180225
+SUMMARY:Ayyám-i-Há
+UID:1517411776-27546-27@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Ins Deutsche übersetzt\, bedeutet "Losar" Neuja
+ hr. Vom 16. bis zum 18. Februar diesen Jahres feiert man speziell in Tibet
+  den Beginn eines neuen Lebens\, indem beispielsweise Familien neue Klamot
+ ten kaufen\, Streitigkeiten beigelegt oder auch Schulden beglichen werden.
+  Am ersten Tag des Losarfests wird überwiegend in der Familie gefeiert. H
+ äufig werden Speisen zuerst in einer Tsog-Puja den Buddhas dargeboten. De
+ r zweite Tag ist religiösen Dingen gewidmet\, große Thankas (sakrale Sto
+ ffbilder) werden in den Klöstern ausgehängt\, Cham-Tänze bewundert und 
+ an Klosterzeremonien teilgenommen. Am dritten Tag wird in der Öffentlichk
+ eit gefeiert\, meist unter freiem Himmel. Da dem Geburstag in der Kultur d
+ er Tibeter nicht so viel Bedeutung zugesprochen wird\, feiert man i. d. R.
+  zu Losar auch Geburtstag und wird ein Jahr älter.
+DTEND;VALUE=DATE:20180228
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180228
+SUMMARY:Tibetisches Neujahr - Losar
+UID:1517411776-27546-28@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) Als die Juden nach der Zerstörung des ersten Tempel
+ s in Persien lebten\, versuchte ein Minister (Haman)\, den König dazu zu 
+ bringen\, alle Juden umzubringen. Dieser war allerdings mit Esther verheir
+ atet (von der er anfangs nicht wußte\, dass sie Jüdin war)\, die zusamme
+ n mit ihrem Onkel (Mordechai) das Komplott verhinderte. Die Gebote dieses 
+ Tages sehen neben der Vorlesung der Geschichte aus der „Rolle Esther“ 
+ (Megilath Esther) u.a. die Verteilung des traditionellen Gebäcks (Hamanta
+ schen) an Bedürftige und Freunde vor. Üblich ist es\, dass die Kinder si
+ ch an diesem Tag verkleiden und die Gemeinde fröhlich feiert. Der Tag vor
+  Purim ist ein Fastentag.
+DTEND;VALUE=DATE:20180302
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180302
+SUMMARY:Purimfest / ?????
+UID:1517411776-27546-29@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Während der neunzehntägigen Fastenzeit enthalten sich
+  Bahá’í von Sonnenaufgang bis Sonnenuntergang von Speisen und Getränk
+ en.
+DTEND;VALUE=DATE:20180320
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180302
+SUMMARY:Beginn Fastenmonat Ala
+UID:1517411776-27546-30@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Geburtstag des Gelehrten und Heiligen Chaitanya 
+ (1486-1534)\, der als die Verkörperung der Liebe von Radha zu Krishna gil
+ t\, in\nWestbengalen Tausende mit dieser Bhakti (Liebe/Hingabe zu Gott) an
+ steckte und Kastenunterschiede ablehnte.\nHoli\, das Fest der Farben dauer
+ t je nach Region 2-10 Tage. Am ersten Tag wird eine Strohpuppe des Dämone
+ n Holika verbrannt. Am\nzweiten Tag besprenkeln sich die Menschen gegensei
+ tig mit gefärbtem Pulver oder Wasser. Dabei werden alle Kasten-\, Alters-
+  und\nGeschlechtsunterschiede aufgehoben.
+DTEND;VALUE=DATE:20180303
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180303
 SUMMARY:Holifest
-UID:1482873545-3964-29@milgrim
+UID:1517411776-27546-31@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sikh
-DTEND;VALUE=DATE:20170315
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170314
-SUMMARY:Neujahr der Sikhs 
-UID:1482873545-3964-30@milgrim
+DESCRIPTION:(sikh) Das Festival Hola Mohalla wird in der heiligen Sikh-Stad
+ t Anandpur Sahib im Bundesstaat Punjab am Schrein von Keshgarh Sahib gefei
+ ert. 1699 soll Guru Gobind Singh Ji hier fünf Männer getauft und die Bru
+ derschaft Khalsa Panth gegründet haben\, auf welcher der heutige Sikh-Gla
+ ube beruht. Drei Tage lang finden Schaukämpfe statt. Besonders in Aktion 
+ sind dabei die kriegerischen Nihang.
+DTEND;VALUE=DATE:20180304
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180302
+SUMMARY:Hola Mohalla
+UID:1517411776-27546-32@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170317
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170316
-SUMMARY:Mariä Verkündigung 
-UID:1482873545-3964-31@milgrim
+DESCRIPTION:(säkular) Der Weltgebetstag ist die größte ökumenische Basi
+ sbewegung von Frauen. Der Weltgebetstag wird in über 170 Ländern in öku
+ menischen Gottesdiensten begangen. Vor Ort bereiten Frauen unterschiedlich
+ er Konfessionen gemeinsam die Gestaltung und Durchführung der Gottesdiens
+ te vor. Jedes Jahr schreiben Frauen aus einem anderen Land der Welt die Go
+ ttesdienstordnung zum Weltgebetstag. Der Austausch und die sichtbare Gemei
+ nschaft aller christlichen Frauen in der Welt waren von Anfang an das geme
+ insame Anliegen des Weltgebetstages. Darum werden die Gebete und die Texte
+  dieses Tages im jährlichen Wechsel von Frauen aus einem anderen Land vor
+ geschlagen und verfasst. Die beteiligten Frauen spiegeln dabei die Basis i
+ hres Landes wider und repräsentieren die unterschiedlichen christlichen K
+ onfessionen\, aus denen sie kommen.
+DTEND;VALUE=DATE:20180303
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180303
+SUMMARY:Weltgebetstag
+UID:1517411776-27546-33@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170319
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170318
+DESCRIPTION:(säkular) Der Internationale Frauentag entstand als Initiative
+  sozialistischer Organisationen in der Zeit um den Ersten Weltkrieg im Kam
+ pf um die Gleichberechtigung\, das Wahlrecht für Frauen und die Emanzipat
+ ion von Arbeiterinnen. Am 16. März 1977 verabschiedete die UN-Generalvers
+ ammlung eine UN-Resolution\, die alle Staaten darum bat\, einen Tag des Ja
+ hres zum Tag der Vereinten Nationen für die Rechte der Frau und den Weltf
+ rieden zu erklären. Heute ist der 8. März in Angola\, Armenien\, Aserbai
+ dschan\, Burkina Faso\, Eritrea\, Georgien\, Guinea-Bissau\, Kasachstan\, 
+ Kambodscha\, Kirgisistan\, Laos\, Madagaskar\, Moldawien\, in der Mongolei
+ \, in Nepal\, Russland\, Sambia\, Serbien\, Tadschikistan\, Turkmenistan\,
+  Uganda\, in der Ukraine\, in Usbekistan\, Vietnam und Weißrussland ein g
+ esetzlicher Feiertag. In der VR China ist der Nachmittag für Frauen arbei
+ tsfrei.
+DTEND;VALUE=DATE:20180309
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180309
+SUMMARY:Internationaler Tag der Frauen
+UID:1517411776-27546-34@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(sikh) Erster Tag des Neujahres 549. Der Sikh-Kalender beginnt 
+ 1469\, also mit Guru Nanaks Geburtsjahr. 
+DTEND;VALUE=DATE:20180315
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180315
+SUMMARY:Neujahr der Sikh
+UID:1517411776-27546-35@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Equal Pay Day markiert symbolisch die geschlecht
+ sspezifische Lohnlücke. Umgerechnet ergeben sich daraus 77 Tage\, die Fra
+ uen 2017 umsonst arbeiten. Der Gender Pay Gap (GPG) beschreibt dabei die g
+ eschlechtsspezifische Lohnlücke: den prozentualen Unterschied im durchsch
+ nittlichen Bruttostundenverdienst von Männern und Frauen. Die vom Statist
+ ischen Bundesamt errechneten Bruttostundenlöhne der Frauen betrugen im Ja
+ hr 2016 16\,26 Euro\, während Männer auf 20\,71 Euro kamen. Damit liegt 
+ die Lohnlücke in Deutschland bei 21 Prozent. (Weitere Informationen: http
+ s://www.destatis.de/DE/ZahlenFakten/ImFokus/VerdiensteArbeitskosten/Verdie
+ nstunterschiede.html)
+DTEND;VALUE=DATE:20180319
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180319
 SUMMARY:Equal Pay Day
-UID:1482873545-3964-32@milgrim
+UID:1517411776-27546-36@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170321
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170320
-SUMMARY:Internationaler Tag des Glücks
-UID:1482873545-3964-33@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170322
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170321
-SUMMARY:Náw Ruz 
-UID:1482873545-3964-34@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170322
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170321
-SUMMARY:Newrozfest
-UID:1482873545-3964-35@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170322
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170321
+DESCRIPTION:(säkular) Im Jahr 1966 haben die Vereinten Nationen den 21. M�
+ �rz als "Internationalen Tag zur Überwindung von Rassendiskriminierung" a
+ usgerufen\, in Reaktion auf die blutige Niederschlagung einer  friedliche 
+ Demonstration gegen die Apartheid in Sharpeville in Südafrika. Trotz der 
+ erreichten Fortschritte ernüchtern und alarmieren weiterhin Rassismus - u
+ nter anderem in Arbeitswelt und Schule - und Diskriminierung gegenüber Mi
+ granten und Geflüchteten. Rassismus besteht fort auf allen Ebenen der Ges
+ ellschaft. Der Internationale Tag bietet Gelegenheit\, den Reichtum der ku
+ lturellen Vielfalt und aufrichtigen Respekt und Toleranz für den andersar
+ tigen Mitmenschen zu betonen. Rassistische Gewalt\, Stereotypen in den Med
+ ien und Alltagsdiskriminierung daran\, dass der Widerstand und der Kampf g
+ egen den Rassismus eine alltägliche Herausforderung für unsere plurale u
+ nd vielfältige Gesellschaft bleibt. 
+DTEND;VALUE=DATE:20180322
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180322
 SUMMARY:Internationaler Tag gegen Rassismus
-UID:1482873545-3964-36@milgrim
+UID:1517411776-27546-37@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich-orthodox
-DTEND;VALUE=DATE:20170330
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170329
-SUMMARY:Mariä Verkündigung 
-UID:1482873545-3964-37@milgrim
+DESCRIPTION:(bahai) Der Jahresbeginn der Bahá’í wird zu Naw-Rúz (Neuer
+  Tag) gefeiert\, dem Tag\, an dem die Sonne den Frühlingspunkt erreicht. 
+ Mit dem\nNaw-Rúz-Fest geht die vorausgegangene 19-tägige Fastenzeit zu E
+ nde.
+DTEND;VALUE=DATE:20180322
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180322
+SUMMARY:Náw Ruz
+UID:1517411776-27546-38@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170407
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170406
-SUMMARY:Heilige Nacht Rega’ib 
-UID:1482873545-3964-38@milgrim
+DESCRIPTION:(alevitisch) Mit dem Newroz-Fest am 21. März begrüßen Alevit
+ en feierlich den Frühling und die Wiederbelebung der Natur. Gleichzeitig 
+ feiern sie den Geburtstag des Heiligen Ali. Er verkörpert für sie das g�
+ �ttliche Licht.
+DTEND;VALUE=DATE:20180322
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180322
+SUMMARY:Newruzfest
+UID:1517411776-27546-39@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170409
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170408
-SUMMARY:Geburt des Buddhas 
-UID:1482873545-3964-39@milgrim
+DESCRIPTION:(säkular) An diesem Tag werden weltweit Veranstaltungen organi
+ siert\, die das öffentliche Bewusstsein für die Thematik des Down-Syndro
+ ms steigern sollen. Das gewählte Datum\, der 21. März\, symbolisiert das
+  charakteristische Merkmal des Down-Syndroms\, nämlich das dreifache Vorh
+ andensein des 21. Chromosoms.
+DTEND;VALUE=DATE:20180322
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180322
+SUMMARY:Welt-Down-Syndrom-Tag
+UID:1517411776-27546-40@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170409
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170408
-SUMMARY:Internationaler Roma-Tag
-UID:1482873545-3964-40@milgrim
+DESCRIPTION:(islamisch) In der Nacht vom ersten Donnerstag auf den Freitag 
+ im Monat Radschab begehen die Muslime die so genannte Rega’ib-Nacht. Das
+  Wort\nRega’ib kommt aus dem Arabischen und bedeutet so viel wie „wert
+ volles Geschenk“ oder „etwas\, das man sich aus tiefstem Herzen\nwüns
+ cht“. In solchen Nächten werden Gottes Segen\, seine Hilfe sowie die ge
+ istige Erneuerung\, mit der er die Menschen beschenkt\,\nihnen mehr denn j
+ e zuteil.
+DTEND;VALUE=DATE:20180323
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180322
+SUMMARY:Nacht der Rega’ib / Regaip Kandili 
+UID:1517411776-27546-41@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170410
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170409
+DESCRIPTION:(christ.evan./kath.) In vielen christlichen Konfessionen wird a
+ m 25. März das Fest der Verkündigung des Herrn gefeiert. Es wird auch Ma
+ riä Verkündigung oder Empfängnis Christi genannt. An diesem Tag feiert 
+ die Kirche das im Lukasevangelium dargestellte Ereignis der Verheißung de
+ r Geburt Jesu an Maria. Der Engel Gabriel kommt zu Maria nach Nazaret und 
+ kündigt ihr die Geburt ihres Sohnes Jesus durch die Kraft des Heiligen Ge
+ istes an. Das Festdatum ist vom liturgischen Datum der Geburt Jesu\, dem 2
+ 5. Dezember\, abgeleitet - nämlich genau neun Monate vorher. Trotz seiner
+  Nähe zu Karfreitag und Ostern hat der Tag weihnachtlichen Charakter. Er 
+ betrachtet die Menschwerdung des Gottessohnes und zählt daher zu den Herr
+ enfesten und zu den Marienfesten. Die römisch-katholische Kirche begeht s
+ eit 1969 den 25. März als Hochfest. Wenn dieser Tag auf einen Sonntag der
+  Fastenzeit fällt\, wird das Fest am darauffolgenden Montag nachgeholt. I
+ n der orthodoxen Kirche zählt das Fest zu den zwölf Hauptfesten. Es wird
+  keinesfalls verlegt. Sogar am Karfreitag wird in diesem Fall die entsprec
+ hende Liturgie gefeiert. 
+DTEND;VALUE=DATE:20180326
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180326
+SUMMARY:Mariä Verkündung
+UID:1517411776-27546-42@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Eine Woche vor Ostern feiert die Kirche de
+ n Einzug Jesu Christi nach Jerusalem\, wo er seinem Leiden\, Tod und seine
+ r Auferstehung\nentgegen ging\, woran im Lauf der nun beginnenden Woche (G
+ roße Woche/Heilige Woche/Karwoche) gedacht wird. Seinen Namen hat\ndieser
+  letzte Sonntag der Fastenzeit von den Palmen\, mit denen die Gläubigen �
+ �� ähnlich wie die Menschen damals in Jerusalem –\nChristus in einer go
+ ttesdienstlichen Prozession als Retter begrüßen.
+DTEND;VALUE=DATE:20180326
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180326
 SUMMARY:Palmsonntag
-UID:1482873545-3964-41@milgrim
+UID:1517411776-27546-43@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170412
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170411
-SUMMARY:Pessachfest (bis 18.04.) 
-UID:1482873545-3964-42@milgrim
+DESCRIPTION:(hinduistisch) Der Erscheinungstag Ramas\, der siebten Inkarnat
+ ion Vishnus und Held des Sanskrit-Epos Ramayana.
+DTEND;VALUE=DATE:20180326
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180326
+SUMMARY:Ram Navami
+UID:1517411776-27546-44@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170413
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170412
-SUMMARY:Songkran (Theravada\, Neujahr) 
-UID:1482873545-3964-43@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170414
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170413
+DESCRIPTION:(christ.evan./kath.) Am Abend des Gründonnerstags gedenken Chr
+ isten besonders des letzten Abendmahls Jesu mit seinen Jüngern am Voraben
+ d der\nKreuzigung. In diesem Mahl nimmt Jesus seinen Tod bereits voraus un
+ d trägt seinen Jüngern auf\, das Mahl in diesem Sinne zu seinem\nGedäch
+ tnis immer wieder zu feiern. Auch erinnert der Gründonnerstag an die Nach
+ t\, in der Jesus verraten und gefangen genommen\nwurde.
+DTEND;VALUE=DATE:20180330
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180330
 SUMMARY:Gründonnerstag
-UID:1482873545-3964-44@milgrim
+UID:1517411776-27546-45@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170415
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170414
+DESCRIPTION:(christ.evan./kath.) -
+DTEND;VALUE=DATE:20180330
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180330
+SUMMARY:Ende christl. Fastenzeit
+UID:1517411776-27546-46@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Dies ist der Tag der Kreuzigung und des To
+ des Jesu. Christen erinnern sich der Leiden und des Todes Jesu und glauben
+ \, dass durch\nden Tod des Gottessohnes auch ihr Tod überwunden wurde. F�
+ �r evangelische Christen gilt der Karfreitag vielfach als höchster Feiert
+ ag.\nEr wird als stiller Feiertag begangen. Früher war der Karfreitag ein
+  Tag des strengen Fastens\, bis heute wird in vielen katholischen\nFamilie
+ n Fisch gegessen.
+DTEND;VALUE=DATE:20180331
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180331
 SUMMARY:Karfreitag
-UID:1482873545-3964-45@milgrim
+UID:1517411776-27546-47@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:sikh
-DTEND;VALUE=DATE:20170415
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170414
-SUMMARY:Baisakhi
-UID:1482873545-3964-46@milgrim
+DESCRIPTION:(jüdisch) Nach der Sklaverei in Ägypten erreicht Gott durch d
+ ie zehn Plagen\, die er über Ägypten schickt\, dass die Kinder Israels a
+ usziehen dürfen. Am siebten Tag des Auszugs durchquerten sie das Schilfme
+ er\, das sich für sie auftat. In Erinnerung daran darf sieben Tage lang n
+ ichts „Gesäuertes“ gegessen werden (Mehl geht ab ca. 18 Minuten nach 
+ der Verbindung mit Wasser auf\, dies nennt man Gesäuertes). Statt Brot wi
+ rd daher Mazza (ungesäuertes Brot) gegessen. Am ersten Abend feiert man i
+ n der Familie den Seder. Dafür benutzt man die Pessach-Hagadah\, ein Buch
+ \, das den Auszug aus Ägypten beschreibt und darüber hinaus die traditio
+ nelle Abfolge des Seder-Essens.
+DTEND;VALUE=DATE:20180407
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180330
+SUMMARY:Pessachfest / ?????? (jüdisch)
+UID:1517411776-27546-48@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich / christlich-orthodox
-DTEND;VALUE=DATE:20170417
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170416
+DESCRIPTION:(christ.evan./kath.) Die christliche Gemeinde feiert die Aufers
+ tehung Jesu Christi von den Toten\, in der der Tod überwunden ist. Ostern
+  ist ein Freudenfest\nund das christliche Hauptfest. Jeder Sonntag im Kirc
+ henjahr feiert dieses Osterfest. Ostern ist das Fest der Taufe\, und in de
+ r Osternacht\nwerden viele Menschen getauft.
+DTEND;VALUE=DATE:20180402
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180402
 SUMMARY:Ostersonntag
-UID:1482873545-3964-47@milgrim
+UID:1517411776-27546-49@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich / christlich-orthodox
-DTEND;VALUE=DATE:20170418
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170417
+DESCRIPTION:(christ.ortho./altorientl.) Eine Woche vor Ostern feiert die Ki
+ rche den Einzug Jesu Christi nach Jerusalem\, wo er seinem Leiden\, Tod un
+ d seiner Auferstehung\nentgegen ging\, woran im Lauf der nun beginnenden W
+ oche (Große Woche/Heilige Woche/Karwoche) gedacht wird. Seinen Namen hat\
+ ndieser letzte Sonntag der Fastenzeit von den Palmen\, mit denen die Gläu
+ bigen – ähnlich wie die Menschen damals in Jerusalem –\nChristus in e
+ iner gottesdienstlichen Prozession als Retter begrüßen.
+DTEND;VALUE=DATE:20180402
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180402
+SUMMARY:Palmsonntag
+UID:1517411776-27546-50@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Ostermontag ist die Fortsetzung des Tages\
+ , an dem Jesus Christus den Tod überwand. Der Feiertag bezieht sich auf e
+ ine ganz bestimmte Bibelstelle\, in der die Emmaus-Jünger aus ihrer Sicht
+  von der Auferstehung Christi erzählen. Laut Lukasevangelium trafen zwei 
+ Jünger auf dem Weg nach Emmaus einen Unbekannten. Erst später erkannten 
+ sie ihn als Christus und verkündeten in Jerusalem die Auferstehung des He
+ rrn. Somit ist der Ostermontag in erster Linie eine Ergänzung zum Osterso
+ nntag: Der Emmausgang\, auch Emmaus-Osterspaziergang genannt\, erinnert no
+ ch immer an diese Geschichte. In vielen Regionen werden die Feste bunt und
+  fröhlich gefeiert. Es werden Bräuche gepflegt\, die auf dem Gang der J�
+ �nger nach Emmaus gründen. In manchen Gemeinden ziehen die Gläubigen zum
+  Beispiel von der Pfarrkirche zu einer Kapelle.
+DTEND;VALUE=DATE:20180403
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180403
 SUMMARY:Ostermontag
-UID:1482873545-3964-48@milgrim
+UID:1517411776-27546-51@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:yezidisch
-DTEND;VALUE=DATE:20170420
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170419
-SUMMARY:Roter Mittwoch der Yeziden 
-UID:1482873545-3964-49@milgrim
+DESCRIPTION:(säkular) Autismus wird als eine angeborene\, unheilbare Wahrn
+ ehmungs- und Informationsverarbeitungsstörung des Gehirns beschrieben\, d
+ ie sich schon im frühen Kindesalter bemerkbar macht. Da Autismus eine nic
+ ht sichtbare Behinderung ist\, ist es wichtig Betroffene anzuhören und ih
+ re individuellen Erfahrungen mit Barrieren aufzunehmen\, um allgemeine Zug
+ änglichkeit und einen Abbau von Barrieren zu erreichen. Am Welt-Autismus-
+ Tag 2015 fanden zahlreiche Aktionen statt\, u. a. wurden öffentliche Geb�
+ �ude blau angestrahlt\, um Autismus aufmerksam zu machen.
+DTEND;VALUE=DATE:20180403
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180403
+SUMMARY:Welt-Autismus-Tag
+UID:1517411776-27546-52@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170422
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170421
-SUMMARY:Ridvanfest (bis 02.05.) 
-UID:1482873545-3964-50@milgrim
+DESCRIPTION:(christ.ortho./Altorient.) Am Abend des Gründonnerstags gedenk
+ en Christen besonders des letzten Abendmahls Jesu mit seinen Jüngern am V
+ orabend der\nKreuzigung. In diesem Mahl nimmt Jesus seinen Tod bereits vor
+ aus und trägt seinen Jüngern auf\, das Mahl in diesem Sinne zu seinem\nG
+ edächtnis immer wieder zu feiern. Auch erinnert der Gründonnerstag an di
+ e Nacht\, in der Jesus verraten und gefangen genommen\nwurde.
+DTEND;VALUE=DATE:20180406
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180406
+SUMMARY:Gründonnerstag
+UID:1517411776-27546-53@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170424
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170423
-SUMMARY:Weißter Sonntag 
-UID:1482873545-3964-51@milgrim
+DESCRIPTION:(christ.ortho./Altorient) Dies ist der Tag der Kreuzigung und d
+ es Todes Jesu. Christen erinnern sich der Leiden und des Todes Jesu und gl
+ auben\, dass durch\nden Tod des Gottessohnes auch ihr Tod überwunden wurd
+ e. Für evangelische Christen gilt der Karfreitag vielfach als höchster F
+ eiertag.\nEr wird als stiller Feiertag begangen. Früher war der Karfreita
+ g ein Tag des strengen Fastens\, bis heute wird in vielen katholischen\nFa
+ milien Fisch gegessen.
+DTEND;VALUE=DATE:20180407
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180407
+SUMMARY:Karfreitag
+UID:1517411776-27546-54@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170424
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170423
-SUMMARY:Jom Hashoa 
-UID:1482873545-3964-52@milgrim
+DESCRIPTION:(christ.ortho./Altorient) Die christliche Gemeinde feiert die A
+ uferstehung Jesu Christi von den Toten\, in der der Tod überwunden ist. O
+ stern ist ein Freudenfest\nund das christliche Hauptfest. Jeder Sonntag im
+  Kirchenjahr feiert dieses Osterfest. Ostern ist das Fest der Taufe\, und 
+ in der Osternacht\nwerden viele Menschen getauft.
+DTEND;VALUE=DATE:20180409
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Ostersonntag
+UID:1517411776-27546-55@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170428
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170427
-SUMMARY:Girl’s Day
-UID:1482873545-3964-53@milgrim
+DESCRIPTION:(christ.ortho./Altorient) Ostermontag ist die Fortsetzung des T
+ ages\, an dem Jesus Christus den Tod überwand. Der Feiertag bezieht sich 
+ auf eine ganz bestimmte Bibelstelle\, in der die Emmaus-Jünger aus ihrer 
+ Sicht von der Auferstehung Christi erzählen. Laut Lukasevangelium trafen 
+ zwei Jünger auf dem Weg nach Emmaus einen Unbekannten. Erst später erkan
+ nten sie ihn als Christus und verkündeten in Jerusalem die Auferstehung d
+ es Herrn. Somit ist der Ostermontag in erster Linie eine Ergänzung zum Os
+ tersonntag: Der Emmausgang\, auch Emmaus-Osterspaziergang genannt\, erinne
+ rt noch immer an diese Geschichte. In vielen Regionen werden die Feste bun
+ t und fröhlich gefeiert. Es werden Bräuche gepflegt\, die auf dem Gang d
+ er Jünger nach Emmaus gründen. In manchen Gemeinden ziehen die Gläubige
+ n zum Beispiel von der Pfarrkirche zu einer Kapelle.
+DTEND;VALUE=DATE:20180410
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180410
+SUMMARY:Ostermontag
+UID:1517411776-27546-56@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170501
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170430
-SUMMARY:Jom haZikaron 
-UID:1482873545-3964-54@milgrim
+DESCRIPTION:(christ.evan./kath.) Der Weiße Sonntag\, auch Barmherzigkeitss
+ onntag genannt\, ist der Sonntag nach Ostern. Der Ursprung der Bezeichnung
+  Weißer Sonntag ist nicht gewiss. Wahrscheinlich hängt er mit den weiße
+ n Taufgewändern zusammen\, die in der frühen Kirche von den in der Oster
+ nacht Getauften bis zu diesem Tag getragen wurden. In der katholischen Kir
+ che ist der Weiße Sonntag seit dem 18. Jahrhundert der Tag für die feier
+ liche Erstkommunion der Kinder.
+DTEND;VALUE=DATE:20180409
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Weißer Sonntag
+UID:1517411776-27546-57@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170502
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170501
+DESCRIPTION:(buddhistisch) Höchstes Fest in allen buddhistischen Ländern.
+  Es wird zum Vollmond des vierten Monats begangen. Das Fest wird in Erinne
+ rung an\nGeburt\, Erwachen und vollkommenes Erlöschen Buddhas gefeiert. D
+ ieser Tag wird mit aufwendigen heiligen Zeremonien und\nMeditationen began
+ gen: Den im Tempel stehenden Buddhafiguren werden Blumengaben gebracht\, R
+ äucherwerk wird als Zeichen der\nVergänglichkeit und inneren Reinigung v
+ or den Altären abgebrannt. An diesem Feiertag wird Gebefreudigkeit durch 
+ reichliches Spenden\nzum Beispiel an die Klöster geübt\, Arme werden öf
+ fentlich gespeist\, Tiere nicht geschlachtet und Gefangene begnadigt. Jede
+ r Gläubige\nachtet zu diesem Feiertag besonders die fünf Tugendregeln de
+ s Buddhismus: kein Lebewesen zu töten\, nicht zu stehlen\, Enthaltsamkeit
+ \nin Taten und Gedanken walten zu lassen\, nicht zu lügen und keine berau
+ schenden Mittel zu sich zu nehmen. In Japan wird das\nGeburtsfest Buddhas 
+ immer am 8. April begangen und auch Kambutsue genannt. Dabei wird ein gro�
+ �es Blumenfest veranstaltet. Es gibt\nUmzüge mit vielen Festwagen\, die M
+ enschen schmücken sich mit Kimonos in besonders leuchtenden Farben. Oft i
+ st ein Festwagen mit\neinem weißen Elefanten versehen\, der das Buddha Ki
+ nd in einer Sänfte auf dem Rücken trägt. In anderen Ländern wechselt d
+ as Datum\ndes Feiertages nach dem Mondkalender.
+DTEND;VALUE=DATE:20180409
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Hanamatsuri - Buddhas Geburt (Japan)
+UID:1517411776-27546-58@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Höchstes Fest in allen buddhistischen Ländern.
+  Es wird zum Vollmond des vierten Monats begangen. Das Fest wird in Erinne
+ rung an\nGeburt\, Erwachen und vollkommenes Erlöschen Buddhas gefeiert. D
+ ieser Tag wird mit aufwendigen heiligen Zeremonien und\nMeditationen began
+ gen: Den im Tempel stehenden Buddhafiguren werden Blumengaben gebracht\, R
+ äucherwerk wird als Zeichen der\nVergänglichkeit und inneren Reinigung v
+ or den Altären abgebrannt. An diesem Feiertag wird Gebefreudigkeit durch 
+ reichliches Spenden\nzum Beispiel an die Klöster geübt\, Arme werden öf
+ fentlich gespeist\, Tiere nicht geschlachtet und Gefangene begnadigt. Jede
+ r Gläubige\nachtet zu diesem Feiertag besonders die fünf Tugendregeln de
+ s Buddhismus: kein Lebewesen zu töten\, nicht zu stehlen\, Enthaltsamkeit
+ \nin Taten und Gedanken walten zu lassen\, nicht zu lügen und keine berau
+ schenden Mittel zu sich zu nehmen. In Japan wird das\nGeburtsfest Buddhas 
+ immer am 8. April begangen und auch Kambutsue genannt. Dabei wird ein gro�
+ �es Blumenfest veranstaltet. Es gibt\nUmzüge mit vielen Festwagen\, die M
+ enschen schmücken sich mit Kimonos in besonders leuchtenden Farben. Oft i
+ st ein Festwagen mit\neinem weißen Elefanten versehen\, der das Buddha Ki
+ nd in einer Sänfte auf dem Rücken trägt. In anderen Ländern wechselt d
+ as Datum\ndes Feiertages nach dem Mondkalender.
+DTEND;VALUE=DATE:20180409
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Vesakh
+UID:1517411776-27546-59@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Internationale Tag der Roma macht auf die Situat
+ ion der Roma\, insbesondere deren Diskriminierung und Verfolgung\, aufmerk
+ sam und feiert zugleich die Kultur dieser ethnischen Minderheit. Das Datum
+  8. April erinnert an die Anfänge der Roma-Bürgerrechtsbewegung mit dem 
+ Ersten Welt-Roma-Kongress\, der am 8. April 1971 in London stattfand. Auf 
+ dem Kongress wurde unter anderem die vielfach als diskriminierend empfunde
+ ne Fremdbezeichnung „Gypsy“ bzw. „Zigeuner“ zugunsten der Eigenbez
+ eichnung „Roma“ verworfen. Außerdem wurden auf dem Kongress mit der F
+ lagge der Roma und der Hymne der Roma zwei wichtige Symbole der weltweiten
+  Roma-Bürgerrechtsbewegung angenommen. 
+DTEND;VALUE=DATE:20180409
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180409
+SUMMARY:Internationaler Tag der Roma
+UID:1517411776-27546-60@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Jom haScho'a ist ein israelischer Nationalfeiertag. 
+ Er erinnert an die Opfer der Shoa (des Holocausts) sowie an alle Beteiligt
+ en des jüdischen Widerstands. Der Gedenktag ist der 27. Tag des jüdische
+ n Monats Nisan. Wie alle jüdischen Feiertage beginnt er am Sonnenuntergan
+ g des Vortages und dauert bis zum Sonnenuntergang des Folgetages. Das Datu
+ m wurde am 21. April 1951 durch das israelische Parlament festgelegt. Nach
+ dem der Feiertag zunächst durch die Bevölkerung wenig Berücksichtigung 
+ im öffentlichen Leben fand\, erließ die Knesset 1959 ein „Gesetz zum T
+ ag des Gedenkens“\, welches dem Feiertag seinen bis heute gültigen Char
+ akter verlieh. Dies wird besonders von den Medien aufgegriffen\, deren Bei
+ träge in diesem Zeitraum besonders von Trauer und Gedenken geprägt sind.
+  Am Vorabend werden in der zentralen Gedenkstätte Israels Yad Vashem sech
+ s Fackeln angezündet. Sie symbolisieren die rund sechs Millionen Juden\, 
+ die der Shoa zum Opfer fielen. Sowohl abends als auch morgens finden Geden
+ kveranstaltungen statt. Um 10.00 Uhr morgens heulen im ganzen Land für zw
+ ei Minuten die Sirenen. Die meisten Menschen verharren dann schweigend im 
+ Gedenken an die Opfer der Shoa\, der Straßen- und Schienenverkehr kommt i
+ n diesen zwei Minuten zum Erliegen. Auch in anderen Staaten wird ein Holoc
+ aust-Gedenktag begangen\, größtenteils aber an einem anderen Datum.
+DTEND;VALUE=DATE:20180412
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180411
+SUMMARY:Jom haScho'a (Nationalfeiertag)
+UID:1517411776-27546-61@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Songkran ist das traditionelle Neujahrsfest der 
+ Tai-Völker nach dem thailändischen Mondkalender. Es ist heute auf den 13
+ . bis 15. April datiert. Früher hatte es kein festes Datum und fand urspr
+ ünglich zur Frühlings-Tagundnachtgleiche statt (zwischen 19. und 21. Mä
+ rz)\, ist dann aber infolge der Präzession der Erdachse zum heutigen Term
+ in gewandert. Am Abend des 12. April werden Häuser und Wohnungen geputzt.
+  Morgens am 13. April begeben sich die Familien in die Wats und opfern dor
+ t Reis\, Früchte und andere Speisen. Anschließend werden am Nachmittag d
+ ie dortigen Buddha-Figuren und der Vorsteher des Wat „gebadet“\, indem
+  sie mit Wasser begossen werden. In vielen Städten\, wie zum Beispiel in 
+ Chiang Mai werden dann die Buddha-Statuen in einem Umzug durch die Stadt g
+ efahren\, um anderen Gläubigen die Gelegenheit zu geben\, die Statuen ebe
+ nfalls mit Wasser zu begießen.
+DTEND;VALUE=DATE:20180414
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180414
+SUMMARY:Songkran - Wasserfest (Theravada\, Neujahr)
+UID:1517411776-27546-62@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) Die Muslime feiern in der Nacht des 27. Radschabs (
+ das ist die Nacht vom 22. auf den 23. April 2017) die Himmelsreise des Pro
+ pheten\nMohammad (Fsmi) (siehe Koran 17/1). Das Wunder der Himmelsreise be
+ steht aus zwei Schritten: der nächtlichen Reise des Propheten\nvon Mekka 
+ nach Jerusalem (Isra) und der anschließenden Himmelfahrt (Miradsch).
+DTEND;VALUE=DATE:20180414
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180413
+SUMMARY:Himmelfahrt des Propheten Mohammed (Fsmi) / ???? ??????? / Lailat a
+ l Miraj / Miraç Kandili 
+UID:1517411776-27546-63@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(yezidisch) Der Festlegende zufolge hat an diesem Tag Gott dem 
+ Engel Melek Taus den Auftrag gegeben\, die Erde zu erschaffen und für all
+ e Lebewesen bewohnbar zu machen. Die Jesiden richten an diesem Tag ihre Ha
+ useingänge mit prächtigem Blumenschmuck her und färben oder bemalen Hü
+ hnereier bunt. In Andenken an die Schöpfung der Erde werden von jesidisch
+ en Würdenträgern  Armbänder geflochten und an die Jesiden verteilt. Sin
+ n des Festes ist es\, den Himmelsboten um Beistand\, Schutz und eine ertra
+ greiche Ernte zu bitten.
+DTEND;VALUE=DATE:20180415
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180415
+SUMMARY:Roter Mittwoch der Yeziden / Çar?ema Sor / Jesidisches Neujahr
+UID:1517411776-27546-64@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(sikh) Einsetzung der Khalsa (Bruderschaft) durch Guru Gobind S
+ ingh. Die Khalsa sind die Reinen\, die die Sikhs zu ihrem Glauben und ihre
+ r Lebensführung geleitet haben. Außerdem machten sie sich laut Überlief
+ erung zur Aufgabe\, gegen Tyrannei und religiöse Intoleranz vorzugehen. A
+ n diesem Tag wird die Fahne\, die auf jedem Sikh-Tempel flattert\, ausgewe
+ chselt.
+DTEND;VALUE=DATE:20180415
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180415
+SUMMARY:Baisakhi/Vaisakhi
+UID:1517411776-27546-65@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Die Ridván-Zeit erstreckt sich über zwölf Tage. Sie 
+ ist die religiös bedeutsamste Zeit in der Bahá’í-Religion. Im Laufe d
+ ieser Tage im Jahre\n1863 erklärte Bahá’u’lláh\, der Stifter der Ba
+ há’í-Religion\, in einem Garten namens Ridván (arab.: Paradies) bei B
+ aghdad\, Irak\, den dort\nversammelten Menschen Seine göttliche Sendung. 
+ Innerhalb der Ridván-Zeit feiern die Bahá’í den 1.\, 9. und 12. Tag (
+ Ende April bis Anfang Mai) als besonderen Feiertag. Bahá’í begehen all
+ e Feiertage mit einer Andacht\, die aus Lesungen von Texten und Gebeten de
+ r heiligen Schriften besteht. Ansonsten ist man in der Gestaltung der Feie
+ rtage frei. Freunde der Bahá’í und Gäste sind zur Teilnahme herzlich 
+ eingeladen.
+DTEND;VALUE=DATE:20180502
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180421
+SUMMARY:Ridvánfest
+UID:1517411776-27546-66@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Am Girls'Day öffnen Unternehmen\, Betriebe und Hoch
+ schulen in ganz Deutschland ihre Türen für Schülerinnen ab der 5. Klass
+ e. Die Mädchen lernen dort Ausbildungsberufe und Studiengänge in IT\, Ha
+ ndwerk\, Naturwissenschaften und Technik kennen\, in denen Frauen bisher e
+ her selten vertreten sind. Oder sie begegnen weiblichen Vorbildern in Füh
+ rungspositionen aus Wirtschaft und Politik. Der Girls'Day – Mädchenzuku
+ nftstag ist das größte Berufsorientierungsprojekt für Schülerinnen wel
+ tweit. Seit dem Start der Aktion im Jahr 2001 haben etwa 1\,8 Millionen M�
+ �dchen teilgenommen. Im Jahr 2017 erkundeten rund 100.000 Mädchen Angebot
+ e in Technik und Naturwissenschaften. Junge Frauen in Deutschland verfüge
+ n über eine besonders gute Schulbildung. Trotzdem wählt mehr als die Hä
+ lfte der Mädchen aus nur zehn verschiedenen Ausbildungsberufen im dualen 
+ System – kein einziger naturwissenschaftlich-technischer ist darunter. D
+ amit schöpfen sie ihre Berufsmöglichkeiten nicht voll aus und den Betrie
+ ben fehlt gerade in technischen und techniknahen Bereichen qualifizierter 
+ Nachwuchs. Der Girls'Day bietet deshalb allen Chancen für die Zukunft. (W
+ eitere Informationen: https://www.girls-day.de/)
+DTEND;VALUE=DATE:20180428
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180428
+SUMMARY:Girls' Day
+UID:1517411776-27546-67@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Boys’Day ist ein bundesweiter Aktionstag zur B
+ erufsorientierung und Lebensplanung für Jungen. Jungen haben vielfältige
+  Interessen und Stärken. Geht es um die Berufswahl\, entscheiden sie sich
+  jedoch oft für die traditionell meist von Männern gewählt werden. Nat�
+ �rlich sind das interessante Berufe\, aber es gibt noch viele andere Beruf
+ sfelder\, in denen männliche Fachkräfte und Bezugspersonen gesucht werde
+ n und sehr erwünscht sind. Zum Beispiel im sozialen\, erzieherischen oder
+  pflegerischen Bereich – hier werden viele Nachwuchskräfte gebraucht un
+ d Männer sind hier in der Regel sehr willkommen. Neben der Berufserkundun
+ g können die Schüler am Boys’Day auch an pädagogischen Workshops teil
+ nehmen. Hier geht es beispielsweise um männliche Rollenbilder\, die Vielf
+ alt der Lebensentwürfe und um die Frage\, ob das Modell des männlichen A
+ lleinverdieners nicht längst überholt ist. In den Workshops können die 
+ Jungs auch ihre sozialen Kompetenzen wie Team- und Konfliktfähigkeit stä
+ rken. Seit 2011 haben fast 225.000 Jungen an mehr als 37.700 Boys’Day-An
+ geboten teilgenommen. (Weitere Informationen: https://www.boys-day.de/)
+DTEND;VALUE=DATE:20180428
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180428
+SUMMARY:Boys' Day
+UID:1517411776-27546-68@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Fest zu Ehren Nrshimhadevas\, der Halb-Mensch/Ha
+ lb-Löwe-Inkarnation Vishnus. Der Königssohn Pralada hatte einen Vater\, 
+ der selbst Gott sein wollte und nicht ertrug\, dass sein Sohn nur Vishnu v
+ erehrte. Aus Neid wollte er Pralada töten. Nrshimhadeva erschien und töt
+ ete\nden dämonischen Vater.
+DTEND;VALUE=DATE:20180429
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180429
+SUMMARY:Nrshimha Chaturdasi / Narasimha Jayanti
+UID:1517411776-27546-69@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) Die Muslime gedenken zwei Wochen vor Beginn des Ram
+ adan der Nacht der Erlösung\, in der Gott der Überlieferung zufolge die\
+ nBetenden mit Segnungen überhäuft. In dieser Nacht sprach der Prophet Mo
+ hammad (Fsmi) folgendes Bittgebet aus: „Mein Herr! Ich\nsuche Zuflucht z
+ u Deinem Wohlgefallen\, vor Deinem Zorn\, zu Deiner Vergebung\, vor Deiner
+  Strafe.“ Es ist die Nacht vom 9. auf den 10.\nMai 2017.
+DTEND;VALUE=DATE:20180501
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180430
+SUMMARY:Nacht der Erlösung /  ???? ????????  / Lailat al Bara'a / Berat Ka
+ ndili 
+UID:1517411776-27546-70@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Die Walpurgisnacht ist ein traditionelles nord- und 
+ mitteleuropäisches Fest am 30. April. Der Name leitet sich von der heilig
+ en Walburga ab\, deren Gedenktag bis ins Mittelalter am Tag ihrer Heiligsp
+ rechung am 1. Mai gefeiert wurde. Als „Tanz in den Mai“ hat sie wegen 
+ der Gelegenheit zu Tanz und Geselligkeit am Vorabend des Maifeiertags auch
+  als urbanes\, modernes Festereignis Eingang in private und kommerzielle V
+ eranstaltungen gefunden. Traditionell gilt die Nacht vom 30.  April auf de
+ n 1. Mai als die Nacht\, in der die Hexen insbesondere auf dem Blocksberg 
+ (eigentlich „Brocken“)\, aber auch an anderen erhöhten Orten\, ein gr
+ oßes Fest abhielten. Viele Walpurgisriten leben in  Maibräuchen fort. De
+ r Maibaum\, meist eine Birke\, ist zugleich Fruchtbarkeitssymbol und Darst
+ eller des Weltenbaums. Zu Walpurgis werden traditionell die Maibäume aus 
+ dem Wald in den Ort geholt\, um sie der Liebsten vor das Haus zu stellen. 
+ In der Dorfmitte wird um den Baum getanzt. Der Baum symbolisiert so die Fr
+ uchtbarkeit der Natur\, die auf diese Weise zu den Menschen gebracht wird.
+DTEND;VALUE=DATE:20180501
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180501
+SUMMARY:Walpurgisnacht
+UID:1517411776-27546-71@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Erste Mai wird als Tag der Arbeit\, Tag der Arbe
+ iterbewegung oder auch als Maifeiertag bezeichnet. Dass der 1. Mai ein Fei
+ ertag in Deutschland ist\, geht zurück auf das Jahr 1886. Damals begann i
+ n den USA am ersten Maitag ein mehrtägiger Generalstreik\, um den Achtstu
+ ndentag durchzusetzen. In Chicago versammelten sich Tausende Arbeiter auf 
+ dem Haymarket. Nach zwei Tagen begann die Lage zu eskalieren\, die Polizei
+  tötete mehrere Streikposten\, auch einige Polizisten kamen ums Leben. Be
+ i einer Protestkundgebung am nächsten Tag warf ein Unbekannter eine Bombe
+ . Die Polizisten gerieten in Panik und schossen um sich\, zahlreiche Mensc
+ hen starben.  Auf dem Gründungskongress der Zweiten Internationale 1889 w
+ urde zum Gedenken an die Opfer des Haymarket Riot der 1. Mai als „Kampft
+ ag der Arbeiterbewegung“ ausgerufen. Am 1. Mai 1890 wurde zum ersten Mal
+  dieser „Protest- und Gedenktag“ mit Massenstreiks und Massendemonstra
+ tionen in der ganzen Welt begangen. Der Internationalismus wurde zum Grund
+ gedanken des Maifeiertags. Der 1. Mai ist in der Bundesrepublik Deutschlan
+ d ein gesetzlicher Feiertag. In Nordrhein-Westfalen wird der erste Mai sta
+ atlicherseits als Tag des Friedens und der Völkerversöhnung bzw. Tag des
+  Bekenntnisses zu Freiheit und Frieden\, sozialer Gerechtigkeit\, Völkerv
+ ersöhnung und Menschenwürde begangen. In vielen englischsprachigen Länd
+ ern besteht mit dem Labor Day ein Äquivalent zum Tag der Arbeit am 1. Mai
+ .
+DTEND;VALUE=DATE:20180502
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180502
 SUMMARY:Tag der Arbeit
-UID:1482873545-3964-55@milgrim
+UID:1517411776-27546-72@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170502
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170501
-SUMMARY:Jom haAtzma’ut 
-UID:1482873545-3964-56@milgrim
+DESCRIPTION:(jüdisch) Der Ursprung des Festes geht auf den Bar-Kochba-Aufs
+ tand gegen die Römer 132–135 n. Chr. zurück. Lag baOmer ist ein fröhl
+ iches Fest. Die verschiedenen einschränkenden Gebote der Trauerzeit\, die
+  für die Tage zwischen Pessach und Schawuot gelten\, sind an diesem Tage 
+ aufgehoben. Kinder und Erwachsene veranstalten Picknicks und versammeln si
+ ch um Lagerfeuer. Vor allem aber können an diesem Tag Hochzeiten durchgef
+ ührt werden. 
+DTEND;VALUE=DATE:20180504
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180504
+SUMMARY:Lag baOmer / ??? ?????
+UID:1517411776-27546-73@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170506
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170505
-SUMMARY:Hidirellez (bis 06.05.) 
-UID:1482873545-3964-57@milgrim
+DESCRIPTION:(alevitisch) Nach der Sage treffen sich H?z?r (der Schutzpatron
+  des Landes) und Ilyas (der Schutzpatron der Meere) in der Nacht vom 5. au
+ f den 6. Mai auf der Erde. In dieser Nacht werden Himmel und Erde eins\, u
+ nd die Kraft der Schöpfung offenbart sich. Die Aleviten glauben\, dass H?
+ z?r und Ilyas das Wasser der Unsterblichkeit (ab-? hayat) tranken. Aus die
+ sem Glauben heraus bitten viele Menschen an diesem Tag Gott um Gesundheit 
+ und Genesung.
+DTEND;VALUE=DATE:20180506
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180506
+SUMMARY:Hidirellez
+UID:1517411776-27546-74@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170506
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170505
-SUMMARY:Europ. Protesttag zur Gleichstellung von Menschen mit Behinderung
-UID:1482873545-3964-58@milgrim
+DESCRIPTION:(säkular) Der Europäische Protesttag für die Gleichstellung 
+ von Menschen mit Behinderung soll deutlich machen\, dass es eines Europas 
+ für alle bedarf. Der Europäische Protesttag  trug  dazu bei\, dass die F
+ orderung nach der Aufnahme eines Benachteiligungsverbotes für Behinderte 
+ in das Grundgesetz und nach Gleichstellungsgesetzen für Behinderte auf di
+ e Tagesordnung kam. Demonstrationen\, phantasievolle Aktionen\, Diskussion
+ srunden und Unterschriftensammlungen sorgten dafür\, dass das Thema der G
+ leichstellung behinderter Menschen in den Blickpunkt der öffentlichen Auf
+ merksamkeit gelangte. Die europaweiten Aktionen führten letztendlich zur 
+ Aufnahme von Antidiskriminierungsbestimmungen in den Amsterdamer Verträge
+ n. Mittlerweile beschäftigt die UN Menschenrechtskonvention immer mehr Me
+ nschen mit Behinderungen. In ihr sind wichtige Grundsätze und Rechte behi
+ nderter Menschen formuliert\, die auch hier viele Verbesserungen bringen k
+ önnen. Viele Ziele der Protestbewegung wurden zwischenzeitlich erreicht\,
+  unter anderem auch die Gleichstellungsgesetze auf allen Ebenen sowie das 
+ Allgemeine Gleichstellungsgesetz\, dennoch tritt die Bewegung weiter dafü
+ r ein\, dass eine umfassende Inklusion von behinderten Menschen von der Wi
+ ege bis zur Bahre erreicht wird. Sie sieht sich in der Verantwortung weite
+ rhin für die Menschenrechte und Würde behinderter Menschen zu kämpfen. 
+DTEND;VALUE=DATE:20180506
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180506
+SUMMARY:Europ.Protesttag zur Gleichstellung von Menschen mit Behinderung
+UID:1517411776-27546-75@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170507
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170506
-SUMMARY:Sankt Georgsfest der Roma 
-UID:1482873545-3964-59@milgrim
+DESCRIPTION:(christ.evan./kath.) Die Verehrung Georgs begann im Vorderen Or
+ ient sowie im frühchristlichen Ägypten und Äthiopien. Von den Roma auf 
+ der Balkanhalbinsel und der Türkei wird der Georgstag als einer der wicht
+ igsten Feiertage begangen\, der die Grenze zwischen Winter und Sommer mark
+ iert. Dies gilt gleichermaßen für die christlichen wie auch für die mus
+ limischen Roma. Der Georgstag wird je nach Region unterschiedlich gefeiert
+ . Dem Fest ging in der Vergangenheit häufig eine mehrwöchige Fastenzeit 
+ voraus. Die Feierlichkeiten für das Fest beginnen üblicherweise bereits 
+ am Abend des 5. Mai mit einer Reinigung und einem gemeinsamen Abendessen. 
+ Die Häuser werden mit Blumen und blühenden Zweigen dekoriert. Als Höhep
+ unkt der Feierlichkeiten treffen sich alle Roma eines Dorfes oder einer St
+ adt an einem zentralen Platz zu einem großen Fest mit Musik- und Tanzbegl
+ eitung.
+DTEND;VALUE=DATE:20180507
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180507
+SUMMARY:Sankt Georgsfest der Roma
+UID:1517411776-27546-76@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170509
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170508
-SUMMARY:Ende 2. Weltkrieg
-UID:1482873545-3964-60@milgrim
+DESCRIPTION:(säkular) Der 8. Mai ist als Tag der Befreiung in verschiedene
+ n europäischen Ländern ein Gedenktag\, an dem der bedingungslosen Kapitu
+ lation der Wehrmacht und damit des Endes des Zweiten Weltkrieges und der B
+ efreiung vom Nationalsozialismus in Europa gedacht wird. Vor allem in engl
+ ischsprachigen Ländern wird er VE-Day (Victory in Europe Day) genannt. In
+  der DDR war er von 1950 bis 1967 und im Jahr 1985 (40. Jahrestag) gesetzl
+ icher Feiertag. Bei den Verhandlungen im Hauptquartier der alliierten Stre
+ itkräfte in Reims wurde am 7. Mai die bedingungslose Kapitulation aller d
+ eutschen Streitkräfte vereinbart. Als Zeitpunkt für die Einstellung alle
+ r Kampfhandlungen in Europa wurde der 8. Mai\, 23:01 Uhr festgelegt. Am 8.
+  Mai erfolgte im sowjetischen Hauptquartier in Berlin-Karlshorst eine Rati
+ fizierung der Kapitulationserklärung der Wehrmacht. In der Sowjetunion wu
+ rde am 9. Mai der Tag des Sieges als gesetzlicher Feiertag begangen\, da d
+ er Waffenstillstand nach Moskauer Ortszeit erst am 9. Mai in Kraft trat. (
+ Weitere Informationen: http://www.bpb.de/politik/hintergrund-aktuell/70190
+ /8-mai-tag-der-befreiung-04-05-2006)
+DTEND;VALUE=DATE:20180509
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180509
+SUMMARY:Ende 2. Weltkrieges in Europa / Tag der Befreiung
+UID:1517411776-27546-77@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170511
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170510
-SUMMARY:Vesakh-Feier 
-UID:1482873545-3964-61@milgrim
+DESCRIPTION:(christ.evan./kath.) 40 Tage lang ist Jesus seinen Jüngern nac
+ h der Auferstehung erschienen. Die Christen nehmen nun 40 Tage nach Ostern
+  Abschied von
+DTEND;VALUE=DATE:20180511
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180511
+SUMMARY:Christi Himmelfahrt
+UID:1517411776-27546-78@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170511
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170510
-SUMMARY:Berat Kandili (Nacht der Erlösung\, bis 11.05.) 
-UID:1482873545-3964-62@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170515
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170514
-SUMMARY:Muttertag
-UID:1482873545-3964-63@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170516
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170515
-SUMMARY:Internationaler Tag der Familie
-UID:1482873545-3964-64@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170518
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170517
-SUMMARY:Internationaler tag gegen Homo-/Transphobie
-UID:1482873545-3964-65@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170521
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170520
-SUMMARY:Tag der Begegnung
-UID:1482873545-3964-66@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170522
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170521
-SUMMARY:Welttag der kulturellen Vielfalt
-UID:1482873545-3964-67@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170524
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170523
-SUMMARY:Miradsch-Himmelfahrt
-UID:1482873545-3964-68@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170524
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170523
-SUMMARY:Erklärung des Bab 
-UID:1482873545-3964-69@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170524
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170523
-SUMMARY:Tag des Grundgesetzes
-UID:1482873545-3964-70@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170525
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170524
-SUMMARY:Miradsch-Himmelfahrt 
-UID:1482873545-3964-71@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170525
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170524
-SUMMARY:Ramadan (bis 24.06.) 
-UID:1482873545-3964-72@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170526
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170525
-SUMMARY:Christi Himmelfahrt 
-UID:1482873545-3964-73@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170526
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170525
+DESCRIPTION:(säkular) Der volkstümliche Vatertag wird in Deutschland an C
+ hristi Himmelfahrt begangen. Die heutige Form des „Vatertagfeierns“ ka
+ m Ende des 19. Jahrhunderts in Berlin und Umgebung auf und erfreut sich se
+ itdem bei Männern großer Beliebtheit.
+DTEND;VALUE=DATE:20180511
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180511
 SUMMARY:Vatertag
-UID:1482873545-3964-74@milgrim
+UID:1517411776-27546-79@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170529
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170528
-SUMMARY:Hinscheiden des Bahá’u’lláhs 
-UID:1482873545-3964-75@milgrim
+DESCRIPTION:(säkular) Der Muttertag ist ein Tag zu Ehren der Mutter und de
+ r Mutterschaft. Er hat sich seit 1914\, beginnend in den Vereinigten Staat
+ en\, in der westlichen Welt etabliert. In Deutschland wurde der Muttertag 
+ 1922/23 vom Verband Deutscher Blumengeschäftsinhaber mit Plakaten „Ehre
+ t die Mutter“ in den Schaufenstern etabliert und als Tag der Blumenwüns
+ che gefeiert. Der Muttertag ist nicht gesetzlich verankert.
+DTEND;VALUE=DATE:20180514
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180514
+SUMMARY:Muttertag
+UID:1517411776-27546-80@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170531
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170530
-SUMMARY:5.Deutscher Diversity Tag 
-UID:1482873545-3964-76@milgrim
+DESCRIPTION:(säkular) Der Internationale Tag der Familie ist ein offiziell
+ er Gedenktag der Vereinten Nationen. Er findet jährlich am 15. Mai statt.
+DTEND;VALUE=DATE:20180516
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180516
+SUMMARY:Internationaler Tag der Familie
+UID:1517411776-27546-81@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170601
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170531
-SUMMARY:Schawuot
-UID:1482873545-3964-77@milgrim
+DESCRIPTION:(islamisch) Beginn des muslimischen Fastenmonats Ramadan. Das F
+ asten gehört zu den fünf Säulen des Islam. Erwachsene (ab der Pubertät
+ ) enthalten\nsich an jedem Tag dieses Monats von Morgendämmerung bis Sonn
+ enuntergang körperlicher Genüsse: Essen und Trinken\,\nGeschlechtsverkeh
+ r und Rauchen. Für Kranke und Reisende usw. gibt es Ausnahmen. Wer im Ram
+ adan nicht fasten kann\, holt die entsprechenden\nFasttage nach. Der Ramad
+ an ist eine Zeit der inneren Einkehr\, des sozialen Engagements und der pe
+ rsönlichen Läuterung.\nIm Koran heisst es: „Der Ramadan ist der Monat\
+ , in dem der Koran als Rechtleitung für die Menschen sowie als Beweis der
+  Leitung und\nder Unterscheidung des Guten vom Bösen herabgesandt wurde. 
+ Wer von euch den Monat erlebt\, soll daher in ihm fasten“ (Koran 2/185).
+DTEND;VALUE=DATE:20180625
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180516
+SUMMARY:Ramadan / islamisches Fasten / ????? / Ramazan Ay? 
+UID:1517411776-27546-82@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170602
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170601
-SUMMARY:Internationaler Kindertag 
-UID:1482873545-3964-78@milgrim
+DESCRIPTION:(christ.ortho./Altorient) 40 Tage lang ist Jesus seinen Jünger
+ n nach der Auferstehung erschienen. Die Christen nehmen nun 40 Tage nach O
+ stern Abschied von
+DTEND;VALUE=DATE:20180518
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180518
+SUMMARY:Christi Himmelfahrt
+UID:1517411776-27546-83@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170605
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170604
+DESCRIPTION:(säkular) Der Internationale Tag gegen Homophobie\, Transphobi
+ e und Biphobie wird seit 2005 jährlich am 17. Mai von Homosexuellen und s
+ päter auch Trans- und Bisexuellen als Aktionstag begangen\, um durch Akti
+ onen\, Aufmerksamkeit auf die Diskriminierung und Bestrafung von Menschen 
+ hinzuweisen\, die in ihrer sexuellen Orientierung oder Geschlechtsidentit�
+ �t von der Heteronormativität abweichen. Das Datum wurde zur Erinnerung a
+ n den 17. Mai 1990 gewählt\, als die Weltgesundheitsorganisation beschlos
+ s\, Homosexualität aus ihrem Diagnoseschlüssel für Krankheiten zu strei
+ chen. Im Unterschied dazu ist Transsexualität in dieser Klassifikation im
+ mer noch als psychische Störung eingestuft.
+DTEND;VALUE=DATE:20180518
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180518
+SUMMARY:Internationaler Tag gegen Homo-/Transphobie
+UID:1517411776-27546-84@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) 50 Tage nach dem Auszug aus Ägypten spricht Gott am
+  Berg Sinai zum ganzen Volk\, wo es auch die Gesetzestafeln erhält. Das F
+ est\nsteht insbesondere für die Einhaltung aller 613 in der Thora vorkomm
+ enden Ge- und Verbote. Üblicherweise wird zu diesem Anlass die\nNacht üb
+ er gelernt sowie mindestens eine milchige Mahlzeit eingenommen.
+DTEND;VALUE=DATE:20180521
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180519
+SUMMARY:Schawuot / ?????? (jüdisch)
+UID:1517411776-27546-85@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Am fünfzigsten Tag (griech.: Pentekoste =
+  Pfingsten) nach Ostern endet die österliche Festzeit. Die Apostelgeschic
+ hte erzählt\, dass an\ndiesem Tag die Anhänger Jesu in Jerusalem zusamme
+ ngekommen waren\, als der Geist Gottes auf sie ausgegossen wurde: Ein Brau
+ sen\nkam vom Himmel und die Jünger konnten plötzlich den Menschen\, die 
+ aus vielen Ländern nach Jerusalem gekommen waren\, in ihren\nMuttersprach
+ en von der Auferweckung Jesu erzählen (so genanntes Pfingstwunder). 3.000
+  Menschen ließen sich taufen. So ist Pfingsten\nauch das Fest der Entsteh
+ ung der Kirche\, das vielerorts mit ökumenischen Gottesdiensten gefeiert 
+ wird.
+DTEND;VALUE=DATE:20180521
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180521
 SUMMARY:Pfingstsonntag
-UID:1482873545-3964-79@milgrim
+UID:1517411776-27546-86@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170606
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170605
+DESCRIPTION:(säkular) Der Tag der Begegnung hat sich zum größten inklusi
+ ven Familienfest für Menschen mit und ohne Handicap in Deutschland entwic
+ kelt und ist auch europaweit das einzige Fest seiner Art. Gemeinsam zeigen
+  alle Gäste und Akteure\, wie eine inklusive Gesellschaft gelebt wird\, u
+ nd feiern gemeinsam für ein besseres gesellschaftliches Miteinander. (Meh
+ r Informationen: http://www.lvr.de/de/nav_main/derlvr/aktionen/tagderbegeg
+ nung/tagderbegegnung_1.jsp)
+DTEND;VALUE=DATE:20180521
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180521
+SUMMARY:Tag der Begegnung
+UID:1517411776-27546-87@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Am fünfzigsten Tag (griech.: Pentekoste =
+  Pfingsten) nach Ostern endet die österliche Festzeit. Die Apostelgeschic
+ hte erzählt\, dass an\ndiesem Tag die Anhänger Jesu in Jerusalem zusamme
+ ngekommen waren\, als der Geist Gottes auf sie ausgegossen wurde: Ein Brau
+ sen\nkam vom Himmel und die Jünger konnten plötzlich den Menschen\, die 
+ aus vielen Ländern nach Jerusalem gekommen waren\, in ihren\nMuttersprach
+ en von der Auferweckung Jesu erzählen (so genanntes Pfingstwunder). 3.000
+  Menschen ließen sich taufen. So ist Pfingsten\nauch das Fest der Entsteh
+ ung der Kirche\, das vielerorts mit ökumenischen Gottesdiensten gefeiert 
+ wird.
+DTEND;VALUE=DATE:20180522
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180522
 SUMMARY:Pfingstmontag
-UID:1482873545-3964-80@milgrim
+UID:1517411776-27546-88@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20170607
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170606
-SUMMARY:Gedenkfest für Abdal Musa 
-UID:1482873545-3964-81@milgrim
+DESCRIPTION:(säkular) Der Welttag der kulturellen Vielfalt für Dialog und
+  Entwicklung ist ein Aktionstag der UNESCO\, der jährlich am 21. Mai bega
+ ngen wird. Er soll das öffentliche Bewusstsein für kulturelle Vielfalt s
+ tärken und die Werte kultureller Vielfalt besser verständlich machen. Ku
+ lturelle Vielfalt trägt zur Förderung der menschlichen Entwicklung zu Gu
+ nsten gegenwärtiger und künftiger Generationen bei. Der Welttag hebt den
+  Beitrag von Kunst- und Kulturschaffenden zum interkulturellen Dialog und 
+ zum harmonischen Zusammenleben verschiedener Menschen und gesellschaftlich
+ er Gruppen hervor. Der Welttag nimmt Bezug auf die Allgemeine Erklärung z
+ ur kulturellen Vielfalt der UNESCO von 2001. Diese versteht kulturelle Vie
+ lfalt als Quelle des Austauschs und der Erneuerung. (Weitere Informationen
+ : http://www.unesco.de/kultur/welttage/welttag-kulturelle-vielfalt.html)
+DTEND;VALUE=DATE:20180522
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180522
+SUMMARY:Welttag der kulturellen Vielfalt
+UID:1517411776-27546-89@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170610
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170609
-SUMMARY:Christi Himmelfahrt 
-UID:1482873545-3964-82@milgrim
+DESCRIPTION:(säkular) Der Tag des Grundgesetzes ist der Gedenktag an die U
+ nterzeichnung des Grundgesetzes am 23. Mai 1949 in Bonn. Das Grundgesetz b
+ ildet rechtlich und politisch die Grundordnung in der Bundesrepublik Deuts
+ chland. Das Grundgesetz wurde am 3. Oktober 1990 mit dem Vollzug der staat
+ lichen Einheit Deutschlands\, zur gesamtdeutschen Verfassung.
+DTEND;VALUE=DATE:20180524
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180524
+SUMMARY:Tag des Grundgesetzes
+UID:1517411776-27546-90@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170610
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170609
-SUMMARY:Saka Dawa (tibetan Buddha Day) 
-UID:1482873545-3964-83@milgrim
+DESCRIPTION:(bahai) Im Mai 1844 erklärte der Báb (arab.: das Tor\, 1819-1
+ 850) in Schiras\, Iran\, Seine Sendung\, dass Er der im schiitischen Islam
+  verheißene\nQá’ím (Gottesbote) sei. Er wies immer auf das baldige Er
+ scheinen eines neuen Gottesboten (Bahá’u’lláh) hin.
+DTEND;VALUE=DATE:20180525
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180525
+SUMMARY:Erklärung des Bab
+UID:1517411776-27546-91@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich / christlich-orthodox
-DTEND;VALUE=DATE:20170612
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170611
-SUMMARY:Trinitatis / Dreifaltigkeitsfest 
-UID:1482873545-3964-84@milgrim
+DESCRIPTION:(christ.evan./kath.) An diesem Fest verehren die Gläubigen den
+  einen Gott\, der sich in dreifacher Weise offenbart: Als Vater hat er die
+  Welt erschaffen\, als\nSohn die Menschen erlöst und als Geisteskraft die
+  Gläubigen geheiligt. Christen glauben also an einen einzigen Gott\, den 
+ sie als Vater\,\nSohn und Heiligen Geist verehren.
+DTEND;VALUE=DATE:20180528
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180528
+SUMMARY:Trinitatis / Dreifaltigkeitsfest
+UID:1517411776-27546-92@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170616
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170615
+DESCRIPTION:(christ.ortho./Altorient) Am fünfzigsten Tag (griech.: Penteko
+ ste = Pfingsten) nach Ostern endet die österliche Festzeit. Die Apostelge
+ schichte erzählt\, dass an\ndiesem Tag die Anhänger Jesu in Jerusalem zu
+ sammengekommen waren\, als der Geist Gottes auf sie ausgegossen wurde: Ein
+  Brausen\nkam vom Himmel und die Jünger konnten plötzlich den Menschen\,
+  die aus vielen Ländern nach Jerusalem gekommen waren\, in ihren\nMutters
+ prachen von der Auferweckung Jesu erzählen (so genanntes Pfingstwunder). 
+ 3.000 Menschen ließen sich taufen. So ist Pfingsten\nauch das Fest der En
+ tstehung der Kirche\, das vielerorts mit ökumenischen Gottesdiensten gefe
+ iert wird.
+DTEND;VALUE=DATE:20180528
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180528
+SUMMARY:Pfingstsonntag
+UID:1517411776-27546-93@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.ortho./Altorient) Am fünfzigsten Tag (griech.: Penteko
+ ste = Pfingsten) nach Ostern endet die österliche Festzeit. Die Apostelge
+ schichte erzählt\, dass an\ndiesem Tag die Anhänger Jesu in Jerusalem zu
+ sammengekommen waren\, als der Geist Gottes auf sie ausgegossen wurde: Ein
+  Brausen\nkam vom Himmel und die Jünger konnten plötzlich den Menschen\,
+  die aus vielen Ländern nach Jerusalem gekommen waren\, in ihren\nMutters
+ prachen von der Auferweckung Jesu erzählen (so genanntes Pfingstwunder). 
+ 3.000 Menschen ließen sich taufen. So ist Pfingsten\nauch das Fest der En
+ tstehung der Kirche\, das vielerorts mit ökumenischen Gottesdiensten gefe
+ iert wird.
+DTEND;VALUE=DATE:20180529
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180529
+SUMMARY:Pfingstmontag
+UID:1517411776-27546-94@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) In zahlreichen Ländern Asiens ist Saka Dawa ein
+  nationaler Feiertag\, an dem gleichzeitig an Geburt\, Erleuchteung und Ab
+ leben des historischen Buddha erinnert wird. Das Fest beginnt um den Vollm
+ ondtag im Mai oder Anfang Juni herum. Obwohl die Bräuche von Land zu Land
+  unterschiedlich sind\, spielt das Licht in Vesak stets eine zentrale Roll
+ e. wird traditionell meist um den Vollmondtag im Mai oder Anfang Juni heru
+ m begangen. 
+DTEND;VALUE=DATE:20180530
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180530
+SUMMARY:Saka Dawa (tibetan Buddha Day)
+UID:1517411776-27546-95@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Bahá’u’lláh (arab.: Herrlichkeit Gottes) verschie
+ d im Mai 1892 in Bahjí bei Akka im heutigen Israel nach über 40-jährige
+ r Verfolgung\,\nVerbannung und Gefangenschaft.  Um diesen Tag zu feiern\, 
+ treffen sich Baha’i weltweit um 03.00 Uhr morgens\, um gemeinsam in eine
+ r Andacht mit Gebeten ihrem Religionsstifter zu gedenken.
+DTEND;VALUE=DATE:20180530
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180530
+SUMMARY:Hinscheiden des Bahá'u lláhs
+UID:1517411776-27546-96@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.kath.) Seit dem 13. Jahrhundert feiern katholische Chri
+ sten das „Hochfest des Leibes und Blutes Jesu Christi“. Öffentliche P
+ rozessionen\nmachen den Glauben an die besondere Gegenwart Christi im Sakr
+ ament der Eucharistie für alle Welt sichtbar. Durch den Empfang dieses\nS
+ akraments werden die Christen im übertragenen Sinne selbst zum Leib Chris
+ ti.
+DTEND;VALUE=DATE:20180601
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180601
 SUMMARY:Fronleichnam
-UID:1482873545-3964-85@milgrim
+UID:1517411776-27546-97@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170621
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170620
+DESCRIPTION:(säkular) Die Einrichtung eines internationalen Kindertags wur
+ de auf dem Weltkongresses der Internationalen Demokratischen Frauenfödera
+ tion vorgeschlagen und auf den 1. Juni festgelegt. Der internationale Kind
+ ertag etablierte darauf hin in vielen sozialistischen Ländern. Anfänglic
+ h und in den offiziellen Schriften sozialistischer Länder war der Kindert
+ ag\, wie der Internationale Frauentag\, ein Kampftag für die glückliche 
+ und friedliche Zukunft aller Kinder weltweit. Entsprechend lag der Schwerp
+ unkt auf dem Recht eines jeden Kindes\, in Frieden und Wohlstand aufwachse
+ n zu dürfen. Der internationale Kindertag wird traditionell in den Bundsl
+ ändern Berlin\, Brandenburg\, Mecklenburg-Vorpommern\, Sachsen-Anhalt\, S
+ achen\, Thüringen begangen. \n
+DTEND;VALUE=DATE:20180602
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180602
+SUMMARY:Internationaler Kindertag
+UID:1517411776-27546-98@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der „Deutsche Diversity-Tag“ ist ein jährlich w
+ iederkehrender\, bundesweiter Aktionstag\, der Organisationen dazu aufruft
+ \, sich für Vielfalt einzusetzen und Bewusstsein in der Gesellschaft für
+  Vielfalt zu schaffen. Er fand erstmals am 11. Juni 2013 statt. Rund 240 U
+ nternehmen und weitere Organisationen beteiligten sich mit 360 Aktionen. (
+ Weitere Informationen: https://www.charta-der-vielfalt.de/diversity-tag/ma
+ p.html)
+DTEND;VALUE=DATE:20180606
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180606
+SUMMARY:6. Deutscher Diversity Tag
+UID:1517411776-27546-99@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(alevitisch) Abdal Musa war ein Schüler von Hac? Bektasch Veli
+ \, stammte aus dem Ort Khoy im Iran und lebte im 13./14. Jahrhundert. Viel
+ e Gemeinden organisieren Cem-Gottesdienste zur Andacht von Abdal Musa.
+DTEND;VALUE=DATE:20180607
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180607
+SUMMARY:Gedenkfest für Abdal Musa
+UID:1517411776-27546-100@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Laut Zahlen der Weltgesundheitsorganisation WHO gibt
+  es mehr als eine Million sehbehinderte Menschen in Deutschland. Um auf di
+ e Bedürfnisse dieser Menschen aufmerksam zu machen\, hat der DBSV im Jahr
+  1998 einen eigenen Aktionstag eingeführt: den Sehbehindertentag. Er find
+ et jährlich am 6. Juni zu einem bestimmten Thema statt. (Weitere Informat
+ ionen: http://www.dbsv.org/sehbehindertentag.html)
+DTEND;VALUE=DATE:20180607
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180607
+SUMMARY:Sehbehindertentag
+UID:1517411776-27546-101@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) In der Nacht der Vorhersehung begann die Offenbarun
+ g des Korans\, der Quelle für das Glück der Menschen im Diesseits und Je
+ nseits. Auf den unschätzbaren Wert dieser Nacht weist eine eigene Sure im
+  Koran hin: „Wahrlich\, wir sandten ihn (den Koran) in der Nacht der Vor
+ hersehung herab. Woher solltest du aber wissen\, was die Nacht der Vorhers
+ ehung ist? Die Nacht der Vorhersehung ist wohlbringender als tausend Monat
+ e. Die Engel und der Geist (Gabriel) kommen in dieser Nacht mit der Erlaub
+ nis ihres Herrn für allerlei Aufträge herunter. Friede ist in ihr bis zu
+ m Anbruch der Morgenröte“ (Koran 97/1-5). Es ist die Nacht vom 10. Auf 
+ den 11. Juni 2018.
+DTEND;VALUE=DATE:20180611
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180610
+SUMMARY:Lailat al-Qadr / ???? ????? / Kadir Gecesi / Nacht der Bestimmung
+UID:1517411776-27546-102@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) Mit dem Ende des Monats Ramadan wird drei Tage lang
+  das Ramadanfest gefeiert. An diesen Tagen werden familiäre\, soziale und
+  nachbarschaftliche\nBeziehungen gepflegt\, indem gegenseitige Besuche und
+  Gratulationen zum Fest stattfinden. Kinder bekommen am ersten\nTag schulf
+ rei und erhalten Geschenke.
+DTEND;VALUE=DATE:20180617
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180615
+SUMMARY:Fest des Fastenbrechens / Eid al-fitr / ??? ????? / Ramazan Bayram?
+UID:1517411776-27546-103@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Alle Staaten der Welt verzeichnen von 2015 bis 2030 
+ einen großen Anstieg des Bevölkerungsanteil im Bereich der älteren Mnes
+ chen. Insbesondere in Schwellen- und Entwicklungsländern wird dieser Proz
+ ess schnell voranschreibten. Gleichzeitig steigt die Zahl der Fälle von G
+ ewalt an älteren Menschen. Dieses Tabuthema erfährt immer mehr Aufmerksa
+ mkeit\, obwohl es immer noch die am wenigsten untersuchteste Form von Gewa
+ lt ist und in nationalen Aktionsplänen gegen Gewalt kaum Beachtung findet
+ . Gewalt gegen ältere Menschen ist ein globales Phänomen und betrifft Ge
+ sundheit und Menschenrechte betroffener Menschen. Die Vereinten Nationen h
+ aben den 15. Juni zum Welttag gegen die Misshandlung älterer Menschen erk
+ lärt. \n
+DTEND;VALUE=DATE:20180616
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180616
+SUMMARY:Welttag gegen die Misshandlung älterer Menschen
+UID:1517411776-27546-104@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Am Weltflüchtlingstag\, der jährlich am 20. Juni s
+ tattfindet\, soll an die Stärke\, den Mut und die Beharrlichkeit von Mill
+ ionen Flüchtlingen erinnert werden. Bereits seit 1914 gibt es den Welttag
+  des Migranten und Flüchtlings\, ein kirchlicher Gedenktag für Flüchtli
+ nge udn Migraten. Jährlich zum Weltflüchtlingstag veröffentlicht der UN
+ HCR (engl. United Nations High Commissioner for Refugees\; Hoher Flüchtli
+ ngskommissar der Vereinten Nationen) einen Jahresbericht. Diesem zufolge b
+ efanden sich Ende 2013 über 51 Millionen Menschen auf der Flucht\, darunt
+ er mehr als 33 Millionen Männer\, Frauen und Kinder im eigenen Land. Die 
+ Zahl der Flüchtlinge hatte damit den höchsten Stand seit dem Zweiten Wel
+ tkrieg erreicht. Hauptaufnahmeländer für Flüchtlinge sind Pakistan\, Ir
+ an und Libanon. (Weitere Informationen: http://www.unhcr.org/refugeeday/de
+ /
+DTEND;VALUE=DATE:20180621
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180621
 SUMMARY:Weltflüchtlingstag (UNO)
-UID:1482873545-3964-86@milgrim
+UID:1517411776-27546-105@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170622
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170621
-SUMMARY:aylat al-Qadr (Nacht der Bestimmung) 
-UID:1482873545-3964-87@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170622
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170621
+DESCRIPTION:(säkular) Der Feiertag soll auch dazu dienen\, an die zentrale
+ n Werte\, Ideen und Prinzipien einer humanistischen Lebensauffassung zu er
+ innern: vernunftorientiertes und rationales Denken\, Selbstbestimmtheit\, 
+ Individualität\, Solidarität und Mitgefühl sowie die Überzeugung\, das
+ s alle Menschen nur ein einziges Leben besitzen. Er dient einer Vielzahl v
+ on konfessionsfreier und nichtreligöser Menschen als Möglichkeit\, den E
+ rrungenschaften in der gemeinsamen Arbeit eine Feier zu widmen. Im Rahmen 
+ einer Konferenz der Internationalen Humanistischen und Ethischen Union in 
+ Oslo wurde am 21. Juni 1986 dieser Tag schließlich als Welthumanistentag 
+ zum offiziellen Feiertag für Menschen ausgerufen\, die ihr Leben ohne Ori
+ entierung an religiösen Vorstellungen und auf Grundlage einer humanistisc
+ hen Lebensauffassung führen. (Weitere Informationen: http://www.welthuman
+ istentag.de/)
+DTEND;VALUE=DATE:20180622
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180622
 SUMMARY:Welthumanistentag
-UID:1482873545-3964-88@milgrim
+UID:1517411776-27546-106@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170626
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170625
-SUMMARY:Fest des Fastenbrechens (bis 27.06.)
-UID:1482873545-3964-89@milgrim
+DESCRIPTION:(säkular) Als Mittsommerfest werden die Feierlichkeiten zur So
+ mmersonnenwende bezeichnet.
+DTEND;VALUE=DATE:20180625
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180625
+SUMMARY:Midsommar
+UID:1517411776-27546-107@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170702
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170701
-SUMMARY:Geburtstag des Dalai Lama 
-UID:1482873545-3964-90@milgrim
+DESCRIPTION:(säkular) Der Internationale Tag gegen Folter soll auf das Ver
+ brechen der Folter aufmerksam machen und den Opfern weltweit Unterstützun
+ g aussprechen. (Weitere Informationen [engl.]: http://www.un.org/en/events
+ /torturevictimsday/)
+DTEND;VALUE=DATE:20180627
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180627
+SUMMARY:Internationaler Tag zur Unterstützung der Folteropfer
+UID:1517411776-27546-108@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170708
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170707
-SUMMARY:Christopher Street Day – Straßenfest (bis 09.07.)
-UID:1482873545-3964-91@milgrim
+DESCRIPTION:(jüdisch) Der Fastentag des 17. Tammus erinnert an den Beginn 
+ der Zerstörung des Tempels. An ihm fangen die "Drei Wochen" der Trauer ü
+ ber den Tempel und das Exil an. Diese "Drei Wochen" enden am Fasttag des  
+ Neunten Aw. Die Fastenzeit beginnt in der Morgendämmerung. Die drei Woche
+ n sind die Periode zwischen dem 17. Tammus und dem 9. Av im jüdischen Kal
+ ender. Während dieser Periode schreibt die Halacha - der rechtliche Teil 
+ der Überlieferung des Judentums - vor die Haare nicht zu schneiden\, kein
+ e Hochzeiten zu veranstalten\, keine neuen Kleider zu tragen oder zu kaufe
+ n\, vom 1.–9. Av weder Fleisch noch Wein zu genießen\, mit Ausnahme von
+  Schabbat und einer religiösen Feier ( Se’udat Mitzwa) und keine neue W
+ ohnung zu beziehen.
+DTEND;VALUE=DATE:20180702
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180702
+SUMMARY:Schiwa Assar beTammus / ???? ??? ????? (jüdisch)
+UID:1517411776-27546-109@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170709
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170708
-SUMMARY:Asalha Puja / Dhammacakka-Tag 
-UID:1482873545-3964-92@milgrim
+DESCRIPTION:(buddhistisch) Der XIV. Dalai Lama hat den Buddhismus im Westen
+  sehr bekannt gemacht. Für seine Bemühungen im Tibet-Konflikt bekam er 1
+ 989 den Friedensnobelpreis. Seitdem wird er von vielen Menschen ganz unabh
+ ängig von der Religionszugehörigkeit verehrt. Der Dalai Lama ist das wel
+ tliche und geistige Oberhaupt der Tibeter. Der XIV.\, also der jetzige Dal
+ ai Lama\, heißt Tenzin Gyatso und ist am 6. Juli 1935 geboren. Dalai Lama
+  ist also kein Name\, sondern ein Titel. 1578 verlieh der Mongolenfürst A
+ ltan Kahn dem damaligen Grosslama Sönam Gyatso diesen Titel als Dank für
+  buddhistische Weihen. Die Bedeutung der Worte "Dalai Lama" wird unterschi
+ edlich interpretiert. "Dalai" ist ursprünglich ein mongolisches Wort und 
+ heißt "Ozean". Das tibetische Wort "Lama" bedeutet soviel wie Lehrer oder
+  Meister. Daher hört man oft die freie Übersetzung "Ozean der Weisheit\n
+DTEND;VALUE=DATE:20180707
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180707
+SUMMARY:Geburtstag des Dalai Lama
+UID:1517411776-27546-110@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20170710
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170709
-SUMMARY:Märtyrertod des Bab 
-UID:1482873545-3964-93@milgrim
+DESCRIPTION:(säkular) Der Christopher Street Day (CSD) ist ein Fest-\, Ged
+ enk- und Demonstrationstag von Lesben\, Schwulen\, Bisexuellen\, Transgend
+ ern (LGBT+) und Asexuellen. An diesem Tag wird für die Rechte dieser Grup
+ pen sowie gegen Diskriminierung und Ausgrenzung demonstriert und gefeiert.
+  Die größten Demonstrationen anlässlich des CSD im deutschsprachigen Ra
+ um finden in Köln und Berlin statt. Der CSD erinnert an den ersten bekann
+ tgewordenen Aufstand von Homosexuellen und anderen sexuellen Minderheiten 
+ gegen die Polizeiwillkür in der New Yorker Christopher Street im Stadtvie
+ rtel Greenwich Village. Die Bezeichnung Christopher Street Day ist nur in 
+ Deutschland\, Teilen Österreichs und der Schweiz üblich. In anderen Län
+ dern wird meist von Gay Pride oder Pride Parades gesprochen. Das Straßenf
+ est in der Altstadt Kölns bietet die Gelegenheit für Besucherinnen und B
+ esucher zu feiern. In der Regel sind am Heumarkt Bühnen aufgebaut\, auf d
+ enen sowohl politische Diskussionen als auch musikalische Auftritte gebote
+ n werden. (Weitere Informationen: http://www.colognepride.de/de/home/)
+DTEND;VALUE=DATE:20180707
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180707
+SUMMARY:Kölner Christopher Street Day Straßenfest (CSD)
+UID:1517411776-27546-111@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170710
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170709
-SUMMARY:Cologne Pride Parade (CSD)
-UID:1482873545-3964-94@milgrim
+DESCRIPTION:(säkular) Mit etwa 85 Wagen\, unzähligen Fußgruppen und bis 
+ zu 950.000 Zuschauern zählt die Kölner CSD Parade zu den größten Demon
+ strationszügen von Schwulen\, Lesben\, Bi-\, Inter- und Transsexuellen in
+  Europa. 
+DTEND;VALUE=DATE:20180708
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180708
+SUMMARY:Kölner Christopher Street Day Parade (CSD)
+UID:1517411776-27546-112@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistsisch
-DTEND;VALUE=DATE:20170720
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170719
-SUMMARY:Asala (Theravada) 
-UID:1482873545-3964-95@milgrim
+DESCRIPTION:(armenisch) Am Fest der Verklärung Christi bespritzen die Mens
+ chen einander mit Wasser. Der Verklärung Christi durch die Apostel wird h
+ ier gedacht.
+DTEND;VALUE=DATE:20180709
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180709
+SUMMARY:Verklärung Christi / Vardavar / ???????? / 
+UID:1517411776-27546-113@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170722
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170721
-SUMMARY:Gedenktag für verstorbene Drogenabhängige 
-UID:1482873545-3964-96@milgrim
+DESCRIPTION:(bahai) Der Báb (arab.: das Tor)\, der Vorläufer Bahá’u’
+ lláhs\, wurde im Juli 1850 öffentlich in Täbris\, Iran\, hingerichtet.
+DTEND;VALUE=DATE:20180711
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180711
+SUMMARY:Märtyrertod des Bab
+UID:1517411776-27546-114@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170724
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170723
-SUMMARY:Fasten 9.AW – Tisha B’AV 
-UID:1482873545-3964-97@milgrim
+DESCRIPTION:(hinduistisch) Berühmtes Wagenfest aus Jagannath Puri mit den 
+ Geschwister-Gottheiten Jagannath\, Baladeva und Subradra.
+DTEND;VALUE=DATE:20180715
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180715
+SUMMARY:Ratha Yatra
+UID:1517411776-27546-115@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170728
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170727
-SUMMARY:Choe-Khor Duechen (Tibet) 
-UID:1482873545-3964-98@milgrim
+DESCRIPTION:(buddhistisch) Tag des Rads der Lehre. Gefeiert wird die erste 
+ Lehrrede des Buddha. Dritter «grosser Moment» im Vajrayana-Kalender.
+DTEND;VALUE=DATE:20180717
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180717
+SUMMARY:Choe-Khor Duechen (Tibet)
+UID:1517411776-27546-116@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170731
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170730
-SUMMARY:Internationaler Tag der Freundschaft
-UID:1482873545-3964-99@milgrim
+DESCRIPTION:(jüdisch) Der erste Tempel in Jerusalem wurde durch die Babylo
+ nier\, der zweite durch die Römer zerstört. Das Datum war jeweils der 9.
+  Aw (hebr.: Tischa beAw). Daher ist dies der traurigste Tag im jüdischen 
+ Festtagskalender\, der mit Fasten und speziellen Klagegesängen begangen\n
+ wird. Er bildet Höhepunkt und Abschluss der Trauerzeit der drei Wochen.
+DTEND;VALUE=DATE:20180723
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180723
+SUMMARY:Tischa beAV /  ???? ??? (jüdisch)
+UID:1517411776-27546-117@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170801
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170731
-SUMMARY:Tisha B’AV 
-UID:1482873545-3964-100@milgrim
+DESCRIPTION:(jüdisch) Tu B'Av ist ein kleiner jüdischer Feiertag\, der in
+  der Nacht zwischen dem 14. und 15. Tag des Monats Aw beginnt\, einer Voll
+ mondnacht. Er gilt Freudentag\, da er den Beginn der Weinlese sowie einige
+  historische Ereignisse symbolisiert. Hierzu zählen beispielsweise der Si
+ eg der Pharisäer über die Sadduzäer.
+DTEND;VALUE=DATE:20180727
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180726
+SUMMARY:Tu B'Av / ??? ??? (jüdisch)
+UID:1517411776-27546-118@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170803
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170802
+DESCRIPTION:(buddhistisch) Asalha Puja ist eines der wichtigsten buddhistis
+ chen Feste und wird oft in Form einer Ehrerweisung abgehalten. Es wird beg
+ angen an einem Tag des Vollmonds im achten Monat (entspricht circa Juli) d
+ es thailändischen Mondkalenders. Das Fest erinnert an die erste Rede des 
+ Buddha vor seiner Gefolgschaft nachdem er erleuchtet worden war. In dieser
+  Rede finden sich bereits alle Grundgedanken des Buddhismus. Hier spricht 
+ Buddha vom Rad der Lehre und von den vier edlen Wahrheiten (Wahrheit vom L
+ eiden\, Wahrheit von der Ursache des Leidens\, Wahrheit vom Ende des Leide
+ ns\, Wahrheit vom Weg zum Ende des Leidens).
+DTEND;VALUE=DATE:20180728
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180728
+SUMMARY:Asalha Puja (Theravada)
+UID:1517411776-27546-119@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Der Fest- und Feiertag Asalha Puja beginnt nach 
+ dem Mondkalender am Vollmondtag des achten Monats und findet immer einen T
+ ag vor der drei Monate andauernden buddhistischen Fastenzeit statt. Das is
+ t i.d.R. zwischen Mitte Juli und Ende Juli. Den Feiertag Asalha Puja nennt
+  man in Thailand auch Asalha Bucha oder Asanha Bucha. Asanha Bucha gehört
+  zu den wichtigsten Feiertagen und buddhistischen Festen in Thailand.\nMit
+  diesem heiligen Feiertag gedenken gläubige Buddhisten der ersten Predigt
+  und Lehrrede von Buddha im Wildpark Isipatana bei Benares. Er hielt die P
+ redigt vor fünf Asketen am Dhamma-Tag\, nachdem er erleuchtet wurde. Dies
+ e erste Predigt enthielt bereits alle wichtigen Inhalte der buddhistischen
+  Lehre. Wie die vier edlen Wahrheiten und den edlen achtfachen Pfad. In de
+ n meisten Tempeln in Thailand finden an diesem Tag Prozessionen statt und 
+ viele religiöse Zeremonien werden vollzogen. Wichtig an diesem Feiertag i
+ st auch das gemeinsame Sprechen der ersten Predigt. Es findet meist währe
+ nd einer Nachtwache statt.\n
+DTEND;VALUE=DATE:20180728
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180728
+SUMMARY:Asalha Puja
+UID:1517411776-27546-120@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Mit dem Welttag gegen Menschenhandel wird am 30. Jul
+ i auf ein internationales Problem aufmerksam gemacht und dazu aufgerufen\,
+  gegen den Menschenhandel vorzugehen. Der Tag wurde 2013 durch die Vereint
+ en Nationen ausgerufen und 2014 erstmals begangen\, um auf die Situation d
+ er Opfer aufmerksam zu machen und sich für deren Rechte einzusetzen. Unte
+ r Menschenhandel wird der Kauf bzw. Verkauf von Menschen gegen deren Wille
+ n verstanden. Fast alle Länder der Welt sind hiervon direkt oder indirekt
+  betroffen. (Weitere Informationen: https://www.uno-fluechtlingshilfe.de/n
+ ews/internationaler-tag-gegen-menschenhandel-645.html)
+DTEND;VALUE=DATE:20180731
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180731
+SUMMARY:Welttag gegen Menschenhandel
+UID:1517411776-27546-121@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der 2. August wurde im April 2015 vom Europäischen 
+ Parlament zum Tag des Gedenkens an den Völkermord an den europäischen Si
+ nti und Roma erklärt. Dieser rassistisch motivierte Völkermord erfährt 
+ bis heute viel zu wenig Aufmerksamkeit. Hunderttausende Sinti und Roma sin
+ d im Deutschen Reich\, den deutsch besetzten Ländern oder in mit dem Deut
+ schen Reich kollaborierenden Staaten an ihren Wohnorten oder in Ghettos\, 
+ Konzentrations- und Vernichtungslagern getötet worden. Dem Völkermord gi
+ ng eine jahrzehntelange Politik der Stigmatisierung\, Diskriminierung und 
+ Entrechtung voraus. Der 2. August wurde deshalb als Gedenktag gewählt\, w
+ eil in der Nacht vom 2. auf den 3. August 1944 im Konzentrations- und Vern
+ ichtungslager Auschwitz-Birkenau die letzten dort noch lebenden Sinti und 
+ Roma in den Gaskammern ermordet wurden.\n
+DTEND;VALUE=DATE:20180803
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180803
 SUMMARY:Gedenktag Genozid an den Roma
-UID:1482873545-3964-101@milgrim
+UID:1517411776-27546-122@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170810
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170809
-SUMMARY:Internationaler Tag der indigenen Bevölkerungen
-UID:1482873545-3964-102@milgrim
+DESCRIPTION:(säkular) Der Tag der indigen Bevölkerunger der Welt findet j
+ edes Jahr am 9. August statt. Er wird veranstaltet\, um die Rechte der ind
+ igenen Bevölkerung zu fördern und zu schützen. Der Aktionstag würdigt 
+ auch die Leistungen und Beiträge\, die indigene Bevölkerungsgruppen leis
+ ten\, um internationale Fragen wie den Umweltschutz zu verbessern. Der Tag
+  der indigenen Völker wurde zuerst von der Generalversammlung der Vereint
+ en Nationen im Dezember 1994 ausgesprochen. Indigene Völker sind nach ein
+ er international gebräuchlichen Definition marginalisierte Bevölkerungsg
+ ruppen\, die Nachkommen einer Bevölkerung vor Eroberung\, Kolonisation od
+ er der Gründung eines Staates oder einer Region sind\, die sich selbst al
+ s eigenständiges Volk verstehen und ihre eigenen sozialen\, wirtschaftlic
+ hen und kulturellen Institutionen beibehalten. Die Gesamtzahl der Angehör
+ igen der indigenen Völker der Erde wird auf etwa 350 Millionen Menschen g
+ eschätzt. Ein zentrales Element der Unterscheidung indigener Gemeinschaft
+ en von der nicht-indigenen Mehrheitsgesellschaft ist oftmals die besonders
+  enge Bindung indigener Kulturen an ihr jeweiliges Territorium sowie die b
+ esonders enge Beziehung zu diesem\, die zumeist auch spirituelle Dimension
+  besitzt. 
+DTEND;VALUE=DATE:20180810
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180810
+SUMMARY:Internationaler Tag der indigen Bevölkerung
+UID:1517411776-27546-123@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170813
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170812
+DESCRIPTION:(säkular) Jährlich findet der Internationale Tag der Jugend a
+ m 12. August statt. Er soll an die Bedeutung der Jugend als Lebensphase er
+ innern und wird weltweit begangen. Am Internationalen Tag der Jugend stehe
+ n die Jugendlichen im Vordergrund. Laut westeuropäischer Definition werde
+ n meist Menschen zwischen 13 und 21 Jahren als Jugendliche bezeichnet. Zur
+  Feier des Tages finden oft Aktionen für Jugendliche statt\, die teils au
+ ch selbst bei der Organisation helfen oder diese eigenständig umsetzen. 
+DTEND;VALUE=DATE:20180813
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180813
 SUMMARY:Internationaler Tag der Jugend
-UID:1482873545-3964-103@milgrim
+UID:1517411776-27546-124@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20170814
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170813
-SUMMARY:Bonfest Japan (bis 15.08)
-UID:1482873545-3964-104@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170814
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170813
+DESCRIPTION:(säkular) Bereits seit dem Jahr 1976 wird der Internationale L
+ inkshändertag jährlich begangen. Dean R. Campbell\, der 1975 auch die Or
+ ganisation "Lefthanders international" gründete\, rief diesen Tag zum Lin
+ kshändertag aus. In den letzten Jahren hat der Linkshändertag zunehmend 
+ Berichte über Linkshändigkeit am 13. August in verschiedenen Medien ange
+ regt. Linkshänder sind Personen\, die bevorzugt die linke Hand benutzen\,
+  insbesondere bei nicht durch Erziehung geprägten Tätigkeiten mit nur ei
+ ner Hand. Teilweise wurden und werden Linkshänder auf die rechte\, kultur
+ ell oder historisch in vielen Ländern als besser bewertete Hand umerzogen
+ . 
+DTEND;VALUE=DATE:20180814
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180814
 SUMMARY:Internationaler Linkshändertag
-UID:1482873545-3964-105@milgrim
+UID:1517411776-27546-125@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170816
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170815
-SUMMARY:Krishna Jamashtami 
-UID:1482873545-3964-106@milgrim
+DESCRIPTION:(christ.evan./kath.) Dieses Fest\, das von katholischen\, ortho
+ doxen und altorientalischen Christen seit dem 7. Jahrhundert gefeiert wird
+ \, feiert die Aufnahme\nMarias in den Himmel\, nach katholischem Verständ
+ nis mit Leib und Seele. Die Orthodoxe Kirche spricht vom seligen Entschlaf
+ en der\nGottesmutter.
+DTEND;VALUE=DATE:20180816
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180816
+SUMMARY:Mariä Himmelfahrt
+UID:1517411776-27546-126@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170816
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170815
-SUMMARY:Mariä Himmelfahrt 
-UID:1482873545-3964-107@milgrim
+DESCRIPTION:(buddhistisch) Das japanisch-buddhistische Obon-Fest ist ein Fe
+ st zu Ehren und zur Freude der Verstorbenen\, die ein Mal im Jahr aus dem 
+ Jenseits zurückkehren\, um die Lebenden zu besuchen. O-bon dauert mehrere
+  Tage und ist eine der größten Feiern Japans.\nIn der Zeit ihrer Anwesen
+ heit unter den Lebenden werden die Geister der Toten feierlich mit Obst\, 
+ Gemüse und Reiswein verpflegt. Die Lebenden besuchen die Gräber ihrer Vo
+ rfahren\, wo sie Papierlaternen anzünden und Weihrauch verbrennen. Es wer
+ den Gebetsstäbe entzündet\, auf denen die guten Wünsche für die Versto
+ rbenen stehen.\nÜberhaupt spielt Feuer beim Obon-Fest eine wichtige Rolle
+ . Mit Feuern werden die Toten zu Beginn begrüßt und die Bon Feuer am End
+ e dieser Feiertage leuchten den Toten auf ihrem Weg zurück ins Jenseits.\
+ n
+DTEND;VALUE=DATE:20180816
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180816
+SUMMARY:Beginn Obon Japan
+UID:1517411776-27546-127@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20170817
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170816
-SUMMARY:Hac? Bekta? Veli 
-UID:1482873545-3964-108@milgrim
+DESCRIPTION:(alevitisch) Hadschi Bektasch Wali war ein muslimischer Mystike
+ r\, der in der zweiten Hälfte des 13. Jahrhunderts in Anatolien lebte und
+  wirkte. Das Mausoleum von Haci Bektasch Veli befindet sich in der Provinz
+  Nev?ehir in der Türkei und ist ein Wallfahrtsort für Aleviten. Am 16. A
+ ugust jedes Jahres pilgern Aleviten in den nach ihm benannten Ort Hac?bekt
+ a?.
+DTEND;VALUE=DATE:20180817
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180817
+SUMMARY:Haci Bekta? Veli
+UID:1517411776-27546-128@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170822
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170821
-SUMMARY:Navaratri (bis 29.09.) 
-UID:1482873545-3964-109@milgrim
+DESCRIPTION:(islamisch) Arabisch 'idu l-adha\, türkisch Kurban Bayram?. Da
+ s Opferfest ist das Hauptfest für die Muslime und ist zugleich der Höhep
+ unkt der\nPilgerfahrt (Hadsch) für die Pilgernden. Das Fest erinnert an d
+ ie Bereitschaftsprüfung Ibrahims (= Abrahams)\, das ihm Liebste - seinen\
+ nSohn Ismail - zu opfern. Gott jedoch schenkte ihm einen Widder\, welchen 
+ er anstelle seines geliebten Sohnes opferte. So sollen alle\nwohlhabenden 
+ Muslime nach dem Festgebet in der Moschee an einem dieser Festtage ein Tie
+ r opfern. Die soziale Verantwortung wohlhabender\nGläubiger erfordert das
+  Teilen eines Drittels des Geopferten mit sozial und finanziell Bedürftig
+ en\, des zweiten Teils mit\nNachbarn und des letzten Teils mit der Familie
+ .
+DTEND;VALUE=DATE:20180824
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180821
+SUMMARY:Opferfest / ??? ?????? / Kurban Bayram?
+UID:1517411776-27546-129@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170826
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170825
-SUMMARY:Ganeshafest
-UID:1482873545-3964-110@milgrim
+DESCRIPTION:(hinduistisch) Raksha Bandan (schützende Verbindung) ist das F
+ est der geschwisterlichen Verbindung und Segnung mit Stoffarmbändern. Kri
+ shna verletzte\nsich die Hand\, und die Königin Draupadi verband ihn mit 
+ dem Stoff ihres Saris. Als ihre Widersacher sie später entblößen wollte
+ n\,\nbeschützte Krishna sie und verlängerte ihren Sari ins Unendliche.
+DTEND;VALUE=DATE:20180827
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180827
+SUMMARY:Raksha Bandan
+UID:1517411776-27546-130@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:sikh
-DTEND;VALUE=DATE:20170830
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170829
-SUMMARY:Guru Granth Sahib 
-UID:1482873545-3964-111@milgrim
+DESCRIPTION:(christ.ortho./Altorient) Dieses Fest\, das von katholischen\, 
+ orthodoxen und altorientalischen Christen seit dem 7. Jahrhundert gefeiert
+  wird\, feiert die Aufnahme\nMarias in den Himmel\, nach katholischem Vers
+ tändnis mit Leib und Seele. Die Orthodoxe Kirche spricht vom seligen Ents
+ chlafen der\nGottesmutter. In den orthodoxen Kirchen findet vor dem Fest d
+ er Entschlafung Mariens das zweiwöchige Marienfasten statt\, in dem auf F
+ leisch\, Fisch\, Milchprodukte und in der Regel auch auf Wein und Öl verz
+ ichtet werden soll.
+DTEND;VALUE=DATE:20180829
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180829
+SUMMARY:Mariä Himmelfahrt
+UID:1517411776-27546-131@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170902
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170901
-SUMMARY:Opferfest/ Id al-adha (bis 04.09.)
-UID:1482873545-3964-112@milgrim
+DESCRIPTION:(säkular) Der Tag der Russlanddeutschen ist ein deutscher Gede
+ nktag\, der am 28. August 2018 stattfindet. Der Tag wird seit 1982 begange
+ n und erinnert an den 28. August 1941. Nach Beginn des Zweiten Weltkrieges
+  wurden die Russlanddeutschen entsprechend dem Erlass des Obersten Sowjets
+  von eben diesem Tag innerhalb weniger Wochen aus den europäischen Teilen
+  der Sowjetunion nach Osten zwangsdeportiert. Ziele waren vor allem Sibiri
+ en\, Kasachstan und der Ural. Die Umsiedlung sollte eine Kollaboration der
+  Russlanddeutschen mit Nazi-Deutschland verhindern. Der Tag der Russlandde
+ utschen soll an den mühevollen Weg erinnern\, der hierzu begangen werden 
+ musste.
+DTEND;VALUE=DATE:20180829
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180829
+SUMMARY:Tag der Russlanddeutschen
+UID:1517411776-27546-132@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170902
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170901
+DESCRIPTION:(sikh) Guru Granth Sahib\, auch bekannt als "Adi Granth"\, wird
+  in der Religion der Sikhs als übergeordnete spirituelle Autorität und F
+ ührer angesehen. Guru Granth Sahib ist das einzige Schriftstück dieser A
+ rt\, welches nicht nur die Arbeiten der eigenen religiösen Gründer beinh
+ altet\, sondern auch Schriften anderer Glaubensrichtungen umfasst. Die Sik
+ hs bringen dem Buch große Ehrerbietung entgegen und sehen es als lebendig
+ en Guru an. Guru Granth Sahib ist eine Zusammenstellung von hingebungsvoll
+ en Hymnen und Poesie zur Anrufung Gottes. Der Text betont die Meditation �
+ �ber den wahren Guru (Gott) und legt moralische und ethische Regeln für d
+ ie Entwicklung der Seele fest\, für die spirituelle Erlösung und die Ein
+ heit mit Gott.  
+DTEND;VALUE=DATE:20180830
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180830
+SUMMARY:Guru Granth Sahib
+UID:1517411776-27546-133@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Seit Ende des Zweiten Weltkrieges\, der am 1. Septem
+ ber 1939 mit dem Überfall der Hitler-Armeen auf Polen begann\, wird diese
+ s Datum in der Bundesrepublik als Antikriegstag begangen. Die Initiative g
+ ing vom Deutschen Gewerkschaftsbund aus\, der erstmals am 01.09.1957 unter
+  dem Motto "Nie wieder Krieg" zu gewerkschaftlichen Aktionen aufrief. Mit 
+ Kundgebungen und Mahnwachen wird an diesem Tag für Abrüstung und eine fr
+ iedliche Welt demonstriert. (Weitere Informationen [engl.] http://www.un.o
+ rg/en/events/peaceday/)
+DTEND;VALUE=DATE:20180902
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180902
 SUMMARY:Antikriegstag
-UID:1482873545-3964-113@milgrim
+UID:1517411776-27546-134@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170909
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170908
-SUMMARY:Alphabetisierungstag
-UID:1482873545-3964-114@milgrim
+DESCRIPTION:(hinduistisch) Geburtstag Krishnas\, des meistverehrten Hindu-G
+ ottes.
+DTEND;VALUE=DATE:20180904
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180904
+SUMMARY:Krishna Jamashtami
+UID:1517411776-27546-135@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich-orthodox
-DTEND;VALUE=DATE:20170912
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170911
-SUMMARY:Koptisch-/Äthiopisch-Orthodoxes Neujahr 
-UID:1482873545-3964-115@milgrim
+DESCRIPTION:(christ.evan./kath./ortho.) Fest der Geburt der Gottesmutter Ma
+ ria
+DTEND;VALUE=DATE:20180909
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180909
+SUMMARY:Mariä Geburt
+UID:1517411776-27546-136@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170916
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170915
+DESCRIPTION:(säkular) Der Weltalphabetisierungstag wird alljährlich am 8.
+  September begangen. Der Tag soll an die Problematik des Analphabetismus e
+ rinnern. Weltweit können rund 860 Millionen Erwachsene nicht richtig lese
+ n und schreiben\, zwei Drittel davon sind Frauen. In Deutschland gelten 7\
+ ,5 Millionen Menschen als Analphabeten. Im Anschluss an die Weltkonferenz 
+ zur Beseitigung des Analphabetentums im September 1965 in Teheran wurde vo
+ n der UNESCO der Weltalphabetisierungstag  ins Leben gerufen und am 8. Sep
+ tember 1966 erstmals begangen. Neben zahlreichen Veranstaltungen\, die wel
+ tweit auf die sozialen und wirtschaftlichen Folgen des Analphabetismus hin
+ weisen\, werden zum Weltalphabetisierungstag mehrere Bildungspreise von de
+ r UNESCO vergeben. (Weitere Informationen: https://www.unesco.de/bildung/w
+ elttage-bildung/alphabetisierungstag.html)
+DTEND;VALUE=DATE:20180909
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180909
+SUMMARY:Weltalphabetisierungstag
+UID:1517411776-27546-137@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) Nach jüdischer Überlieferung wurde die Welt vor 57
+ 78 Jahren erschaffen. Der 1. Tischri (jüdischer Monatsname)\, der auf den
+  Rosch Haschana (wörtlich: Kopf des Jahres) fällt\, soll der sechste Tag
+  der Schöpfung gewesen sein\, also der Tag\, an dem der erste Mensch ersc
+ haffen wurde. Daher gilt dieses Fest als Tag des Göttlichen Gerichtes\, b
+ ei dem jeder einzelne Mensch von Gott für seine Taten des letzten Jahres 
+ beurteilt wird. Das Schofar\, ein  Widderhorn\, wird während des Gebetes 
+ mehrfach geblasen. Dessen Töne sollen die Beter\nzur Umkehr bewegen. Dar�
+ �ber hinaus ist es üblich\, z.B. einen Apfel in Honig zu tauchen\, verbun
+ den mit dem Wunsch\, ein gutes und süßes neues Jahr zu erleben.
+DTEND;VALUE=DATE:20180922
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180909
+SUMMARY:Neujahrsfest / ????? ????????? / Rosch ha-Schana
+UID:1517411776-27546-138@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(alevitisch) Tochter Mohammeds (Fsmi) und Frau von Ali. Sie beg
+ ahr die beiden Söhne Hassan und Husain\, die im Alevitintum und in der Sc
+ hia eine bedeutende Rolle in der Nachfolge des Propheten spielen. 
+DTEND;VALUE=DATE:20180911
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180911
+SUMMARY:Fatma Ana Fasten
+UID:1517411776-27546-139@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) Beginn des Jahres 1439 islamischer Zeitrechnung. Di
+ e islamische Zeitrechnung beginnt 622 n.Chr. In diesem Jahr fand die\nAusw
+ anderung des Propheten nach Medina statt.
+DTEND;VALUE=DATE:20180912
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180912
+SUMMARY:Islamisches Neujahr / ??? ????? / Hicri Sene (Y?l Ba??)
+UID:1517411776-27546-140@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.ortho.) -
+DTEND;VALUE=DATE:20180912
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180912
+SUMMARY:Koptisch-/ Äthiopisch-Orthodoxes Neujahr
+UID:1517411776-27546-141@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(alevitisch) Dem im Jahre 680 n.Chr. in Kerbala (heutiger Irak)
+  ermordeten Imam Hüseyin wird in der zwölftägigen Trauerzeit die Verbun
+ denheit gezeigt. Während dieser Zeit wird gefastet und Enthaltsamkeit ge�
+ �bt\, um den Leidensweg Hüseyins nachzuempfinden. Zu Ehren weiterer Imame
+  wird zwölf Tage gefastet.
+DTEND;VALUE=DATE:20180923
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180911
+SUMMARY:Muharrem Fasten
+UID:1517411776-27546-142@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Fest zu Ehren des Elefantengottes Ganesha
+DTEND;VALUE=DATE:20180914
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180914
+SUMMARY:Ganeshafest
+UID:1517411776-27546-143@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(armenisch) Tag des Heiligen Kreuzes. Die Kreuzigung Jesus und 
+ damit auch das Kreuz wurden zu einem Symbol seiner bedingungslose Liebe.
+DTEND;VALUE=DATE:20180915
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180915
+SUMMARY:Kreuzerhöhungsfest 
+UID:1517411776-27546-144@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Im Jahr 2007 bestimmte die Generalversammlung der Ve
+ reinten Nationen den 15. September als Internationalen Tag der Demokratie.
+  Das Ziel des Tages sind die Förderung und Verteidigung der Grundsätze d
+ er Demokratie. Fast drei Jahrzehnte nach dem Untergang der DDR und der Deu
+ tschen Einheit sind das Leben in einer Demokratie und die damit verbundene
+ n Rechte und Freiheiten wie der Schutz der Menschenwürde\, die Meinungs-\
+ , Versammlungs-\, Religions- und Pressefreiheit oder auch das Wahlrecht f�
+ �r uns selbstverständlich geworden. Doch eine Demokratie ist nicht selbst
+ verständlich! So musste Deutschland im letzten Jahrhundert zwei Diktature
+ n überstehen - die Aufarbeitung dieser Vergangenheit dauert bis heute an.
+  Und beim Blick über die Grenzen zeigt es sich\, dass es noch viele Dikta
+ turen auf der Welt gibt\, in denen die Bürgerinnen und Bürger unterdrüc
+ kt werden und die zum Teil gegenüber anderen Staaten aggressiv auftreten.
+  \n
+DTEND;VALUE=DATE:20180916
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180916
 SUMMARY:Internationaler Tag der Demokratie
-UID:1482873545-3964-116@milgrim
+UID:1517411776-27546-145@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20170921
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170920
-SUMMARY:Fatma Ana Fasten 
-UID:1482873545-3964-117@milgrim
+DESCRIPTION:(hinduistisch) Geburtstag Radhas\, der Gefährtin Krishnas
+DTEND;VALUE=DATE:20180918
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180918
+SUMMARY:Radhastami
+UID:1517411776-27546-146@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20170922
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170921
-SUMMARY:Mariä Geburt 
-UID:1482873545-3964-118@milgrim
+DESCRIPTION:(jüdisch) Der Versöhnungstag ist der höchste jüdische Feier
+ tag. Zehn Tage nach dem Neujahrsfest\, an dem die Menschen für ihre Taten
+  des vergangenen Jahres beurteilt wurden\, bietet dieser heilige Fastentag
+  (Essen und Trinken sind ca. 25 Stunden verboten) die Möglichkeit\, das\n
+ Urteil durch Reue und Umkehr noch positiv zu verändern.
+DTEND;VALUE=DATE:20180929
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180918
+SUMMARY:Jom Kippur /???? ???????? 
+UID:1517411776-27546-147@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20170922
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170921
-SUMMARY:Muharrem Fasten 
-UID:1482873545-3964-119@milgrim
+DESCRIPTION:(islamisch) Das Fest erinnert an mehrere große Ereignisse\, wi
+ e z.B. die Erschaffung der Erde und der Himmel\, die Anerkennung der Reue 
+ Adams\ndurch Gott\, die Errettung Noahs von der Sintflut\, die Errettung A
+ brahams vom Feuer\, die Rettung des Propheten Mose in Ägypten. Es\nfindet
+  am zehnten des ersten Monats (Muharram) im islamischen Kalender statt. De
+ r Tradition (Sunna) des Propheten Mohammad (Fsmi)\nfolgend\, fasten an die
+ sem Tag viele Muslime. Zudem bereiten sie eine Aschura-Süßspeise zu\, di
+ e auf Noah zurückgeführt wird.\nGleichzeitig erinnert Aschura an die Erm
+ ordung Hüseyins\, dem Enkel des Propheten\, in Kerbala. Somit ist dieser 
+ Tag auch ein Tag der\nTrauer.
+DTEND;VALUE=DATE:20180921
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180921
+SUMMARY:Aschura / ??????? / A?ure Günü
+UID:1517411776-27546-148@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20170922
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170921
-SUMMARY:Rosch Ha-Schana 
-UID:1482873545-3964-120@milgrim
+DESCRIPTION:(alevitisch) Der 10. Oktober 680 wird als Todestag des Heiligen
+  Hüseyin angenommen und viele Aleviten gedenken neben dem Muharrem-Fasten
+  auch an diesem Tag des Heiligen. Todestag 23.10. Gedenktag zum Todestag 1
+ 0.10.
+DTEND;VALUE=DATE:20180921
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180921
+SUMMARY:Todestag Heiliger Hüseyin
+UID:1517411776-27546-149@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20170922
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170921
-SUMMARY:Islamisches Neujahr 
-UID:1482873545-3964-121@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170924
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170923
-SUMMARY:Tag der Bisexualität
-UID:1482873545-3964-122@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20170925
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170924
-SUMMARY:Interkulturelle Woche (bis 30.09.)
-UID:1482873545-3964-123@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20170927
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170926
-SUMMARY:Durga Puja (bis 30.09.) 
-UID:1482873545-3964-124@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20171001
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170930
-SUMMARY:Jom Kippur 
-UID:1482873545-3964-125@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20171001
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170930
-SUMMARY:Dussehrafest
-UID:1482873545-3964-126@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20171001
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20170930
-SUMMARY:Ashura-Fest 
-UID:1482873545-3964-127@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171002
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171001
-SUMMARY:Erntedankfest
-UID:1482873545-3964-128@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171003
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171002
-SUMMARY:Tag des Flüchtlings
-UID:1482873545-3964-129@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:alevitisch
-DTEND;VALUE=DATE:20171004
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171003
-SUMMARY:A?URA
-UID:1482873545-3964-130@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20171005
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171004
-SUMMARY:Sukkot (bis 11.10) 
-UID:1482873545-3964-131@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20171006
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171005
-SUMMARY:Kathina (Theravada) 
-UID:1482873545-3964-132@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171008
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171007
-SUMMARY:Welttag für menschenwürdige Arbeit
-UID:1482873545-3964-133@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:buddhistisch
-DTEND;VALUE=DATE:20171011
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171010
-SUMMARY:Lha Bab Duechen 
-UID:1482873545-3964-134@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20171012
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171011
-SUMMARY:Simchat Tora 
-UID:1482873545-3964-135@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171012
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171011
-SUMMARY:Internationaler Mädchentag
-UID:1482873545-3964-136@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171012
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171011
-SUMMARY:Internationaler Coming-Out Day
-UID:1482873545-3964-137@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171016
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171015
-SUMMARY:Tag des weißen Stockes
-UID:1482873545-3964-138@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hinduistisch
-DTEND;VALUE=DATE:20171020
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171019
-SUMMARY:Diwalifest
-UID:1482873545-3964-139@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20171022
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171021
-SUMMARY:Geburt des Bab 
-UID:1482873545-3964-140@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171101
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171031
-SUMMARY:Reformationstag
-UID:1482873545-3964-141@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171102
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171101
-SUMMARY:Allerheiligen
-UID:1482873545-3964-142@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171103
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171102
-SUMMARY:Allerseelen
-UID:1482873545-3964-143@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:sikh
-DTEND;VALUE=DATE:20171105
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171104
-SUMMARY:Geburt Guru Nanak 
-UID:1482873545-3964-144@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171110
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171109
-SUMMARY:Mauerfall 1989
-UID:1482873545-3964-145@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171112
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171111
-SUMMARY:St. Martin 
-UID:1482873545-3964-146@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171112
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171111
-SUMMARY:Beginn 5.Jahreszeit (Karneval)
-UID:1482873545-3964-147@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bahai
-DTEND;VALUE=DATE:20171113
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171112
-SUMMARY:Geburt des Bahá’u’lláh 
-UID:1482873545-3964-148@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171117
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171116
-SUMMARY:Internationaler Tag für Toleranz
-UID:1482873545-3964-149@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171120
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171119
-SUMMARY:Volkstrauertag
-UID:1482873545-3964-150@milgrim
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171121
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171120
+DESCRIPTION:(säkular) Der 20. September ist der Jahrestag der Erklärung d
+ er Kinderrechte im Jahr 1989 durch die Vereinten Nationen. Deutschland fei
+ ert den Weltkindertag jedes Jahr am 20. September\, ebenso wie Österreich
+ . In über 145 Ländern macht der Weltkindertag auf die Rechte der Kinder 
+ in der Welt aufmerksam. Es werden Kinderfeste gefeiert oder sonstige schö
+ ne Dinge mit Kindern unternommen. In den Bundsländern Berlin\, Brandenbur
+ g\, Mecklenburg-Vorpommern\, Sachsen-Anhalt\, Sachen\, Thüringen wird tra
+ ditionell der Internationale Kindertag am 1. Juni gefeiert. \n
+DTEND;VALUE=DATE:20180921
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180921
 SUMMARY:Weltkindertag
-UID:1482873545-3964-151@milgrim
+UID:1517411776-27546-150@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171123
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171122
-SUMMARY:Buß- und Bettag 
-UID:1482873545-3964-152@milgrim
+DESCRIPTION:(jüdisch) Sieben Tage lang in Israel\, außerhalb acht Tage\, 
+ soll man sein festes Haus verlassen und in Laubhütten wohnen\, um daran z
+ u erinnern\, dass die Kinder Israel 40 Jahre durch die Wüste wanderten un
+ d von Gott beschützt wurden. Die Hütten müssen unter freiem Himmel\nste
+ hen und dürfen nur mit Laub bedeckt werden.
+DTEND;VALUE=DATE:20180930
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180923
+SUMMARY:Sukkot / ???????
+UID:1517411776-27546-151@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171126
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171125
-SUMMARY:Internationaler Tag gegen Gewalt gegen Frauen
-UID:1482873545-3964-153@milgrim
+DESCRIPTION:(alevitisch) Im Anschluss an das zwölftägige Muharrem-Fasten 
+ wird dieses Fest gefeiert. Es wird eine süße Suppe (Aschure) gekocht und
+  als Symbol der Dankbarkeit unter Bekannten\, Verwandten und Nachbarn vert
+ eilt und gemeinsam gegessen. Die Anzahl der Zutaten (zwölf) und die Tage 
+ des Fastens sollen an das Leid der heiligen zwölf Imame erinnern. Der Asc
+ hure-Kult soll auch an die Arche Noah erinnern. Noah hatte der Überliefer
+ ung zufolge mit den Resten seiner Vorräte diese Speise zubereitet.
+DTEND;VALUE=DATE:20180924
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180924
+SUMMARY:Asure-Feier
+UID:1517411776-27546-152@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171127
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171126
+DESCRIPTION:(säkular) Begründet wurde der Tag der Bisexualität im Jahre 
+ 1999 von den drei US-amerikanischen Bürgerrechtlern. Im Gegensatz zu viel
+ en ähnlichen Aktionstagen der Lesben\, Schwule\, Bi- und Transsexuellen B
+ ewegung soll der Tag der Bisexualität als Reaktion auf die Vorurteile und
+  Marginalisierung bisexueller Personen sowohl in der heterosexuellen Gesel
+ lschaft als auch in der LGBT-Community hinweisen. Dabei geht die Wahl des 
+ Datums auf die erste Veranstaltung unter diesem Namen im Jahr 1999 zurück
+ \, die auf der International Lesbian and Gay Association abgehalten wurde 
+ und eben in die Woche rund um den 23. September fiel. Während dieser Akti
+ onstag anfangs noch lediglich regional begangen wurde\, erfährt das Datum
+  inzwischen weltweite Aufmerksamkeit u.a. in Deutschland\, Japan\, Neuseel
+ and\, Schweden und Großbritannien.\n
+DTEND;VALUE=DATE:20180924
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180924
+SUMMARY:Tag der Bisexualität
+UID:1517411776-27546-153@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Die bundesweite Interkulturelle Woche (IKW) ist eine
+  Initiative der Deutschen Bischofskonferenz\, der Evangelischen Kirche in 
+ Deutschland und der Griechisch-Orthodoxen Metropolie. Sie findet seit 1975
+  Ende September statt und wird von Kirchen\, Gewerkschaften\, Wohlfahrtsve
+ rbänden\, Kommunen\, Integrationsbeauftragten und -beiräten\, Migranteno
+ rganisationen sowie Initiativgruppen unterstützt und mitgetragen. In mehr
+  als 550 Städten und Gemeinden werden rund 5.000 Veranstaltungen durchgef
+ ührt. Der Ende September abgehaltene bundesweite Tag des Flüchtlings ist
+  Bestandteil der IKW.
+DTEND;VALUE=DATE:20180929
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20180923
+SUMMARY:Interkulturelle Woche
+UID:1517411776-27546-154@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) Jeden Schabbat (Samstag) trägt man in der Synagoge 
+ einen Abschnitt aus der Thora (5 Bücher Moses) vor\, so dass man im Ablau
+ f eines Jahres die Thora einmal komplett gelesen hat. An Simchat Thora wir
+ d der Zyklus der Thora-Lesung abgeschlossen und anschließend von vorne be
+ gonnen. Bei diesem sehr fröhlichen Fest wird mit den Thorarollen auf dem 
+ Arm durch die Synagoge getanzt\, als Ausdruck der Verbundenheit und Liebe 
+ zur Schrift.
+DTEND;VALUE=DATE:20181001
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181001
+SUMMARY:Schlussfest Achter Tag / ?????????? ??????? / Schmini Azeret
+UID:1517411776-27546-155@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) Ende des Sukkots
+DTEND;VALUE=DATE:20181001
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181001
+SUMMARY:Ende Sukkot
+UID:1517411776-27546-156@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Die Generalversammlung der Vereinten Nationen erklä
+ rte den 1. Oktober im Jahr 1990 zum Welttag der älteren Menschen. Mit die
+ sem Tag soll auf die Chancen und anstehenden Herausforderungen in Bezug au
+ f die immer älter werdende Gesellschaft aufmerksam gemacht und eine Diskr
+ iminierung älterer Menschen reduzieren werden.
+DTEND;VALUE=DATE:20181002
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181002
+SUMMARY:Internationaler Tag der älteren Menschen
+UID:1517411776-27546-157@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(jüdisch) Jeden Schabbat (Samstag) trägt man in der Synagoge 
+ einen Abschnitt aus der Thora (5 Bücher Moses) vor\, so dass man im Ablau
+ f eines Jahres die Thora einmal komplett gelesen hat. An Simchat Thora wir
+ d der Zyklus der Thora-Lesung abgeschlossen und anschließend von vorne be
+ gonnen. Bei diesem sehr fröhlichen Fest wird mit den Thorarollen auf dem 
+ Arm durch die Synagoge getanzt\, als Ausdruck der Verbundenheit und Liebe 
+ zur Schrift.
+DTEND;VALUE=DATE:20181003
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181003
+SUMMARY:Freude der Tora / ???????? ??????? / Simchat Tora 
+UID:1517411776-27546-158@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Mit dem Nationalfeiertag der Deutschen Einheit am 3.
+  Oktober soll an das historische Ereignis der deutschen Wiedervereinigung 
+ erinnert werden. Am 3. Oktober 1990 hörte die Deutsche Demokratische Repu
+ blik (DDR) als souveräner Staat auf zu existieren und trat der Bundesrepu
+ blik Deutschland (BRD) bei.  Traditionell wird für diesen Tag ein Bürger
+ fest organisiert\, bei dem sich auf der sogenannten »Ländermeile« die B
+ undesländer und die Regierung vorstellen. 2018 findet dieses in Berlin st
+ att.
+DTEND;VALUE=DATE:20181004
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181004
+SUMMARY:Tag der Deutschen Einheit
+UID:1517411776-27546-159@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Die traditionellen buddhistischen Kathina Zeremo
+ nien werden zum Vollmond am Ende der Regenzeit begangen. Nach unserer Zeit
+ rechnung ist das der Vollmond des gregorianischen Monats Oktober bzw. Nove
+ mber. Jedoch variieren die Termine der Feierlichkeiten. Das Wort "Kathina"
+  stammt aus der Pali-Sprache und bedeutet soviel wie: "Die Gabe\, die gro�
+ �en Nutzen bringen wird". Die Kathina Rituale\, deren wesentliches Element
+  es ist den Mönchen einer Klosters neue Roben zu schenken\, sind vor alle
+ m im Theravada Buddhismus üblich.\nDie dreimonatige Regenzeit ist für bu
+ ddhistische Mönche und Nonnen des Theravada-Buddhismus nicht nur eine Zei
+ t intensiver Meditation. In diesen drei Monaten des buddhistischen Jahres 
+ ist auch ein Studium des Dhamma Vinaya üblich. Der Vinaya ist der Teil de
+ s Pali Kanons\, der die Ordensregeln sowie deren Entstehungsgeschichte ent
+ hält. Für Mönche (Bhikkhu-Patimokkha) existieren im Pali Kanon 227 Rege
+ ln\, für Nonnen (Bhikkhuni-Patimokkha) 311 Regeln.\n
+DTEND;VALUE=DATE:20181006
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181006
+SUMMARY:Kathina (Theravada)
+UID:1517411776-27546-160@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Die Christen danken Gott für die eingebra
+ chte Ernte und für alles\, was den Menschen zum Leben geschenkt wird. Die
+  Kirche wird mit\nFrüchten\, Gemüse\, Getreide\, Brot und Blumen geschm�
+ �ckt.
+DTEND;VALUE=DATE:20181008
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181008
+SUMMARY:Erntedankfest
+UID:1517411776-27546-161@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Aktionstag wurde vom Internationalen Gewerkschaf
+ tsbund im Jahr 2006 als internationaler Tag für Gute Arbeit ins Leben ger
+ ufen. Der Tag wurde zum ersten Mal im Jahr 2008 begangen. An diesem Tag tr
+ eten die Gewerkschaften weltweit und öffentlich für die Herstellung mens
+ chenwürdiger Arbeitsbedingungen ein. Darunter versteht der Internationale
+ n Gewerkschaftsbund insbesondere ein Verbot der Kinderarbeit\, Maßnahmen\
+ , die der Benachteiligung von Frauen am Arbeitsplatz entgegenwirken\, ein 
+ Hinwirken auf „qualitativ hochwertige öffentliche Dienste“\, den Schu
+ tz der Umwelt\, einen hinreichenden Arbeitsschutz der Beschäftigten und e
+ ine angemessene soziale Sicherung. (Mehr Informationen: http://www.ituc-cs
+ i.org/world-day-for-decent-work?lang=de)\n
+DTEND;VALUE=DATE:20181008
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181008
+SUMMARY:Welttag für menschenwürdige Arbeit
+UID:1517411776-27546-162@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(buddhistisch) Lha Bab Duechen ist einer der vier großen Festt
+ age (duechen) im Jahr. Dieser Tag ist mit Buddha Shakyamunis Herabstieg au
+ s der Götterwelt verbunden. An diesem Tag werden die Wirkungen positiver 
+ und negativer Handlungen zehn Millionen Mal vervielfacht.
+DTEND;VALUE=DATE:20181011
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181011
+SUMMARY:Lha Bab Duechen
+UID:1517411776-27546-163@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Internationale Mädchentag auch Welt-Mädchentag
+  genannt ist ein von den Vereinten Nationen initiierter Aktionstag. Er sol
+ l in jedem Jahr am 11. Oktober einen Anlass geben\, um auf die weltweit vo
+ rhandenen Benachteiligungen von Mädchen hinzuweisen. Der Internationale M
+ ädchentag verfolgt das Ziel\, auf die schwierige Situation von Mädchen i
+ n vielen Ländern der Welt aufmerksam zu machen. Durch begleitende Kampagn
+ en sollen Möglichkeiten zur Verbesserung der Situation gezeigt werden. In
+  diesem Sinne wird z.B. eine gezielte Förderung von Mädchen und jungen F
+ rauen durch Bildung\, Bekämpfung von Zwangsehe\, Gleichberechtigung in al
+ len Lebensbereichen und keine Toleranz für Gewalt gegen Mädchen und jung
+ e Frauen im Namen von Tradition oder Kultur\, gefordert.
+DTEND;VALUE=DATE:20181012
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181012
+SUMMARY:Internationaler Mädchentag
+UID:1517411776-27546-164@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Coming-out-Tag wird seit 1988 am 11. Oktober jed
+ es Jahres begangen. An diesem Tag werden Schwule\, Lesben\, Bisexuelle\, T
+ ransgender (LGBT+) weltweit dazu aufgerufen\, sofern sie sich persönlich 
+ dazu bereit sehen\, sich öffentlich zu ihrer sexuellen Orientierung zu be
+ kennen. Die Tradition des Coming Out Day geht auf den zweiten nationalen "
+ March on Washington for Lesbian and Gay Rights" zurück. Am 11. Oktober 19
+ 87 demonstrierten rund 500.000 Menschen in der US-amerikanischen Hauptstad
+ t Washington D.C. für die Gleichberechtigung Homosexueller. Bereits am er
+ sten offiziell gefeierten Coming Out Day im Jahr 1988 haben Tausende Schwu
+ le und Lesben ihre Namen in US-amerikanischen Zeitungen veröffentlichen l
+ assen. Mit diesem Tag soll vielen Menschen\, besonders Jugendlichen\, Mut 
+ gemacht werden ihre sexuelle Orientierung nicht weiter zu verheimlichen\, 
+ sondern mit anderen zu teilen. Außerdem soll auf Konflikte und Probleme j
+ unger Menschen\, die aufgrund ihrer nicht-heterosexueller Orientierung ent
+ stehen\, hingewiesen werden. 
+DTEND;VALUE=DATE:20181012
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181012
+SUMMARY:Internationaler Coming-Out Day
+UID:1517411776-27546-165@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Als Tag des weißen Stockes nutzen weltweit Blindenv
+ erbände den 15. Oktober\, um auf die Situation blinder und sehbehinderter
+  Menschen aufmerksam zu machen. Am 15. Oktober 1964 übergab US-Präsident
+  Lyndon B. Johnson in einem symbolischen Akt Langstöcke an Menschen mit B
+ lindheit und starker Sehbehinderung\, was als Beginn des systematischen Or
+ ientierungs- und Mobilitätstrainings gilt. Der weiße Stock wurde somit o
+ ffiziell als Schutz und Erkennungszeichen blinder Menschen anerkannt.
+DTEND;VALUE=DATE:20181016
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181016
+SUMMARY:Tag des weißen Stocks
+UID:1517411776-27546-166@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Durga Puja ist im Hinduismus das Fest zu Ehren d
+ er Göttin Durga. Sie ist die wohl populärste Form der Göttin\, die in u
+ nterschiedlichen Erscheinungsformen existiert\, gütig ebenso wie strafend
+ . Nach dem hinduistischen Mondkalender wird Durga Puja Ende September oder
+  im Oktober gefeiert. Besonders in Bengalen\, Assam sowie dem hinduistisch
+ en Nepal\, wo man dasselbe Fest Dasain nennt\, feiern es die Menschen zehn
+  Tage lang. In Westbengalen mit der Hauptstadt Kolkata ist es sogar das wi
+ chtigste Fest des gesamten Jahres. In anderen Gegenden Indiens feiern die 
+ Menschen zur selben Zeit zwar auch die Göttin\, aber unter anderem Namen\
+ , wie etwa Amba\, Mutter Erde. Auch zelebriert man andere Bräuche und ken
+ nt einen anderen mythologischen Hintergrund. Das Fest heißt hier Navaratr
+ i oder Navaratra (Fest der neun Nächte). Im Norden von Indien ist dasselb
+ e Fest als Dashahara oder Vijaya-Dashami (Zehn Siegestage) Rama geweiht\, 
+ einer Inkarnation Vishnus. Die Bedeutung von Durga Puja gilt nicht nur dem
+  religiösen Aspekt\, es handelt sich auch um ein wichtiges gesellschaftli
+ ches Ereignis im Jahreslauf. In allen Dörfern und Städten feiern die Men
+ schen die Ankunft der Göttin mit Konzerten\, Tanzdramen und prunkvollen P
+ rozessionen. \n
+DTEND;VALUE=DATE:20181019
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181014
+SUMMARY:Durga Puja
+UID:1517411776-27546-167@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Die zehnarmige Göttin Durga war von den Götter
+ n beauftragt\, den Büffeldämon Mahishasura zu besiegen. Das Gute möge d
+ as\nSchlechte besiegen\, auch in uns selbst. Das Fest dauert neun Nächte 
+ (Navaratri)\, in denen verschiedene Göttinnen verehrt werden.
+DTEND;VALUE=DATE:20181019
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181015
+SUMMARY:Navaratri der Durga Puja
+UID:1517411776-27546-168@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Fest des Siegs der Göttin Durga gegen den Dämo
+ n Mahishasura und des Siegs über das Schlechte.
+DTEND;VALUE=DATE:20181019
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181019
+SUMMARY:Dussehrafest
+UID:1517411776-27546-169@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Welttag der Intersexualität findet am 26. Oktob
+ er statt und soll an die Intersexualität erinnern. Die Medizin spricht vo
+ n Intersexualität\, wenn ein Mensch genetisch oder anatomisch und hormone
+ ll nicht eindeutig dem weiblichen oder dem männlichen Geschlecht zugeordn
+ et werden kann. Betsy Driver und Emi Koyama haben den Internationale Tag d
+ er Intersexualität im Jahr 2004 ins Leben gerufen\, um Scharm\, Geheimhal
+ tung und unerwünschte kosmetische Genitaloperationen an intersexuellen Ki
+ ndern zu beenden. Der Aktionstag erinnert an die erste öffentlich Demonst
+ ration von intersexuellen Menschen in Nordamerika am 26. Oktober 1996\, we
+ lche vor allen durch Morgan Holmes\, Max Beck und ihren Freunden geprägt 
+ wurde.
+DTEND;VALUE=DATE:20181027
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181027
+SUMMARY:Welttag der Intersexualität
+UID:1517411776-27546-170@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Vor 1517 gab es verschiedene Missstände i
+ n der katholischen Kirche. Dazu gehörte der „Ablasshandel“: durch die
+  Zahlung von Geld\nglaubte man\, Gottes Strafe für Sünden zu verringern.
+  Martin Luther formulierte 95 Thesen\, die er an den Papst sandte und an d
+ er Tür\nder Schloss-Kirche in Wittenberg anschlug – der Beginn der Refo
+ rmation. Sein Protest veränderte Deutschland und die Kirche. Was als\nRef
+ orm gedacht war\, entwickelte sich zu einer Spaltung. Heute sind viele Mis
+ sstände in der katholischen Kirche überwunden. Es gibt\neine Ökumene: g
+ emeinsame Gottesdienste und Gespräche. Im Jubiläumsjahr wird es viele ge
+ meinsame Veranstaltungen von evange -\nlischen und katholischen Christen g
+ eben.
+DTEND;VALUE=DATE:20181101
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181101
+SUMMARY:Reformationstag 
+UID:1517411776-27546-171@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Halloween benennt die Volksbräuche am Abend und in 
+ der Nacht vor dem Hochfest Allerheiligen\, vom 31. Oktober auf den 1. Nove
+ mber. Dieses Brauchtum war ursprünglich vor allem im katholischen Irland 
+ verbreitet. Die irischen Einwanderer in den USA pflegten ihre Bräuche in 
+ Erinnerung an die Heimat und bauten sie aus. Im Zuge der irischen Renaissa
+ nce nach 1830 wurden in der frühen volkskundlichen Literatur eine Kontinu
+ ität der Halloweenbräuche seit der Keltenzeit und Bezüge zu heidnischen
+  und keltischen Traditionen angenommen. Seit den 1990er Jahren verbreiten 
+ sich Halloween-Bräuche in US-amerikanischer Ausprägung auch im kontinent
+ alen Europa. Dabei gibt es deutliche regionale Unterschiede. So vermischte
+ n sich insbesondere im deutschsprachigen Raum heimatliche Bräuche mit Hal
+ loween.
+DTEND;VALUE=DATE:20181101
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181101
+SUMMARY:Halloween
+UID:1517411776-27546-172@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.kath.) Katholische Christen gedenken an diesem Tag der 
+ großen Schar der Heiligen im Himmel\, mit denen sie sich heute schon in\n
+ Gemeinschaft wissen. In Verbindung mit dem Allerseelentag am 2. November i
+ st er seit dem 11. Jahrhundert auch ein Tag zur Erinnerung\nan alle Toten 
+ und zur Besinnung auf das eigene Sterben. Man schmückt die Gräber mit br
+ ennenden Lichtern.
+DTEND;VALUE=DATE:20181102
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181102
+SUMMARY:Allerheiligen
+UID:1517411776-27546-173@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.kath.) An Allerseelen begeht die römisch-katholische K
+ irche das Gedächtnis ihrer Verstorbenen. Durch Gebet\, Fürbitte\, Almose
+ n und Friedhofsgänge gedenken die Menschen aller Armen Seelen im Fegefeue
+ r und wenden ihnen Ablässe zu. In der römisch-katholischen Kirche hat de
+ r Allerseelenablass daher eine besondere Bedeutung.
+DTEND;VALUE=DATE:20181103
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181103
+SUMMARY:Allerseelen
+UID:1517411776-27546-174@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(hinduistisch) Diwali (Lichterkette) ist das große Fest der Li
+ chter\, die dem Königspaar Sita und Rama den Weg durch den Wald nach Haus
+ e leuchteten\,\nnachdem Rama den Dämonen Ravana besiegt und Sita befreit 
+ hatte. Öllampen in den Fenstern laden die Glücksgöttin Laksmi ein.\nDas
+  Fest symbolisiert den Sieg des Guten über das Schlechte\, des Lichts üb
+ er die Dunkelheit und der Reinheit über die Unreinheit.
+DTEND;VALUE=DATE:20181110
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181107
+SUMMARY:Diwalifest
+UID:1517411776-27546-175@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Der Báb (arab.: das Tor)\, der Vorläufer Bahá’u’
+ lláhs\, wurde 1819 in Schiras\, Iran\, geboren.
+DTEND;VALUE=DATE:20181110
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181110
+SUMMARY:Geburt des Bab
+UID:1517411776-27546-176@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Nachdem sich schon seit Beginn des Jahres 1938 die a
+ ntijüdische Politik verschärft hatte\, begann im Herbst 1938 eine neue P
+ hase der Verfolgung. Ein Attentat auf den Diplomaten Ernst von Rath in der
+  deutschen Botschaft in Paris nahm das nationalsozialistische Regime zum A
+ nlass für organisierte Gewaltmaßnahmen gegen Juden im ganzen Reich. In d
+ er Nacht vom 9. auf den 10. November brachen Polizisten und Einheiten der 
+ Sturmabteilung (SA) und Schutzstaffel (SS) in Zivil in jüdischen Gottesh�
+ �user ein\, zerstörten alles und zündeten gesamte jüdische Einrichtunge
+ n an. Wie überall in Deutschland wurden auch in Köln\, ungehindert von d
+ er Bevölkerung oder sogar von ihr unterstützt\, ungezählte Wohnungen un
+ d Geschäfte verwüstet\, jüdische Menschen misshandelt und gedemütigt. 
+ Hunderte von jüdischen Männern verhaftete man und inhaftierte sie im Kon
+ zentrationslager Dachau. Die Synagogen in der Roonstraße\, der Glockengas
+ se und der Körnerstraße brannten nieder\, die Synagoge in der St.-Apern-
+ Straße wurde verwüstet. Ebenso wurden die Synagogen in Mülheim und Deut
+ z zerstört. Seit 1978 hat der 9. November auch auf Bundesebene den ihm ge
+ bührenden Rang als festes Erinnerungsdatum eingenommen. Ein gemeinsamer V
+ orstoß des Zentralrats der Juden\, der Gewerkschaft Erziehung und Wissens
+ chaft (GEW) und der Kultusministerkonferenz löste damals zahlreiche Schul
+ veranstaltungen aus. In Köln findet jährlich eine Gedenkveranstaltung in
+  der Synagoge in der Roonstraße sowie am Lern- und Gedenkort Jawne statt.
+DTEND;VALUE=DATE:20181110
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181110
+SUMMARY:Reichsprogromnacht
+UID:1517411776-27546-177@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Die Berliner Mauer mit einer Gesamtlänge von 155 km
+  rund um Westberlin bildete die Grenze zwischen Ost und West. Bewachung du
+ rch Grenzsoldaten\, Stacheldraht\, Minen und Selbstschussanlagen machten d
+ iese Grenzbefestigung nahezu unüberwindlich. Sie war das abschreckendste 
+ Symbol des Ost-West-Konfliktes. In den ersten Oktobertagen 1989 trotz mass
+ iver staatlicher Einschüchterungsversuche in Plauen\, Leipzig und in ande
+ ren Städten der ehemaligen DDR gingen Demonstranten gegen die SED-Diktatu
+ r auf die Straße. Immer mehr Menschen schlossen sich den Protesten an und
+  forderten eine Änderung der Reisegesetze.  Anfang November 1989 wurde ei
+ n Entwurf veröffentlicht\, der für heftige Proteste sorgte\, weil er den
+  Bürgern der DDR eine nur mit erheblichen Einschränkungen versehene Reis
+ efreiheit in Aussicht stellte. So spitzte sich die Lage der Demonstratione
+ n zu und die Öffentlichkeit forderte die Öffnung der Grenzübergänge. A
+ m späten Abend des 9. Novembers fand eine Pressekonferenz statt\, auf der
+  die neuen Reiseregelungen der DDR-BürgerInnen veröffentlicht wurden. Ze
+ itgleich spielen sich tumultartige Szenen vor der Mauer ab\, die von den G
+ renzkommandanten nicht zurückgehalten werden können.  Eine halbe Stunde 
+ vor Mitternacht entschließen sich einzelne Grenzkommandanten aufgrund des
+  Druckes der Demonstranten\, die Tore einfach zu öffnen. Die Mauer ist ge
+ fallen. Auch an anderen Übergängen der innerdeutschen Grenze strömen ta
+ usende DDR-Bürgerinnen und Bürger in die Bundesrepublik und werden im We
+ sten begeistert empfangen. Der Mauerfall am Abend des 9. Novembers stellt 
+ das Ende der DDR und den Anfang der Wiedervereinigung dar.  Er erinnert au
+ ch an erfolgreichen Widerstand und Bürgermut. Außerdem markiert der Maue
+ rfall das Ende des Kalten Krieges.\n
+DTEND;VALUE=DATE:20181110
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181110
+SUMMARY:Mauerfall 1989
+UID:1517411776-27546-178@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(bahai) Bahá´u´lláh (arab.: Herrlichkeit Gottes)\, der Stif
+ ter der Bahá’í-Religion\, wurde 1817 in Teheran\, Iran\, geboren.
+DTEND;VALUE=DATE:20181111
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181111
+SUMMARY:Geburt Bahá'u'Iláhs
+UID:1517411776-27546-179@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Der römische Soldat und spätere Bischof 
+ Martin von Tours teilte freiwillig seinen Mantel mit einem frierenden Bett
+ ler. Später erkannte er\,\ndass ihm in dem Bettler Christus selbst begegn
+ et war. Denn Jesus sagt: „Was ihr für einen meiner geringsten Brüder g
+ etan habt\, das\nhabt ihr mir getan“ (Mt 25\,40). An seinem Namenstag fi
+ nden Martinszüge statt\, bei denen die Kinder bunte Laternen tragen und\n
+ Martinslieder singen.
+DTEND;VALUE=DATE:20181112
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181112
+SUMMARY:Sankt Martin
+UID:1517411776-27546-180@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) In Karnevalshochburgen wird der 11. November als Elf
+ ter im Elften um 11:11 Uhr als Beginn der Karnevalssession gefeiert. Die S
+ ession beginnt am 11. November\, dem Elften im Elften\, mit der Ausrufung 
+ des Karnevals und der offiziellen Vorstellung des neuen Dreigestirns oder 
+ des Prinzenpaares\, das in der Session amtiert. Die Session endet mit Abla
+ uf des Dienstags vor Aschermittwoch.
+DTEND;VALUE=DATE:20181112
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181112
+SUMMARY:Beginn 5. Jahreszeit 
+UID:1517411776-27546-181@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der internationale Tag für Toleranz findet am 16. N
+ ovember statt. Der Gedenktag geht zurück auf den 16. November 1995: damal
+ s unterzeichneten 185 Mitgliedsstaaten der UNESCO feierlich die Erklärung
+  der Prinzipien zur Toleranz. Seitdem erinnert die UNESCO mit dem Tag für
+  Toleranz jährlich an jene Regeln\, die ein menschenwürdiges Zusammenleb
+ en der unterschiedlichen Kulturen und Religionen auf unserem Planeten erm�
+ �glichen. Laut UNESCO ist Toleranz "eine Tugend\, die den Frieden ermögli
+ cht"\, und dazu beiträgt\, "den Kult des Krieges durch eine Kultur des Fr
+ iedens zu überwinden". Sie stützt sich auf Werte wie die Menschenrechte 
+ und Grundfreiheiten eines jeden Menschen. 
+DTEND;VALUE=DATE:20181117
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181117
+SUMMARY:Internationaler Tag für Toleranz
+UID:1517411776-27546-182@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Der Volkstrauertag ist in Deutschland ein staatliche
+ r Gedenktag und gehört zu den sogenannten stillen Tagen. Er wird seit 195
+ 2 zwei Sonntage vor dem ersten Adventssonntag begangen und erinnert an die
+  Kriegstoten und Opfer der Gewaltherrschaft aller Nationen.
+DTEND;VALUE=DATE:20181119
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181119
+SUMMARY:Volkstrauertag
+UID:1517411776-27546-183@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) In der zwölften Nacht (vom 28. auf den 29. Novembe
+ r 2017) des dritten islamischen Monats (12. Rabi’u-l-Awwal) wird die Geb
+ urt des\nPropheten gefeiert. Er wurde um 570 n.Chr. in Mekka geboren. Heut
+ zutage wird der Geburtstag Mohammads (Fsmi) – Mevlid Kandili im\nTürkis
+ chen\, maulid an-nab? im Arabischen –\, in Moscheen in Form von Zeremoni
+ en und Gebeten oder auch in besinnlichen\nFamilienrunden gefeiert.
+DTEND;VALUE=DATE:20181120
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181119
+SUMMARY:Mohammeds Geburtstag (fsmi) / ???? ????? / Mevlid Kandili
+UID:1517411776-27546-184@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(islamisch) 
+DTEND;VALUE=DATE:20181121
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181121
+SUMMARY:Muhammeds Geburtstag (ind.)
+UID:1517411776-27546-185@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan.) Buße als In-Sich-Gehen und Sich-Besinnen ist ei
+ n wichtiger Bestandteil aller Religionen. 1878 wurde der Buß- und Bettag 
+ auf preußische\nInitiative deutschlandweit als gesetzlicher Feiertag bis 
+ 1995 festgesetzt. In vielen Gemeinden finden heute abends besondere\nGotte
+ sdienste statt.
+DTEND;VALUE=DATE:20181122
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181122
+SUMMARY:Buß- und Bettag
+UID:1517411776-27546-186@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Sikh) Guru Nanak ist ein Heiliger und Religionsstifter des Sik
+ hismus. Er predigte vor Jain- und Hindu-Tempeln und vor muslimischen Mosch
+ een und zog dabei eine Vielzahl von Sikhs (Schülern) an. Er war der Ansic
+ ht\, Religion sollte die Menschen verbinden. Nanak lehnte deshalb das Aske
+ tentum ab und forderte von seinen Nachfolgern eine disziplinierte\, aber d
+ er Welt zugewandte Lebensweise. Beeinflusst von unterschiedlichen lokalen 
+ Lehrtraditionen predigte er die Einheit Gottes jenseits der vielfältigen 
+ religiösen Formen seiner Anhänger.
+DTEND;VALUE=DATE:20181124
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181124
+SUMMARY:Geburt Guru Nanak Jayanti 
+UID:1517411776-27546-187@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) Der Totensonntag ist in den evangelischen 
+ Kirchen in Deutschland ein Gedenktag für die Verstorbenen. Er ist der let
+ zte Sonntag vor dem ersten Adventssonntag. König Friedrich Wilhelm III. v
+ on Preußen bestimmte durch Kabinettsorder im Jahr 1816 für die evangelis
+ che Kirche in den preußischen Gebieten jeweils dem letzten Sonntag vor de
+ m 1. Advent\, zum „allgemeinen Kirchenfest zur Erinnerung an die Verstor
+ benen“.
+DTEND;VALUE=DATE:20181126
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181126
 SUMMARY:Totensonntag
-UID:1482873545-3964-154@milgrim
+UID:1517411776-27546-188@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20171130
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171129
-SUMMARY:Mohammads Geburtstag (allg.) 
-UID:1482873545-3964-155@milgrim
+DESCRIPTION:(säkular) Der internationale Tag gegen Gewalt an Frauen ist ei
+ n am 25. November jährlich abgehaltener Gedenk- und Aktionstag zur Bekäm
+ pfung von Diskriminierung und Gewalt jeder Form gegenüber Frauen und Mäd
+ chen. Strategien zur Bekämpfung sollen damit in den Mittelpunkt gestellt 
+ werden.
+DTEND;VALUE=DATE:20181126
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181126
+SUMMARY:Internationaler Tag gegen Gewalt an Frauen
+UID:1517411776-27546-189@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:islamisch
-DTEND;VALUE=DATE:20171201
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171130
-SUMMARY:Mohammads Geburtstag (Indien)
-UID:1482873545-3964-156@milgrim
+DESCRIPTION:(säkular) Am 1. Dezember rücken die Themen HIV und Aids am We
+ lt-Aids-Tag wieder in den Fokus der Öffentlichkeit. Trotz Forschungserfol
+ gen und neuer Therapien sind HIV und Aids weiterhin nicht heilbar. In Köl
+ n bekommen pro Woche drei Menschen ein positives Testergebnis mitgeteilt. 
+ Betroffen sind sowohl homosexuelle\, heterosexuelle als auch bisexuelle Me
+ nschen. Weltweit leben etwa 36\,7 Millionen Menschen mit HIV\, rund 2\,1 M
+ illionen kommen pro Jahr dazu. Noch lange haben nicht alle Zugang zu den l
+ ebensnotwendigen Medikamenten und noch immer erleben Betroffene Ausgrenzun
+ g und Stigmatisierung. Ziel ist es\, dafür zu sensibilisieren\, wie wicht
+ ig ein Miteinander ohne Vorurteile und Ausgrenzung ist – und zu zeigen\,
+  dass wir alle positiv zusammen leben können. (Weitere Informationen: htt
+ p://www.aidshilfe-koeln.de/events/welt-aids-tag/).
+DTEND;VALUE=DATE:20181202
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181202
+SUMMARY:Welt-AIDS-Tag
+UID:1517411776-27546-190@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171204
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171203
-SUMMARY:1.Advent 
-UID:1482873545-3964-157@milgrim
+DESCRIPTION:(christ.evan./kath.) Mit dem ersten Adventssonntag beginnt für
+  evangelische und katholische Christen die Vorbereitungszeit auf das Weihn
+ achtsfest. Advent\nmeint die Ankunft Gottes in der Welt durch die Geburt s
+ eines Sohnes Jesus Christus. Es ist eine Zeit freudiger Erwartung. Zugleic
+ h\nbezieht sich die adventliche Vorbereitung und Freude auf die Wiederkunf
+ t Christi am Ende der Zeiten. Mit dem ersten Advent beginnt\ndas neue Kirc
+ henjahr.
+DTEND;VALUE=DATE:20181203
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181203
+SUMMARY:1. Advent
+UID:1517411776-27546-191@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171207
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171206
-SUMMARY:Nikolaustag
-UID:1482873545-3964-158@milgrim
+DESCRIPTION:(jüdisch) Als die Hellenisten Israel eroberten\, den Tempel en
+ tweihten und somit die Ausübung des Tempeldienstes durch die Juden unmög
+ lich machten\, stand eine kleine Gruppe von Juden (Makkabäer) gegen die U
+ nterdrücker auf und besiegte sie schließlich im Jahre 165 vor \nder chri
+ stlichen Zeitrechnung. Um die Heiligkeit des Tempels wieder herstellen zu 
+ können\, bedurfte es eines speziellen Olivenöls\, dessen Herstellung ach
+ t Tage dauert\, um die Menora (den siebenarmigen Tempelleuchter) zu entzü
+ nden. Als man ein Kännchen Öl fand\, das eigentlich nur für einen Tag g
+ ereicht hätte\, geschah das Wunder\, und es brannte acht Tage lang. In di
+ eser Zeit konnte neues koscheres Olivenöl gewonnen werden. Bis heute zün
+ det man daher beginnend am 25. Kislew acht Tage lang die Channukia an. Die
+ ser Leuchter\nhat insgesamt neun Flammen. Jeden Tag wird eine Kerze mehr a
+ ngezündet\, bis am achten Tag alle Kerzen brennen. Die neunte Kerze ist d
+ er so genannte Schamasch – der Diener\, der die acht Flammen entzündet.
+DTEND;VALUE=DATE:20181110
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181203
+SUMMARY:Beginn Chanukka Fest / ????? 
+UID:1517411776-27546-192@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171209
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171208
-SUMMARY:Mariä Emfängnis 
-UID:1482873545-3964-159@milgrim
+DESCRIPTION:(säkular) Der Internationale Tag der Menschen mit Behinderung 
+ ist ein von den Vereinten Nationen ausgerufener Gedenk- und Aktionstag\, d
+ er das Bewusstsein der Öffentlichkeit für die Probleme von Menschen mit 
+ Behinderung wachhalten und den Einsatz für die Würde\, Rechte und das Wo
+ hlergehen dieser Menschen fördern soll. Organisationen werden dazu aufger
+ ufen\, sich den Belangen und Problemen behinderter Menschen zu widmen und 
+ diese publik zu machen. Des Weiteren sollen Veranstaltungen organisiert we
+ rden\, bei denen Menschen mit Behinderungen und ihre Bedürfnisse für ein
+ e nachhaltige Lebensgrundlage im Mittelpunkt stehen. Die Beiträge Behinde
+ rter für die Gesellschaft sollen gefeiert und die Umsetzung international
+ er Normen und Standards gefördert werden (Weitere Informationen [eng.] ht
+ tps://www.un.org/development/desa/disabilities/).
+DTEND;VALUE=DATE:20181204
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181204
+SUMMARY:Internationaler Tag der Menschen mit Behinderung
+UID:1517411776-27546-193@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171211
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171210
-SUMMARY:2.Advent 
-UID:1482873545-3964-160@milgrim
+DESCRIPTION:(christ.evan./kath./ortho./altorient.) An diesem Tag werden in 
+ Erinnerung an den Bischof Nikolaus von Myra (heutige Türkei) die Kinder b
+ eschenkt. Der „Nikolaus“ besucht\nam Vorabend die Kinder und verteilt 
+ Süßigkeiten und Stutenkerle in die Stiefel und Schuhe. So feiert man ein
+ en Heiligen\, der durch seine\nvielen überlieferten Wohltaten die unendli
+ che Liebe Gottes für die Menschen erahnen lässt. Auch in der Orthodoxen 
+ Kirche ist der Heilige\nNikolaus einer der hochverehrten Heiligen.
+DTEND;VALUE=DATE:20181207
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181207
+SUMMARY:Sankt Nikolaus
+UID:1517411776-27546-194@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:jüdisch
-DTEND;VALUE=DATE:20171214
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171213
-SUMMARY:Chanukkafest (bis 20.12.) 
-UID:1482873545-3964-161@milgrim
+DESCRIPTION:(buddhistisch) Der Bodhi-Tag oder auch Erleuchtungstag genannt\
+ , ist ein Gedenktag im Mahayana-Buddhismus\, der an die Erleuchtung von Sh
+ akyamuni Buddha unter dem Bodhi-Baum erinnert.
+DTEND;VALUE=DATE:20181209
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181209
+SUMMARY:Bodhi Budhas Erleuchtung
+UID:1517411776-27546-195@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171218
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171217
-SUMMARY:3.Advent 
-UID:1482873545-3964-162@milgrim
+DESCRIPTION:(christ.kath.) Die römisch-katholische Kirche begeht am 8. Dez
+ ember\, neun Monate vor dem Fest der Geburt Mariens\, das Hochfest der Emp
+ fängnis Mariens. Das Fest ging aus dem ursprünglichen Fest Mariä Empfä
+ ngnis hervor\, das auch von der anglikanischen Kirche gefeiert wird. Die o
+ rthodoxen Kirchen feiern Mariä Empfängnis am 9. Dezember\, haben aber we
+ gen ihres nicht-augustinischen Verständnisses der Erbsünde keine speziel
+ len Lehren darüber.
+DTEND;VALUE=DATE:20181209
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181209
+SUMMARY:Mariä Empfängnis
+UID:1517411776-27546-196@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171219
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171218
-SUMMARY:internationaler Tag der Migrantinnen und Migranten
-UID:1482873545-3964-163@milgrim
+DESCRIPTION:(christ.evan./kath.) -
+DTEND;VALUE=DATE:20181210
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181210
+SUMMARY:2. Advent
+UID:1517411776-27546-197@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20171221
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171220
+DESCRIPTION:(säkular) Der Tag der Menschenrechte wird am 10. Dezember gefe
+ iert und ist der Gedenktag zur Allgemeinen Erklärung der Menschenrechte\,
+  die am 10. Dezember 1948 durch die Generalversammlung der Vereinten Natio
+ nen verabschiedet wurde. Die Menschenrechte sollen jedes menschliche Leben
+  auf der Erde betreffen. Durch die Tatsache\, dass dieses Ziel noch nicht 
+ erreicht ist\, nutzen Menschenrechtsorganisationen den Tag der Menschenrec
+ hte\, um auf diesen Missstand hinzuweisen. Jedes Jahr steht ein anderes Th
+ ema im Mittelpunkt des Internationalen Tages der Menschenrechte. Es geht b
+ eispielsweise um religiöse oder politische Verfolgung\, Benachteiligung v
+ on Frauen\, Kinderarbeit oder die Benachteiligung von Menschen aufgrund ih
+ rer Hautfarbe. 
+DTEND;VALUE=DATE:20181211
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181211
+SUMMARY:Internationaler Tag der Menschenrechte
+UID:1517411776-27546-198@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(christ.evan./kath.) -
+DTEND;VALUE=DATE:20181217
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181217
+SUMMARY:3. Advent
+UID:1517411776-27546-199@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Im Dezember 2000 haben die Vereinten Nationen den 18
+ . Dezember als den Internationalen Tag der Migranten ausgerufen. Am 18. De
+ zember 1990 wurde die Internationale Konvention zum Schutz der Rechte alle
+ r Migranten und ihrer Familienangehörigen von der Vollversammlung der Ver
+ einten Nationen angenommen. Sie ist der internationale Standard mit dem Re
+ gierungen ihre nationalen gesetzlichen Schutzmechanismen messen sollten. D
+ ie Konvention selbst ist jedoch noch nicht in Kraft getreten\, da von den 
+ 20 nötigen Ratifizierungen bis jetzt nur 17 zustande gekommen sind. Im De
+ zember 2000 haben die Vereinten Nationen den Ersten Internationalen Tag de
+ r Migranten ausgerufen.
+DTEND;VALUE=DATE:20181219
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181219
+SUMMARY:Internationaler Tag der Migrant/-innen
+UID:1517411776-27546-200@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Im Dezember 2005 hatte die Generalversammlung der Ve
+ reinten Nationen Solidarität als einen wesentlichen und allgemeingültige
+ n Wert anerkannt und den 20. Dezember zum Internationalen Tag der menschli
+ chen Solidarität erklärt. (Weitere Informationen: http://www.unric.org/d
+ e/uno-schlagzeilen/26873-internationaler-tag-der-menschlichen-solidaritaet
+ )
+DTEND;VALUE=DATE:20181221
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181221
 SUMMARY:Internationaler Tag der menschlichen Solidarität
-UID:1482873545-3964-164@milgrim
+UID:1517411776-27546-201@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171225
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171224
-SUMMARY:4.Advent 
-UID:1482873545-3964-165@milgrim
+DESCRIPTION:(christ.evan./kath.) -
+DTEND;VALUE=DATE:20181224
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181224
+SUMMARY:4. Advent
+UID:1517411776-27546-202@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171225
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171224
+DESCRIPTION:(christ.evan./kath.) Am Vorabend von Weihnachten brennen die Ke
+ rzen des Weihnachtsbaumes zum ersten Mal. In den Familien und unter Freund
+ en werden\nGeschenke verteilt und Armen und Bedürftigen wird gespendet. D
+ ie meisten Christen besuchen den Gottesdienst an diesem Abend\,\nin dem si
+ e feiern\, dass Gott Mensch wurde. So erhalten nach christlicher Überzeug
+ ung auch die Menschen Anteil an Gott.
+DTEND;VALUE=DATE:20181225
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181225
 SUMMARY:Heiligabend
-UID:1482873545-3964-166@milgrim
+UID:1517411776-27546-203@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171226
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171225
-SUMMARY:Weihnachtsfest
-UID:1482873545-3964-167@milgrim
+DESCRIPTION:(christ.evan./kath.) Zwei Tage lang feiern die Christen die Geb
+ urt Jesu Christi in Bethlehem. Das Fest wird seit 336 n.Chr. an dem Tag de
+ r\nWintersonnenwende (auf der Nordhalbkugel der Erde) anstelle des römisc
+ hen Festes des Sonnengottes (Sol Invictus) gefeiert. So wird\ndeutlich: In
+  Christus wird die „Sonne der Barmherzigkeit“ und das wahre „Licht d
+ er Welt“ gefeiert.
+DTEND;VALUE=DATE:20181226
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181226
+SUMMARY:1.Weihnachtsfeiertag
+UID:1517411776-27546-204@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christlich
-DTEND;VALUE=DATE:20171227
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171226
-SUMMARY:Weihnachtsfest 
-UID:1482873545-3964-168@milgrim
+DESCRIPTION:(christ.evan./kath.) Zwei Tage lang feiern die Christen die Geb
+ urt Jesu Christi in Bethlehem. Das Fest wird seit 336 n.Chr. an dem Tag de
+ r\nWintersonnenwende (auf der Nordhalbkugel der Erde) anstelle des römisc
+ hen Festes des Sonnengottes (Sol Invictus) gefeiert. So wird\ndeutlich: In
+  Christus wird die „Sonne der Barmherzigkeit“ und das wahre „Licht d
+ er Welt“ gefeiert.
+DTEND;VALUE=DATE:20181227
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181227
+SUMMARY:2.Weihnachtsfeiertag
+UID:1517411776-27546-205@freeside
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:
-DTEND;VALUE=DATE:20180101
-DTSTAMP:20161227T211905Z
-DTSTART;VALUE=DATE:20171231
+DESCRIPTION:(jüdisch) 
+DTEND;VALUE=DATE:20181229
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20181229
+SUMMARY:Fasten 10. Tewet (Asara b'Tevet)
+UID:1517411776-27546-206@freeside
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(säkular) Silvester\, der 31. Dezember\, ist seit der gregoria
+ nischen Kalenderreform 1582 der letzte Tag des Jahres. Der Name erinnert a
+ n Papst\nSilvester\, der am 31. Dezember 335 starb. In Gottesdiensten refl
+ ektieren die Christen die Ereignisse des zu Ende gehenden Jahres und\nbitt
+ en um Gottes Segen für das neue Jahr.
+DTEND;VALUE=DATE:20190101
+DTSTAMP:20180131T151616Z
+DTSTART;VALUE=DATE:20190101
 SUMMARY:Silvester
-UID:1482873545-3964-169@milgrim
+UID:1517411776-27546-207@freeside
 END:VEVENT
 END:VCALENDAR
