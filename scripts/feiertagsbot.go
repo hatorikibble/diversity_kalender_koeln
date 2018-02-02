@@ -9,7 +9,6 @@ import (
 	"log"
 	"math/rand"
 	"net/http"
-	"net/url"
 	"os"
 	"text/template"
 	"time"
@@ -26,9 +25,10 @@ type Configuration struct {
 }
 
 type Feiertag struct {
-	Date     string
-	Name     string
-	Religion string
+	Date        string
+	Name        string
+	Type        string
+	Description string
 }
 
 type Status struct {
@@ -95,8 +95,8 @@ func check_current_date() {
 	current_time := time.Now()
 	date_string := current_time.Format("02.01.2006")
 	// debug
-	if configuration.Debug == 1{
-		date_string = "15.02.2017"
+	if configuration.Debug == 1 {
+		date_string = "14.04.2018"
 		logger.Printf("DEBUG: set date_string to  %s", date_string)
 	}
 	logger.Printf("Today is %s", date_string)
@@ -122,14 +122,12 @@ func check_current_date() {
 
 func create_tweet_message(f Feiertag) string {
 	var tpl_output bytes.Buffer
-	wikisearch_url := "https://de.wikipedia.org/w/index.php?search=" + url.QueryEscape(f.Name)
-	tweet_templates := [3]string{"Übrigens: Heute ist \"{{.Name}}\"!",
-		"Kleine Erinnerung: heute ist \"{{.Name}}\"!",
-		"Na? Auch fast auf \"{{.Name}}\" vergessen?"}
-	wiki_templates := [2]string{"(Mehr Infos dazu in der Wikipedia " + wikisearch_url + ")", "(Wikipedia weiß mehr: " + wikisearch_url + ")"}
+	tweet_templates := [3]string{"Übrigens: Heute ist \"{{.Name}}\"! {{.Description}}",
+		"Kleine Erinnerung: heute ist \"{{.Name}}\"! {{.Description}}",
+		"Na? Auch fast auf \"{{.Name}}\" vergessen? {{.Description}}"}
 
 	// randomisierter name, damit template neu gebaut wird
-	tmpl, err := template.New(fmt.Sprintf("tweet %d", rand.Intn(100))).Parse(tweet_templates[rand.Intn(len(tweet_templates))] + " " + wiki_templates[rand.Intn(len(wiki_templates))])
+	tmpl, err := template.New(fmt.Sprintf("tweet %d", rand.Intn(100))).Parse(tweet_templates[rand.Intn(len(tweet_templates))])
 	check(err)
 
 	err = tmpl.Execute(&tpl_output, f)
@@ -146,6 +144,12 @@ func tweet(tweet_text string) {
 	// I don't know about any possible timeout, therefore
 	// initialize new for every tweet
 	api := anaconda.NewTwitterApi(configuration.Twitter_access_token, configuration.Twitter_access_token_secret)
+
+	// is the tweet too long -> truncate
+	if len(tweet_text) > 280 {
+		tweet_text = tweet_text[0:275] + "..."
+
+	}
 
 	if configuration.Debug == 1 {
 		logger.Printf("DEBUG-MODE! I am not posting '%s'!", tweet_text)
